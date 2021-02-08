@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:58
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T2_01L.avi,  50901,  28.3066,Time deployment,  14.8198,T2_01,Jake,,,,,,,,,,,,,sp,,1,Yes
+T2_01L.avi, 108727,  60.4644,Time deployment,  46.9775,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,2,No
+T2_01L.avi,  30513,  16.9686,Time deployment,   3.4818,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,No
+T2_01L.avi, 119871,  66.6617,Time deployment,  53.1748,T2_01,Jake,,,,,,,,,,,Laridae,Sternula,sp,48,1,Yes
+T2_01L.avi, 111898,  62.2278,Time deployment,  48.7410,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,2,No

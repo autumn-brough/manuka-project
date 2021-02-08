@@ -1,0 +1,13 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:20
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T3_04L.avi,  44396,  24.6891,Time deployment,   8.3845,196,2251,T3_04,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Passing,,1,
+T3_04L.avi,  54388,  30.2458,Time deployment,  13.9412,85,2287,T3_04,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,1,Arrival
+T3_04L.avi,  54412,  30.2591,Time deployment,  13.9545,83,2288,T3_04,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,1,Departure
+T3_04L.avi, 111981,  62.2739,Time deployment,  45.9693,1026,1136,T3_04,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Passing,,2,
+T3_04L.avi, 118944,  66.1461,Time deployment,  49.8415,1005,1170,T3_04,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,2,New_flower
+T3_04L.avi, 128401,  71.4053,Time deployment,  55.1007,435,1702,T3_04,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting nectar,,3,Arrival
+T3_04L.avi, 130080,  72.3390,Time deployment,  56.0344,201,2105,T3_04,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,4,New_flower
+T3_04L.avi, 130281,  72.4508,Time deployment,  56.1461,183,2167,T3_04,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,4,Departure

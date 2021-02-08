@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:15:13
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T3_21L.avi,  37559,  20.8870,Time deployment,   7.6610,T3_21,Jake,,,,,,,,,,,,,sp,,1,No
+T3_21L.avi, 101533,  56.4637,Time deployment,  43.2377,T3_21,Jake,,,,,,,,,,,,,sp1,,1,No
+T3_21L.avi, 126001,  70.0706,Time deployment,  56.8446,T3_21,Jake,,,,,,,,,,,,,sp2,,1,No
+T3_21L.avi,  74782,  41.5871,Time deployment,  28.3611,T3_21,Jake,,,,,,,,,,,Formicidae,,sp,,2,No
+T3_21L.avi,  51251,  28.5013,Time deployment,  15.2753,T3_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,No
+T3_21L.avi,  76207,  42.3796,Time deployment,  29.1536,T3_21,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No

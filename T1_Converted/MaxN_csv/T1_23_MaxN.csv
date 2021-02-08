@@ -1,0 +1,18 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:41
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_23L.avi,  31439,  17.4836,Time deployment,   5.0462,T1_23,Jake,,,,,,,,,,,,,,,1,No
+T1_23L.avi, 127914,  71.1345,Time deployment,  58.6970,T1_23,Jake,,,,,,,,,,,,,sp,,1,No
+T1_23L.avi,  37677,  20.9526,Time deployment,   8.5152,T1_23,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,4,No
+T1_23L.avi,  39677,  22.0648,Time deployment,   9.6274,T1_23,Jake,,,,,,,,,,,Formicidae,,sp,,2,No
+T1_23L.avi, 120577,  67.0543,Time deployment,  54.6168,T1_23,Jake,,,,,,,,,,,Formicidae,Leptomyrmex,rufipes,38,3,No
+T1_23L.avi, 126028,  70.0856,Time deployment,  57.6482,T1_23,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,No
+T1_23L.avi,  40263,  22.3907,Time deployment,   9.9533,T1_23,Jake,,,,,,,,,,,Order_Diptera,,sp,,2,No
+T1_23L.avi,  80362,  44.6902,Time deployment,  32.2528,T1_23,Jake,,,,,,,,,,,Order_Diptera,,sp1,,2,No
+T1_23L.avi,  41999,  23.3561,Time deployment,  10.9187,T1_23,Jake,,,,,,,,,,,Pompilidae,,sp,,1,No
+T1_23L.avi,  27918,  15.5255,Time deployment,   3.0881,T1_23,Jake,,,,,,,,,,,Pompilidae,Turneromyia,sp,31,1,No
+T1_23L.avi,  78437,  43.6197,Time deployment,  31.1823,T1_23,Jake,,,,,,,,,,,Syrphidae,Episyrphys,viridaureus,3,1,No
+T1_23L.avi, 120795,  67.1755,Time deployment,  54.7381,T1_23,Jake,,,,,,,,,,,Tephritidae,,sp,,1,No
+T1_23L.avi,  39129,  21.7601,Time deployment,   9.3227,T1_23,Jake,,,,,,,,,,,Vespidae,Polistes,sp,,1,No

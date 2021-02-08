@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Friday, February 01, 2019 14:31:11
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T4_17L.avi,  78849,  43.8488,Time deployment,  19.6813,T4_17,Jake,,,,,,,,,,,,,sp,,1,No
+T4_17L.avi,  47032,  26.1550,Time deployment,   1.9875,T4_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T4_17L.avi,  59259,  32.9546,Time deployment,   8.7871,T4_17,Jake,,,,,,,,,,,Asilinae,,sp,,1,Yes
+T4_17L.avi,  53906,  29.9778,Time deployment,   5.8103,T4_17,Jake,,,,,,,,,,,Formicidae,,sp,,2,No
+T4_17L.avi,  43458,  24.1675,Time deployment,   0.0000,T4_17,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,No
+T4_17L.avi,  81671,  45.4182,Time deployment,  21.2507,T4_17,Jake,,,,,,,,,,,Order_Araneae,,,73,1,No

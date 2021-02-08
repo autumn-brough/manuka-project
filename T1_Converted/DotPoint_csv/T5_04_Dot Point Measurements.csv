@@ -1,0 +1,31 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_03L.avi,   1321,   0.7346,Time deployment,   0.0000,630,2221,T5_03,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,J,Collecting pollen or nectar,,1,New_flower
+T5_03L.avi,   1321,   0.7346,Time deployment,   0.0000,399,926,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,   1321,   0.7346,Time deployment,   0.0000,597,951,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,   1321,   0.7346,Time deployment,   0.0000,808,1129,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,   8991,   5.0000,Time deployment,   4.2654,542,2167,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,2,New_flower
+T5_03L.avi,   8991,   5.0000,Time deployment,   4.2654,669,1046,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,   8991,   5.0000,Time deployment,   4.2654,586,686,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,   8991,   5.0000,Time deployment,   4.2654,463,936,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  20704,  11.5137,Time deployment,  10.7791,702,2152,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,3,New_flower
+T5_03L.avi,  32272,  17.9468,Time deployment,  17.2122,183,1702,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,4,New_flower
+T5_03L.avi,  37764,  21.0010,Time deployment,  20.2664,378,1670,T5_03,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Passing,,5,
+T5_03L.avi,  43534,  24.2098,Time deployment,  23.4751,283,1727,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,6,New_flower
+T5_03L.avi,  43534,  24.2098,Time deployment,  23.4751,419,1877,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,7,New_flower
+T5_03L.avi,  50131,  27.8784,Time deployment,  27.1438,869,1432,T5_03,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Attracted,,8,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,700,1057,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,542,928,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,401,935,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,175,854,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,205,732,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,160,674,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,133,534,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  54838,  30.4961,Time deployment,  29.7614,442,908,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_03L.avi,  96025,  53.4006,Time deployment,  52.6660,239,1886,T5_03,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,9,Arrival
+T5_03L.avi,  99229,  55.1824,Time deployment,  54.4478,1268,360,T5_03,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,10,
+T5_03L.avi, 102223,  56.8474,Time deployment,  56.1128,974,1480,T5_03,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,11,New_flower
+T5_03L.avi, 109213,  60.7346,Time deployment,  60.0000,313,1922,T5_03,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,9,Departure

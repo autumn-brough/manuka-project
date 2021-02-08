@@ -1,0 +1,13 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_28L.avi,  10731,   5.9676,Time deployment,   2.9029,1260,1612,T4_28,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,Arrival
+T4_28L.avi,  10836,   6.0260,Time deployment,   2.9613,1261,1612,T4_28,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T4_28L.avi,  21076,  11.7206,Time deployment,   8.6559,987,1635,T4_28,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,2,New_flower
+T4_28L.avi,  23099,  12.8456,Time deployment,   9.7809,1484,1841,T4_28,Jake,,,,,,,,,,,Order_Araneae,,sp,,1,AD,Guarding bait,,,
+T4_28L.avi,  88792,  49.3783,Time deployment,  46.3135,331,1666,T4_28,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Attracted,,3,
+T4_28L.avi,  92455,  51.4153,Time deployment,  48.3506,1428,1719,T4_28,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting pollen or nectar,,4,Arrival
+T4_28L.avi,  95372,  53.0375,Time deployment,  49.9728,1387,1714,T4_28,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting pollen or nectar,,4,Departure
+T4_28L.avi,  96623,  53.7332,Time deployment,  50.6684,1397,928,T4_28,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,,

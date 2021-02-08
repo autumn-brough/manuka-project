@@ -1,0 +1,26 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:08
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_08L.avi,   7876,   4.3799,Time deployment,   0.2113,756,1573,T2_08,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,1,
+T2_08L.avi,   7876,   4.3799,Time deployment,   0.2113,344,2403,T2_08,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,2,
+T2_08L.avi,   8686,   4.8304,Time deployment,   0.6618,582,1963,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,3,New_flower
+T2_08L.avi,   9859,   5.4827,Time deployment,   1.3141,550,1958,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,3,
+T2_08L.avi,   9859,   5.4827,Time deployment,   1.3141,720,2157,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,4,New_flower
+T2_08L.avi,  10187,   5.6651,Time deployment,   1.4965,1059,242,T2_08,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Passing,,5,
+T2_08L.avi,  11554,   6.4253,Time deployment,   2.2567,697,1692,T2_08,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting nectar,,6,New_flower
+T2_08L.avi,  22523,  12.5253,Time deployment,   8.3567,980,2190,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,7,New_flower
+T2_08L.avi,  22523,  12.5253,Time deployment,   8.3567,908,2182,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,4,
+T2_08L.avi,  22523,  12.5253,Time deployment,   8.3567,528,1928,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,3,
+T2_08L.avi,  22523,  12.5253,Time deployment,   8.3567,502,1851,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,8,New_flower
+T2_08L.avi,  31889,  17.7338,Time deployment,  13.5652,746,1617,T2_08,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting nectar,,6,Departure
+T2_08L.avi,  31929,  17.7561,Time deployment,  13.5875,550,2102,T2_08,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting nectar,,6,Arrival
+T2_08L.avi,  34173,  19.0040,Time deployment,  14.8354,753,2285,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_08L.avi,  34173,  19.0040,Time deployment,  14.8354,731,1851,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_08L.avi,  34173,  19.0040,Time deployment,  14.8354,812,1856,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_08L.avi,  34173,  19.0040,Time deployment,  14.8354,830,2169,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_08L.avi,  34173,  19.0040,Time deployment,  14.8354,620,1984,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_08L.avi,  34173,  19.0040,Time deployment,  14.8354,383,2488,T2_08,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_08L.avi,  73515,  40.8825,Time deployment,  36.7139,600,2329,T2_08,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting nectar,,6,Departure
+T2_08L.avi,  76841,  42.7322,Time deployment,  38.5636,502,2010,T2_08,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Collecting nectar,,9,Arrival

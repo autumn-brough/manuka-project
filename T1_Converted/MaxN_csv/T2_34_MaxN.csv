@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:15:00
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T2_34L.avi,  17357,   9.6524,Time deployment,   2.1805,T2_34,Jake,,,,,,,,,,,,,sp,,1,No
+T2_34L.avi,  26874,  14.9449,Time deployment,   7.4730,T2_34,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,No
+T2_34L.avi,  75498,  41.9853,Time deployment,  34.5134,T2_34,Jake,,,,,,,,,,,Formicidae,,sp,,2,No
+T2_34L.avi, 118658,  65.9871,Time deployment,  58.5152,T2_34,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T2_34L.avi,  50625,  28.1532,Time deployment,  20.6812,T2_34,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,No

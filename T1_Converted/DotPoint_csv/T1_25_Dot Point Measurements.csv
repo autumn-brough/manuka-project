@@ -1,0 +1,1004 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:16:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T1_25L.avi,    724,   0.4026,Time deployment,   0.0067,728,1655,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,1,Arrival
+T1_25L.avi,    724,   0.4026,Time deployment,   0.0067,1070,1753,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,2,
+T1_25L.avi,    724,   0.4026,Time deployment,   0.0067,731,1494,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,3,
+T1_25L.avi,    883,   0.4910,Time deployment,   0.0951,654,1810,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,1,Departure
+T1_25L.avi,    888,   0.4938,Time deployment,   0.0979,743,1781,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,1,Arrival
+T1_25L.avi,    889,   0.4944,Time deployment,   0.0984,802,1766,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,3,Arrival
+T1_25L.avi,   1040,   0.5784,Time deployment,   0.1824,686,1845,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,2,Arrival
+T1_25L.avi,   1141,   0.6345,Time deployment,   0.2386,612,1766,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,2,Departure
+T1_25L.avi,   1587,   0.8825,Time deployment,   0.4866,605,1830,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,3,Departure
+T1_25L.avi,   1877,   1.0438,Time deployment,   0.6479,700,1836,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,1,Departure
+T1_25L.avi,   1909,   1.0616,Time deployment,   0.6657,823,2202,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,2,Arrival
+T1_25L.avi,   1966,   1.0933,Time deployment,   0.6974,784,2213,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,2,Departure
+T1_25L.avi,   2380,   1.3235,Time deployment,   0.9276,996,1985,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,3,Arrival
+T1_25L.avi,   2982,   1.6583,Time deployment,   1.2624,972,2015,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,4,Arrival
+T1_25L.avi,   3152,   1.7529,Time deployment,   1.3569,1001,1905,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,3,Departure
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,812,1876,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,890,1833,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,852,1679,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1042,1714,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,758,1746,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,684,1856,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,604,1930,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,841,2069,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,897,2044,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,933,2049,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1037,2048,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,872,2133,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,720,2121,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,663,2328,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,671,2318,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,636,2375,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,650,2395,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,702,2346,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,558,2249,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,561,2149,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,618,1927,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1284,907,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1299,840,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1419,552,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1307,1923,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1222,1915,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1225,1892,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1216,1483,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1229,1449,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1270,1362,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3199,   1.7790,Time deployment,   1.3830,1046,607,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,   3616,   2.0109,Time deployment,   1.6149,1302,1552,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,5,New_flower
+T1_25L.avi,   3770,   2.0965,Time deployment,   1.7006,985,1992,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,4,
+T1_25L.avi,   3770,   2.0965,Time deployment,   1.7006,882,1863,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,6,
+T1_25L.avi,   3770,   2.0965,Time deployment,   1.7006,789,2069,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,7,
+T1_25L.avi,   3770,   2.0965,Time deployment,   1.7006,550,2429,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,8,
+T1_25L.avi,   3842,   2.1366,Time deployment,   1.7406,893,1751,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,7,Arrival
+T1_25L.avi,   4026,   2.2389,Time deployment,   1.8430,818,1689,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,7,Departure
+T1_25L.avi,   4092,   2.2756,Time deployment,   1.8797,666,1779,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,7,Arrival
+T1_25L.avi,   4158,   2.3123,Time deployment,   1.9164,625,1753,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,7,Departure
+T1_25L.avi,   4204,   2.3379,Time deployment,   1.9419,969,2013,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,4,Departure
+T1_25L.avi,   4417,   2.4563,Time deployment,   2.0604,1000,2005,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,4,Arrival
+T1_25L.avi,   4757,   2.6454,Time deployment,   2.2495,960,2344,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,9,Arrival
+T1_25L.avi,   4874,   2.7105,Time deployment,   2.3145,668,2346,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,10,New_flower
+T1_25L.avi,   5041,   2.8034,Time deployment,   2.4074,591,2364,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,11,New_flower
+T1_25L.avi,   5151,   2.8645,Time deployment,   2.4686,931,1946,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,4,Departure
+T1_25L.avi,   5498,   3.0575,Time deployment,   2.6616,735,2416,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,9,Departure
+T1_25L.avi,   6059,   3.3695,Time deployment,   2.9735,998,1997,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,12,Arrival
+T1_25L.avi,   6709,   3.7310,Time deployment,   3.3350,985,2012,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,13,Arrival
+T1_25L.avi,   7071,   3.9323,Time deployment,   3.5363,1049,2041,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,12,Departure
+T1_25L.avi,   7189,   3.9979,Time deployment,   3.6019,1054,2025,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,13,Departure
+T1_25L.avi,   7462,   4.1497,Time deployment,   3.7538,694,1691,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,13,Arrival
+T1_25L.avi,   7511,   4.1770,Time deployment,   3.7810,668,1689,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,13,Departure
+T1_25L.avi,   7688,   4.2754,Time deployment,   3.8794,1034,2003,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,13,Arrival
+T1_25L.avi,   8022,   4.4611,Time deployment,   4.0652,525,2057,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,14,Arrival
+T1_25L.avi,   8056,   4.4800,Time deployment,   4.0841,967,2334,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,15,Arrival
+T1_25L.avi,   8280,   4.6046,Time deployment,   4.2087,1283,1570,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,16,New_flower
+T1_25L.avi,   8280,   4.6046,Time deployment,   4.2087,897,2545,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,17,New_flower
+T1_25L.avi,   8364,   4.6513,Time deployment,   4.2554,928,1902,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,13,Departure
+T1_25L.avi,   8848,   4.9205,Time deployment,   4.5245,957,1938,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,18,Arrival
+T1_25L.avi,   9020,   5.0161,Time deployment,   4.6202,563,2138,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,14,Departure
+T1_25L.avi,   9070,   5.0439,Time deployment,   4.6480,954,1889,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,18,Departure
+T1_25L.avi,   9205,   5.1190,Time deployment,   4.7231,1052,2010,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,14,New_flower
+T1_25L.avi,   9246,   5.1418,Time deployment,   4.7459,980,2360,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,19,Arrival
+T1_25L.avi,   9385,   5.2191,Time deployment,   4.8232,974,2341,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,19,Departure
+T1_25L.avi,   9395,   5.2247,Time deployment,   4.8287,643,2411,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,20,Arrival
+T1_25L.avi,   9563,   5.3181,Time deployment,   4.9221,663,2452,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,20,Departure
+T1_25L.avi,   9606,   5.3420,Time deployment,   4.9461,702,2436,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,21,New_flower
+T1_25L.avi,  10362,   5.7624,Time deployment,   5.3665,715,1748,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,22,Arrival
+T1_25L.avi,  10364,   5.7635,Time deployment,   5.3676,1006,2003,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,25,Arrival
+T1_25L.avi,  10447,   5.8097,Time deployment,   5.4137,1437,1580,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,23,
+T1_25L.avi,  10447,   5.8097,Time deployment,   5.4137,656,1895,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,24,New_flower
+T1_25L.avi,  10647,   5.9209,Time deployment,   5.5250,705,1645,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,22,Departure
+T1_25L.avi,  10653,   5.9243,Time deployment,   5.5283,1019,1995,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,25,Departure
+T1_25L.avi,  11012,   6.1239,Time deployment,   5.7280,782,1724,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,26,Arrival
+T1_25L.avi,  11186,   6.2207,Time deployment,   5.8247,707,1828,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,27,Arrival
+T1_25L.avi,  11288,   6.2774,Time deployment,   5.8814,982,1981,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,29,Arrival
+T1_25L.avi,  11311,   6.2902,Time deployment,   5.8942,722,1828,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,27,
+T1_25L.avi,  11311,   6.2902,Time deployment,   5.8942,744,1848,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,26,
+T1_25L.avi,  11311,   6.2902,Time deployment,   5.8942,689,1804,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,28,
+T1_25L.avi,  11311,   6.2902,Time deployment,   5.8942,980,1989,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,29,
+T1_25L.avi,  11311,   6.2902,Time deployment,   5.8942,774,1476,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,30,
+T1_25L.avi,  11362,   6.3185,Time deployment,   5.9226,784,1923,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,28,Arrival
+T1_25L.avi,  11484,   6.3864,Time deployment,   5.9904,697,1830,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,27,Departure
+T1_25L.avi,  11564,   6.4309,Time deployment,   6.0349,864,1927,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,28,Departure
+T1_25L.avi,  11642,   6.4743,Time deployment,   6.0783,990,2008,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,29,Departure
+T1_25L.avi,  11653,   6.4804,Time deployment,   6.0844,651,1891,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,26,Departure
+T1_25L.avi,  11818,   6.5721,Time deployment,   6.1762,980,2326,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,31,Arrival
+T1_25L.avi,  11948,   6.6444,Time deployment,   6.2485,992,2002,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,32,Arrival
+T1_25L.avi,  11982,   6.6633,Time deployment,   6.2674,705,1704,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,33,Arrival
+T1_25L.avi,  12067,   6.7106,Time deployment,   6.3146,954,2020,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,32,Departure
+T1_25L.avi,  12190,   6.7790,Time deployment,   6.3830,681,1688,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,33,Departure
+T1_25L.avi,  12219,   6.7951,Time deployment,   6.3992,988,1987,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,32,Arrival
+T1_25L.avi,  12325,   6.8541,Time deployment,   6.4581,998,2283,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,31,Departure
+T1_25L.avi,  12471,   6.9353,Time deployment,   6.5393,1052,2036,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,34,Arrival
+T1_25L.avi,  12851,   7.1466,Time deployment,   6.7506,1116,2107,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,35,Arrival
+T1_25L.avi,  12918,   7.1839,Time deployment,   6.7879,972,2118,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,34,Departure
+T1_25L.avi,  13038,   7.2506,Time deployment,   6.8546,777,1671,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,34,Arrival
+T1_25L.avi,  13118,   7.2951,Time deployment,   6.8991,700,1647,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,34,Departure
+T1_25L.avi,  13201,   7.3412,Time deployment,   6.9453,856,2030,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,35,Departure
+T1_25L.avi,  13559,   7.5403,Time deployment,   7.1444,908,2110,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,36,Arrival
+T1_25L.avi,  13601,   7.5637,Time deployment,   7.1677,924,2087,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,36,Departure
+T1_25L.avi,  13736,   7.6387,Time deployment,   7.2428,812,2125,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,32,Departure
+T1_25L.avi,  13773,   7.6593,Time deployment,   7.2634,977,1999,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,36,Arrival
+T1_25L.avi,  13962,   7.7644,Time deployment,   7.3685,962,1977,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,36,Departure
+T1_25L.avi,  13985,   7.7772,Time deployment,   7.3813,792,2347,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,37,Arrival
+T1_25L.avi,  14171,   7.8807,Time deployment,   7.4847,650,2380,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,37,Departure
+T1_25L.avi,  14479,   8.0519,Time deployment,   7.6560,1001,1990,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,38,Arrival
+T1_25L.avi,  14584,   8.1103,Time deployment,   7.7144,802,1941,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,39,Arrival
+T1_25L.avi,  14650,   8.1470,Time deployment,   7.7511,780,1938,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,39,Departure
+T1_25L.avi,  14798,   8.2293,Time deployment,   7.8334,722,1768,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting nectar,,40,New_flower
+T1_25L.avi,  15093,   8.3934,Time deployment,   7.9974,1014,1974,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,38,Departure
+T1_25L.avi,  15332,   8.5263,Time deployment,   8.1304,1001,1995,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,41,Arrival
+T1_25L.avi,  15498,   8.6186,Time deployment,   8.2227,996,2292,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,42,New_flower
+T1_25L.avi,  15608,   8.6798,Time deployment,   8.2838,1016,1999,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,43,Arrival
+T1_25L.avi,  15739,   8.7526,Time deployment,   8.3567,1149,2018,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,43,Departure
+T1_25L.avi,  15763,   8.7660,Time deployment,   8.3700,970,2002,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,41,Departure
+T1_25L.avi,  16001,   8.8983,Time deployment,   8.5024,1046,2008,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,44,Arrival
+T1_25L.avi,  16068,   8.9356,Time deployment,   8.5397,1034,1997,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,44,Departure
+T1_25L.avi,  16377,   9.1074,Time deployment,   8.7115,833,1869,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,45,Arrival
+T1_25L.avi,  17223,   9.5779,Time deployment,   9.1820,471,2013,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,45,Departure
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,795,2036,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,736,1861,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,731,1778,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,630,2172,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,743,2241,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,882,2159,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,797,2020,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,928,2023,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,736,1992,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,949,2062,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,938,2046,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,924,1733,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,928,1650,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,890,1676,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,825,1686,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,789,1737,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,841,1652,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,884,1645,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1042,1470,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1116,1599,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,987,1738,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1034,2087,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1198,1851,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1104,2404,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1171,2226,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1502,938,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1289,918,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  17377,   9.6636,Time deployment,   9.2676,1330,1244,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  18482,  10.2781,Time deployment,   9.8821,975,2324,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,46,Arrival
+T1_25L.avi,  19550,  10.8720,Time deployment,  10.4760,866,2437,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,47,Arrival
+T1_25L.avi,  20164,  11.2134,Time deployment,  10.8175,859,2409,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,47,Departure
+T1_25L.avi,  20199,  11.2329,Time deployment,  10.8369,934,2337,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,46,Departure
+T1_25L.avi,  20199,  11.2329,Time deployment,  10.8369,938,2293,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,48,New_flower
+T1_25L.avi,  21098,  11.7328,Time deployment,  11.3369,1029,1999,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,49,Arrival
+T1_25L.avi,  21209,  11.7946,Time deployment,  11.3986,982,2017,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,49,Departure
+T1_25L.avi,  21803,  12.1249,Time deployment,  11.7290,1029,2025,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,50,New_flower
+T1_25L.avi,  21812,  12.1299,Time deployment,  11.7340,1059,2035,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,51,New_flower
+T1_25L.avi,  21841,  12.1460,Time deployment,  11.7501,1024,2054,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,50,Departure
+T1_25L.avi,  22330,  12.4180,Time deployment,  12.0220,699,2256,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,52,Departure
+T1_25L.avi,  22659,  12.6009,Time deployment,  12.2050,650,1743,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,51,Departure
+T1_25L.avi,  22864,  12.7149,Time deployment,  12.3190,918,2360,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,53,New_flower
+T1_25L.avi,  22902,  12.7361,Time deployment,  12.3401,694,1892,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,54,Arrival
+T1_25L.avi,  22929,  12.7511,Time deployment,  12.3551,946,2347,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,55,Arrival
+T1_25L.avi,  23019,  12.8011,Time deployment,  12.4052,627,1897,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,54,Departure
+T1_25L.avi,  23946,  13.3166,Time deployment,  12.9207,910,2334,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,56,Arrival
+T1_25L.avi,  24077,  13.3895,Time deployment,  12.9935,1224,2048,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,57,
+T1_25L.avi,  24077,  13.3895,Time deployment,  12.9935,748,1260,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,,,58,
+T1_25L.avi,  24818,  13.8016,Time deployment,  13.4056,542,2359,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,55,Departure
+T1_25L.avi,  25152,  13.9873,Time deployment,  13.5914,988,2017,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,59,Arrival
+T1_25L.avi,  25377,  14.1124,Time deployment,  13.7165,1023,2007,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,59,Departure
+T1_25L.avi,  25399,  14.1247,Time deployment,  13.7287,499,2195,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,60,New_flower
+T1_25L.avi,  25966,  14.4400,Time deployment,  14.0440,936,2362,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,59,New_flower
+T1_25L.avi,  26107,  14.5184,Time deployment,  14.1225,928,2290,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,62,New_flower
+T1_25L.avi,  26657,  14.8243,Time deployment,  14.4283,977,2349,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,61,Arrival
+T1_25L.avi,  26770,  14.8871,Time deployment,  14.4912,1001,2331,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,61,Departure
+T1_25L.avi,  27316,  15.1907,Time deployment,  14.7948,537,2368,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,59,Departure
+T1_25L.avi,  27634,  15.3676,Time deployment,  14.9716,1006,1999,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,59,Arrival
+T1_25L.avi,  28022,  15.5834,Time deployment,  15.1874,982,1976,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,59,Departure
+T1_25L.avi,  28100,  15.6267,Time deployment,  15.2308,1001,1992,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,63,Arrival
+T1_25L.avi,  28253,  15.7118,Time deployment,  15.3159,987,2002,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,63,Departure
+T1_25L.avi,  28535,  15.8686,Time deployment,  15.4727,820,2372,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,63,Arrival
+T1_25L.avi,  28597,  15.9031,Time deployment,  15.5072,970,2336,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,64,Arrival
+T1_25L.avi,  28764,  15.9960,Time deployment,  15.6000,420,2198,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,62,Departure
+T1_25L.avi,  29236,  16.2585,Time deployment,  15.8625,697,2131,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,62,Arrival
+T1_25L.avi,  29253,  16.2679,Time deployment,  15.8720,715,1827,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,65,Arrival
+T1_25L.avi,  29302,  16.2952,Time deployment,  15.8992,700,1846,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,65,Departure
+T1_25L.avi,  29598,  16.4598,Time deployment,  16.0638,497,2123,T1_25,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting nectar,,66,New_flower
+T1_25L.avi,  29712,  16.5232,Time deployment,  16.1272,538,1894,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,62,Departure
+T1_25L.avi,  29985,  16.6750,Time deployment,  16.2791,942,2349,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,68,New_flower
+T1_25L.avi,  30193,  16.7907,Time deployment,  16.3947,952,2334,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,69,Arrival
+T1_25L.avi,  30203,  16.7962,Time deployment,  16.4003,936,2347,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,69,Departure
+T1_25L.avi,  30252,  16.8235,Time deployment,  16.4275,980,2314,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,70,Arrival
+T1_25L.avi,  30316,  16.8591,Time deployment,  16.4631,929,1647,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,67,New_flower
+T1_25L.avi,  30670,  17.0559,Time deployment,  16.6600,715,1692,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,71,Arrival
+T1_25L.avi,  30879,  17.1722,Time deployment,  16.7762,682,1691,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,71,Departure
+T1_25L.avi,  31045,  17.2645,Time deployment,  16.8685,726,2074,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,72,Arrival
+T1_25L.avi,  32028,  17.8111,Time deployment,  17.4152,586,2134,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,66,Departure
+T1_25L.avi,  32031,  17.8128,Time deployment,  17.4169,707,2089,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,73,Arrival
+T1_25L.avi,  32050,  17.8234,Time deployment,  17.4274,545,2028,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,66,Arrival
+T1_25L.avi,  32348,  17.9891,Time deployment,  17.5931,607,2131,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,72,Departure
+T1_25L.avi,  32818,  18.2505,Time deployment,  17.8545,890,2365,T1_25,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting nectar,,77,Arrival
+T1_25L.avi,  33038,  18.3728,Time deployment,  17.9769,596,2125,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,73,Departure
+T1_25L.avi,  33086,  18.3995,Time deployment,  18.0036,800,2169,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,73,Arrival
+T1_25L.avi,  33131,  18.4245,Time deployment,  18.0286,699,1964,T1_25,Jake,,,,,,,,,,,,,sp,,1,AD,Attracted,,74,New_flower
+T1_25L.avi,  33161,  18.4412,Time deployment,  18.0453,790,2187,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,73,Departure
+T1_25L.avi,  33356,  18.5497,Time deployment,  18.1537,861,1776,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,75,Arrival
+T1_25L.avi,  33902,  18.8533,Time deployment,  18.4573,689,1915,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,76,Arrival
+T1_25L.avi,  33939,  18.8739,Time deployment,  18.4779,615,1800,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,75,Departure
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,532,2039,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,568,2015,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,586,2010,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,607,2108,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,494,2223,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,517,2152,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,584,2313,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,617,2386,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,733,2323,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,769,2238,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,756,2177,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,646,1882,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,758,1753,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,820,1756,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,882,1810,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,941,1632,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,974,1720,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,761,1748,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,977,1922,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,985,1969,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,921,2048,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,916,2092,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,957,2098,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,949,2108,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,906,2131,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,852,2162,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,589,1994,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1028,2123,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1399,570,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1302,1124,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1512,300,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1401,1868,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1039,2298,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  34135,  18.9829,Time deployment,  18.5869,1340,1277,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  34591,  19.2365,Time deployment,  18.8405,564,1835,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,76,Departure
+T1_25L.avi,  34755,  19.3277,Time deployment,  18.9317,664,2226,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,66,Departure
+T1_25L.avi,  34780,  19.3416,Time deployment,  18.9456,597,1966,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,66,Arrival
+T1_25L.avi,  34935,  19.4278,Time deployment,  19.0318,951,2305,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,79,New_flower
+T1_25L.avi,  35053,  19.4934,Time deployment,  19.0974,617,2138,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,77,Arrival
+T1_25L.avi,  35055,  19.4945,Time deployment,  19.0985,759,1861,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,78,Arrival
+T1_25L.avi,  35526,  19.7564,Time deployment,  19.3605,728,1756,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,78,Departure
+T1_25L.avi,  35542,  19.7653,Time deployment,  19.3694,776,1899,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,78,Arrival
+T1_25L.avi,  35743,  19.8771,Time deployment,  19.4811,640,2141,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,77,Departure
+T1_25L.avi,  36106,  20.0790,Time deployment,  19.6830,558,1990,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,77,Arrival
+T1_25L.avi,  36213,  20.1385,Time deployment,  19.7425,584,1966,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,80,Arrival
+T1_25L.avi,  36596,  20.3515,Time deployment,  19.9555,510,2054,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,80,Departure
+T1_25L.avi,  36738,  20.4304,Time deployment,  20.0345,800,2396,T1_25,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting nectar,,77,Departure
+T1_25L.avi,  37144,  20.6562,Time deployment,  20.2603,1021,1859,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,81,Arrival
+T1_25L.avi,  37155,  20.6623,Time deployment,  20.2664,1013,1861,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,81,Departure
+T1_25L.avi,  37174,  20.6729,Time deployment,  20.2769,789,1643,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,78,Departure
+T1_25L.avi,  37194,  20.6840,Time deployment,  20.2881,617,1917,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,77,Departure
+T1_25L.avi,  37347,  20.7691,Time deployment,  20.3732,790,1650,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,78,Arrival
+T1_25L.avi,  37638,  20.9309,Time deployment,  20.5350,903,1985,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,82,Arrival
+T1_25L.avi,  37813,  21.0283,Time deployment,  20.6323,833,2057,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,82,Departure
+T1_25L.avi,  37829,  21.0371,Time deployment,  20.6412,648,2136,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  38119,  21.1984,Time deployment,  20.8025,797,1745,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,82,Arrival
+T1_25L.avi,  38448,  21.3814,Time deployment,  20.9854,708,2195,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  38560,  21.4437,Time deployment,  21.0477,1062,1761,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  38640,  21.4882,Time deployment,  21.0922,1026,1779,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  38857,  21.6088,Time deployment,  21.2129,898,1755,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  39094,  21.7406,Time deployment,  21.3447,798,1766,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,82,Departure
+T1_25L.avi,  39604,  22.0242,Time deployment,  21.6283,787,1658,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,78,Departure
+T1_25L.avi,  39847,  22.1594,Time deployment,  21.7634,779,1673,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  39931,  22.2061,Time deployment,  21.8101,995,1861,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  39997,  22.2428,Time deployment,  21.8468,923,1907,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  40360,  22.4447,Time deployment,  22.0487,821,1609,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  42218,  23.4779,Time deployment,  23.0820,681,2313,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,84,New_flower
+T1_25L.avi,  43155,  23.9990,Time deployment,  23.6030,785,1650,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  43800,  24.3577,Time deployment,  23.9617,738,1688,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,851,1683,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,908,1676,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,815,1674,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,897,1602,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,774,1794,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,821,1778,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,710,1853,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,550,1933,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,484,2084,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,514,2203,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,826,1877,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,902,1789,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,906,1863,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,938,1735,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1003,1619,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,983,1566,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,900,1686,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1083,1670,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1036,2057,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,939,2071,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,879,2108,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,872,2152,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,887,2064,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,866,2046,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,846,1979,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,885,2044,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1042,2107,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1047,2139,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1119,2079,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,648,2200,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,834,2152,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1214,2072,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1065,2598,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,992,2328,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1489,1007,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1319,815,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1297,1097,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1266,1377,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1255,1344,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1317,642,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1268,573,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  44571,  24.7865,Time deployment,  24.3905,1311,1630,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  44826,  24.9283,Time deployment,  24.5323,686,1686,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  45683,  25.4048,Time deployment,  25.0089,617,1891,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,85,New_flower
+T1_25L.avi,  46048,  25.6078,Time deployment,  25.2119,790,1946,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  46412,  25.8103,Time deployment,  25.4143,512,1956,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  46528,  25.8748,Time deployment,  25.4788,650,1977,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  46767,  26.0077,Time deployment,  25.6117,578,1841,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  46991,  26.1322,Time deployment,  25.7363,589,1854,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  47426,  26.3742,Time deployment,  25.9782,1129,1337,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,86,
+T1_25L.avi,  47426,  26.3742,Time deployment,  25.9782,1389,548,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,87,
+T1_25L.avi,  47793,  26.5782,Time deployment,  26.1823,584,1871,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  48588,  27.0204,Time deployment,  26.6244,686,1740,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Arrival
+T1_25L.avi,  48692,  27.0782,Time deployment,  26.6822,867,1846,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  48699,  27.0821,Time deployment,  26.6861,671,1712,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Departure
+T1_25L.avi,  48732,  27.1004,Time deployment,  26.7045,831,1869,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Departure
+T1_25L.avi,  48806,  27.1416,Time deployment,  26.7456,962,1712,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Arrival
+T1_25L.avi,  49385,  27.4636,Time deployment,  27.0676,597,1935,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,83,Arrival
+T1_25L.avi,  49575,  27.5692,Time deployment,  27.1733,807,1745,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,89,Arrival
+T1_25L.avi,  49595,  27.5804,Time deployment,  27.1844,671,1714,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Departure
+T1_25L.avi,  49913,  27.7572,Time deployment,  27.3613,609,2071,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Arrival
+T1_25L.avi,  50170,  27.9001,Time deployment,  27.5042,669,1800,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,90,New_flower
+T1_25L.avi,  50231,  27.9340,Time deployment,  27.5381,625,1812,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,90,Departure
+T1_25L.avi,  50458,  28.0603,Time deployment,  27.6643,617,1915,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,90,Arrival
+T1_25L.avi,  50700,  28.1949,Time deployment,  27.7989,432,2080,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,90,Departure
+T1_25L.avi,  50880,  28.2950,Time deployment,  27.8990,666,1841,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,90,Arrival
+T1_25L.avi,  50906,  28.3094,Time deployment,  27.9135,795,1642,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Departure
+T1_25L.avi,  51096,  28.4151,Time deployment,  28.0191,581,1859,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Arrival
+T1_25L.avi,  51435,  28.6036,Time deployment,  28.2077,623,1866,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,88,Departure
+T1_25L.avi,  51438,  28.6053,Time deployment,  28.2093,574,1848,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,90,Departure
+T1_25L.avi,  51458,  28.6164,Time deployment,  28.2204,789,1733,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,89,Departure
+T1_25L.avi,  51904,  28.8644,Time deployment,  28.4685,807,2192,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,91,Arrival
+T1_25L.avi,  51942,  28.8856,Time deployment,  28.4896,535,2308,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,92,New_flower
+T1_25L.avi,  51945,  28.8872,Time deployment,  28.4913,443,2211,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,93,Arrival
+T1_25L.avi,  51971,  28.9017,Time deployment,  28.5057,489,2305,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,92,Departure
+T1_25L.avi,  51976,  28.9045,Time deployment,  28.5085,764,2193,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,91,Departure
+T1_25L.avi,  52073,  28.9584,Time deployment,  28.5625,854,1838,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,91,Arrival
+T1_25L.avi,  52144,  28.9979,Time deployment,  28.6019,797,1812,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,91,Departure
+T1_25L.avi,  52149,  29.0007,Time deployment,  28.6047,587,1853,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,94,Arrival
+T1_25L.avi,  52240,  29.0513,Time deployment,  28.6553,651,1753,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,91,Arrival
+T1_25L.avi,  52275,  29.0707,Time deployment,  28.6748,586,1854,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,94,Departure
+T1_25L.avi,  52362,  29.1191,Time deployment,  28.7232,641,1881,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,92,Arrival
+T1_25L.avi,  52375,  29.1263,Time deployment,  28.7304,452,2238,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,93,Departure
+T1_25L.avi,  52451,  29.1686,Time deployment,  28.7727,705,1753,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,94,Arrival
+T1_25L.avi,  52473,  29.1808,Time deployment,  28.7849,672,1753,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,94,Departure
+T1_25L.avi,  52508,  29.2003,Time deployment,  28.8044,632,1825,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,94,Arrival
+T1_25L.avi,  52621,  29.2632,Time deployment,  28.8672,740,1755,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,93,Arrival
+T1_25L.avi,  52790,  29.3571,Time deployment,  28.9612,648,1768,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,91,Departure
+T1_25L.avi,  53053,  29.5034,Time deployment,  29.1074,679,1738,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,94,Departure
+T1_25L.avi,  53374,  29.6819,Time deployment,  29.2860,586,1915,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,New_flower
+T1_25L.avi,  53504,  29.7542,Time deployment,  29.3582,556,1874,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Departure
+T1_25L.avi,  53512,  29.7586,Time deployment,  29.3627,661,1886,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Arrival
+T1_25L.avi,  53562,  29.7865,Time deployment,  29.3905,864,1774,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,96,Arrival
+T1_25L.avi,  53980,  30.0189,Time deployment,  29.6230,620,1812,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Departure
+T1_25L.avi,  54050,  30.0578,Time deployment,  29.6619,520,1984,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Arrival
+T1_25L.avi,  54071,  30.0695,Time deployment,  29.6736,507,1999,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Departure
+T1_25L.avi,  54076,  30.0723,Time deployment,  29.6763,461,2129,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Arrival
+T1_25L.avi,  54095,  30.0829,Time deployment,  29.6869,435,2129,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,95,Departure
+T1_25L.avi,  54366,  30.2336,Time deployment,  29.8376,694,1799,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,97,Arrival
+T1_25L.avi,  54519,  30.3187,Time deployment,  29.9227,607,1804,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,97,Departure
+T1_25L.avi,  54627,  30.3787,Time deployment,  29.9828,615,2057,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,97,Arrival
+T1_25L.avi,  54699,  30.4188,Time deployment,  30.0228,461,2048,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,98,New_flower
+T1_25L.avi,  54745,  30.4443,Time deployment,  30.0484,800,1766,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,99,Arrival
+T1_25L.avi,  54846,  30.5005,Time deployment,  30.1045,705,1835,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,99,Departure
+T1_25L.avi,  54862,  30.5094,Time deployment,  30.1134,996,2290,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,100,Arrival
+T1_25L.avi,  55094,  30.6384,Time deployment,  30.2425,659,1725,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,97,Departure
+T1_25L.avi,  55131,  30.6590,Time deployment,  30.2630,587,1889,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,99,Arrival
+T1_25L.avi,  55206,  30.7007,Time deployment,  30.3047,561,1869,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,99,Departure
+T1_25L.avi,  55218,  30.7074,Time deployment,  30.3114,641,1873,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,102,Arrival
+T1_25L.avi,  55297,  30.7513,Time deployment,  30.3554,934,2354,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,100,Departure
+T1_25L.avi,  55572,  30.9042,Time deployment,  30.5083,564,1913,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,101,Arrival
+T1_25L.avi,  55801,  31.0316,Time deployment,  30.6356,597,1854,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,101,Departure
+T1_25L.avi,  55926,  31.1011,Time deployment,  30.7051,751,1964,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,103,New_flower
+T1_25L.avi,  55926,  31.1011,Time deployment,  30.7051,923,2377,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,,,104,
+T1_25L.avi,  56173,  31.2385,Time deployment,  30.8425,654,1907,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,105,Arrival
+T1_25L.avi,  56250,  31.2813,Time deployment,  30.8853,622,1972,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,106,New_flower
+T1_25L.avi,  56327,  31.3241,Time deployment,  30.9282,510,2028,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,106,Departure
+T1_25L.avi,  56508,  31.4248,Time deployment,  31.0288,578,1977,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,106,Arrival
+T1_25L.avi,  56701,  31.5321,Time deployment,  31.1361,468,2126,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,106,Departure
+T1_25L.avi,  57042,  31.7217,Time deployment,  31.3258,807,1616,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,107,Arrival
+T1_25L.avi,  57081,  31.7434,Time deployment,  31.3475,717,1732,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,108,Arrival
+T1_25L.avi,  57134,  31.7729,Time deployment,  31.3769,777,1645,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,107,Departure
+T1_25L.avi,  57306,  31.8685,Time deployment,  31.4726,581,2143,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,107,Arrival
+T1_25L.avi,  57521,  31.9881,Time deployment,  31.5921,470,2102,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,107,Departure
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,712,1995,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,632,2054,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,681,2174,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,720,2131,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,715,2116,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,762,2200,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,769,2298,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,546,2174,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,550,2033,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,546,2080,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,640,2066,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,609,1943,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,672,1918,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,684,1843,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,682,1807,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,717,1768,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,749,1755,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,774,1740,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,795,1800,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,821,1787,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,782,1958,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,838,2008,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,782,2118,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,848,2147,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,833,2113,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,885,2269,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,900,2082,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,1160,1596,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,875,1683,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,864,1638,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,1113,2159,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,1129,2314,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  57876,  32.1855,Time deployment,  31.7896,1468,398,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi,  57943,  32.2228,Time deployment,  31.8268,632,1742,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,108,Departure
+T1_25L.avi,  58011,  32.2606,Time deployment,  31.8646,705,1892,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,109,Arrival
+T1_25L.avi,  58044,  32.2789,Time deployment,  31.8830,677,1928,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,109,Departure
+T1_25L.avi,  58108,  32.3145,Time deployment,  31.9186,622,2020,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,109,Arrival
+T1_25L.avi,  58128,  32.3257,Time deployment,  31.9297,794,1620,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,110,Arrival
+T1_25L.avi,  58213,  32.3729,Time deployment,  31.9770,802,1609,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,110,Departure
+T1_25L.avi,  58323,  32.4341,Time deployment,  32.0381,818,1627,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,110,Arrival
+T1_25L.avi,  58385,  32.4686,Time deployment,  32.0726,443,2193,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,109,Departure
+T1_25L.avi,  58415,  32.4853,Time deployment,  32.0893,797,1634,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,110,Departure
+T1_25L.avi,  58785,  32.6910,Time deployment,  32.2951,882,1838,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,111,Arrival
+T1_25L.avi,  58853,  32.7288,Time deployment,  32.3329,931,2282,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,113,Arrival
+T1_25L.avi,  58932,  32.7728,Time deployment,  32.3768,918,1630,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,112,Arrival
+T1_25L.avi,  58984,  32.8017,Time deployment,  32.4057,715,1832,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,111,Departure
+T1_25L.avi,  58986,  32.8028,Time deployment,  32.4069,887,1656,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,112,Departure
+T1_25L.avi,  59012,  32.8173,Time deployment,  32.4213,964,1699,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,112,Arrival
+T1_25L.avi,  59031,  32.8278,Time deployment,  32.4319,779,2031,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,111,Arrival
+T1_25L.avi,  59072,  32.8506,Time deployment,  32.4547,929,1707,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,112,Departure
+T1_25L.avi,  59090,  32.8606,Time deployment,  32.4647,897,2349,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,113,Departure
+T1_25L.avi,  59270,  32.9607,Time deployment,  32.5648,604,1930,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,114,Arrival
+T1_25L.avi,  59290,  32.9719,Time deployment,  32.5759,535,1918,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,111,Departure
+T1_25L.avi,  59298,  32.9763,Time deployment,  32.5804,614,1899,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,115,Arrival
+T1_25L.avi,  59298,  32.9763,Time deployment,  32.5804,859,1555,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,116,Arrival
+T1_25L.avi,  59331,  32.9947,Time deployment,  32.5987,857,1534,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,116,Departure
+T1_25L.avi,  59371,  33.0169,Time deployment,  32.6210,956,1681,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,116,Arrival
+T1_25L.avi,  59374,  33.0186,Time deployment,  32.6226,530,1913,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,115,Departure
+T1_25L.avi,  59528,  33.1042,Time deployment,  32.7083,661,1746,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,117,Arrival
+T1_25L.avi,  59678,  33.1876,Time deployment,  32.7917,527,1987,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,114,Departure
+T1_25L.avi,  60107,  33.4262,Time deployment,  33.0303,638,1764,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,117,Departure
+T1_25L.avi,  60126,  33.4368,Time deployment,  33.0408,723,1791,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,117,Arrival
+T1_25L.avi,  60200,  33.4779,Time deployment,  33.0820,628,1764,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,117,Departure
+T1_25L.avi,  60375,  33.5752,Time deployment,  33.1793,524,1912,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,118,Arrival
+T1_25L.avi,  60377,  33.5764,Time deployment,  33.1804,522,1928,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,119,Arrival
+T1_25L.avi,  60426,  33.6036,Time deployment,  33.2077,525,1912,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,118,Departure
+T1_25L.avi,  60580,  33.6892,Time deployment,  33.2933,543,1895,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,119,Departure
+T1_25L.avi,  60699,  33.7554,Time deployment,  33.3595,710,1773,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,121,Arrival
+T1_25L.avi,  60829,  33.8277,Time deployment,  33.4318,638,1773,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,121,Departure
+T1_25L.avi,  60939,  33.8889,Time deployment,  33.4929,627,1833,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,122,Arrival
+T1_25L.avi,  60957,  33.8989,Time deployment,  33.5029,628,1807,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,123,Arrival
+T1_25L.avi,  61047,  33.9489,Time deployment,  33.5530,751,2067,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,124,Arrival
+T1_25L.avi,  61168,  34.0162,Time deployment,  33.6203,609,1820,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,123,Departure
+T1_25L.avi,  61207,  34.0379,Time deployment,  33.6420,602,1810,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,122,Departure
+T1_25L.avi,  61260,  34.0674,Time deployment,  33.6714,707,2152,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,126,Arrival
+T1_25L.avi,  61269,  34.0724,Time deployment,  33.6765,725,1828,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,125,Arrival
+T1_25L.avi,  61329,  34.1058,Time deployment,  33.7098,761,2102,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,126,Departure
+T1_25L.avi,  61413,  34.1525,Time deployment,  33.7565,731,2149,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,124,Departure
+T1_25L.avi,  61423,  34.1580,Time deployment,  33.7621,936,2215,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,127,Arrival
+T1_25L.avi,  61471,  34.1847,Time deployment,  33.7888,915,2280,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,127,Departure
+T1_25L.avi,  61585,  34.2481,Time deployment,  33.8522,769,1681,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,128,Arrival
+T1_25L.avi,  61673,  34.2971,Time deployment,  33.9011,812,1643,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,129,Arrival
+T1_25L.avi,  61775,  34.3538,Time deployment,  33.9578,762,1710,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,132,New_flower
+T1_25L.avi,  61893,  34.4194,Time deployment,  34.0235,787,1612,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,129,Departure
+T1_25L.avi,  61974,  34.4645,Time deployment,  34.0685,798,1619,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,130,Arrival
+T1_25L.avi,  62108,  34.5390,Time deployment,  34.1430,823,1589,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,130,Departure
+T1_25L.avi,  62118,  34.5445,Time deployment,  34.1486,576,1918,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,131,Arrival
+T1_25L.avi,  62147,  34.5607,Time deployment,  34.1647,527,1920,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,131,Departure
+T1_25L.avi,  62240,  34.6124,Time deployment,  34.2164,507,1967,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,132,Departure
+T1_25L.avi,  62314,  34.6535,Time deployment,  34.2576,826,2408,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,133,New_flower
+T1_25L.avi,  62326,  34.6602,Time deployment,  34.2643,581,1856,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,136,Arrival
+T1_25L.avi,  62336,  34.6658,Time deployment,  34.2698,597,1861,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,136,Departure
+T1_25L.avi,  62342,  34.6691,Time deployment,  34.2732,756,1717,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,136,Arrival
+T1_25L.avi,  62351,  34.6741,Time deployment,  34.2782,838,2380,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,133,
+T1_25L.avi,  62351,  34.6741,Time deployment,  34.2782,1399,1686,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,134,
+T1_25L.avi,  62351,  34.6741,Time deployment,  34.2782,1484,1223,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,135,
+T1_25L.avi,  62473,  34.7420,Time deployment,  34.3460,648,2206,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,137,Arrival
+T1_25L.avi,  62492,  34.7525,Time deployment,  34.3566,633,2200,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,137,Departure
+T1_25L.avi,  62745,  34.8932,Time deployment,  34.4973,684,2249,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,66,Departure
+T1_25L.avi,  62771,  34.9077,Time deployment,  34.5117,710,2246,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,138,Arrival
+T1_25L.avi,  62776,  34.9105,Time deployment,  34.5145,944,2354,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,142,New_flower
+T1_25L.avi,  62823,  34.9366,Time deployment,  34.5407,502,2123,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,139,Arrival
+T1_25L.avi,  62926,  34.9939,Time deployment,  34.5979,496,2010,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,139,Departure
+T1_25L.avi,  62975,  35.0211,Time deployment,  34.6252,522,1928,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,139,Arrival
+T1_25L.avi,  63000,  35.0350,Time deployment,  34.6391,695,2264,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,140,Arrival
+T1_25L.avi,  63035,  35.0545,Time deployment,  34.6585,528,1938,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,139,Departure
+T1_25L.avi,  63040,  35.0573,Time deployment,  34.6613,722,2364,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,66,Arrival
+T1_25L.avi,  63093,  35.0868,Time deployment,  34.6908,599,1854,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,141,New_flower
+T1_25L.avi,  63130,  35.1073,Time deployment,  34.7114,576,1846,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,141,Departure
+T1_25L.avi,  63141,  35.1134,Time deployment,  34.7175,705,2275,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,140,Departure
+T1_25L.avi,  63219,  35.1568,Time deployment,  34.7609,668,2305,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,138,Departure
+T1_25L.avi,  63275,  35.1880,Time deployment,  34.7920,497,2071,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,143,Departure
+T1_25L.avi,  63289,  35.1958,Time deployment,  34.7998,684,2246,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,145,Arrival
+T1_25L.avi,  63391,  35.2525,Time deployment,  34.8565,543,1981,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,144,Arrival
+T1_25L.avi,  63451,  35.2858,Time deployment,  34.8899,658,1763,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,147,Arrival
+T1_25L.avi,  63530,  35.3298,Time deployment,  34.9338,628,1740,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,147,Departure
+T1_25L.avi,  63684,  35.4154,Time deployment,  35.0195,492,2370,T1_25,Jake,,,,,,,,,,,Gasteruptiidae,Gasteruption,sp,64,1,AD,Attracted,,146,
+T1_25L.avi,  63705,  35.4271,Time deployment,  35.0311,686,2267,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,148,Arrival
+T1_25L.avi,  63727,  35.4393,Time deployment,  35.0434,692,2259,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,145,Departure
+T1_25L.avi,  63799,  35.4794,Time deployment,  35.0834,825,1724,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,150,Arrival
+T1_25L.avi,  63843,  35.5038,Time deployment,  35.1079,679,2259,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,149,Arrival
+T1_25L.avi,  64062,  35.6256,Time deployment,  35.2297,682,2283,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,148,Departure
+T1_25L.avi,  64114,  35.6545,Time deployment,  35.2586,676,2256,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,151,Arrival
+T1_25L.avi,  64188,  35.6957,Time deployment,  35.2997,681,2251,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,152,Arrival
+T1_25L.avi,  64197,  35.7007,Time deployment,  35.3047,818,1746,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,150,Departure
+T1_25L.avi,  64384,  35.8047,Time deployment,  35.4087,730,2246,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,149,Departure
+T1_25L.avi,  64606,  35.9282,Time deployment,  35.5322,695,2259,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,151,Departure
+T1_25L.avi,  64634,  35.9437,Time deployment,  35.5478,687,2256,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,152,Departure
+T1_25L.avi,  64656,  35.9560,Time deployment,  35.5600,635,2329,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,153,Arrival
+T1_25L.avi,  64806,  36.0394,Time deployment,  35.6434,798,1706,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,157,New_flower
+T1_25L.avi,  64930,  36.1083,Time deployment,  35.7124,712,2041,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,154,Arrival
+T1_25L.avi,  64962,  36.1261,Time deployment,  35.7302,690,2231,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,155,Arrival
+T1_25L.avi,  64990,  36.1417,Time deployment,  35.7457,798,1702,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,156,Arrival
+T1_25L.avi,  64999,  36.1467,Time deployment,  35.7508,687,2066,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,154,Departure
+T1_25L.avi,  65136,  36.2229,Time deployment,  35.8269,682,2238,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,158,Arrival
+T1_25L.avi,  65228,  36.2741,Time deployment,  35.8781,712,2244,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,159,Arrival
+T1_25L.avi,  65269,  36.2969,Time deployment,  35.9009,687,2236,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,155,Departure
+T1_25L.avi,  65308,  36.3185,Time deployment,  35.9226,833,2275,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,158,Departure
+T1_25L.avi,  65334,  36.3330,Time deployment,  35.9370,789,1848,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,156,Departure
+T1_25L.avi,  65346,  36.3397,Time deployment,  35.9437,610,2346,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,153,Departure
+T1_25L.avi,  65366,  36.3508,Time deployment,  35.9548,648,2278,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,159,Departure
+T1_25L.avi,  65652,  36.5098,Time deployment,  36.1139,892,2182,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,160,Arrival
+T1_25L.avi,  65664,  36.5165,Time deployment,  36.1206,600,2365,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,161,Arrival
+T1_25L.avi,  65714,  36.5443,Time deployment,  36.1484,576,2357,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,161,Departure
+T1_25L.avi,  65787,  36.5849,Time deployment,  36.1890,618,2318,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,162,Arrival
+T1_25L.avi,  65799,  36.5916,Time deployment,  36.1956,610,2102,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,163,Arrival
+T1_25L.avi,  65920,  36.6589,Time deployment,  36.2629,609,2241,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,164,Arrival
+T1_25L.avi,  65963,  36.6828,Time deployment,  36.2868,632,2368,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,162,Departure
+T1_25L.avi,  65975,  36.6895,Time deployment,  36.2935,607,2251,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,164,Departure
+T1_25L.avi,  66146,  36.7846,Time deployment,  36.3886,697,2251,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,165,Arrival
+T1_25L.avi,  66214,  36.8224,Time deployment,  36.4264,661,2218,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,166,Arrival
+T1_25L.avi,  66247,  36.8407,Time deployment,  36.4448,553,2139,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,163,Departure
+T1_25L.avi,  66264,  36.8502,Time deployment,  36.4542,774,2221,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,167,Arrival
+T1_25L.avi,  66292,  36.8658,Time deployment,  36.4698,550,2228,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,165,Departure
+T1_25L.avi,  66413,  36.9330,Time deployment,  36.5371,797,2221,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,168,Arrival
+T1_25L.avi,  66480,  36.9703,Time deployment,  36.5744,564,2205,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,166,Departure
+T1_25L.avi,  66482,  36.9714,Time deployment,  36.5755,666,2283,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,168,Departure
+T1_25L.avi,  66608,  37.0415,Time deployment,  36.6455,740,2218,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,169,Arrival
+T1_25L.avi,  66635,  37.0565,Time deployment,  36.6605,746,2221,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,170,Arrival
+T1_25L.avi,  66700,  37.0926,Time deployment,  36.6967,584,1891,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,171,Arrival
+T1_25L.avi,  66721,  37.1043,Time deployment,  36.7084,762,2242,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,172,Arrival
+T1_25L.avi,  66738,  37.1138,Time deployment,  36.7178,651,2280,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,160,Departure
+T1_25L.avi,  66916,  37.2128,Time deployment,  36.8168,728,2206,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,173,Arrival
+T1_25L.avi,  67085,  37.3068,Time deployment,  36.9108,862,2262,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,173,Departure
+T1_25L.avi,  67193,  37.3668,Time deployment,  36.9709,836,2211,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,169,Departure
+T1_25L.avi,  67281,  37.4157,Time deployment,  37.0198,802,1976,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,174,Arrival
+T1_25L.avi,  67286,  37.4185,Time deployment,  37.0226,813,2226,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,172,Departure
+T1_25L.avi,  67318,  37.4363,Time deployment,  37.0404,741,1946,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,174,Departure
+T1_25L.avi,  67395,  37.4791,Time deployment,  37.0832,743,1758,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,175,Arrival
+T1_25L.avi,  67467,  37.5192,Time deployment,  37.1232,728,1840,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,176,Arrival
+T1_25L.avi,  67613,  37.6004,Time deployment,  37.2044,848,2440,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,177,Arrival
+T1_25L.avi,  67622,  37.6054,Time deployment,  37.2094,1491,1650,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting pollen or nectar,,189,New_flower
+T1_25L.avi,  67660,  37.6265,Time deployment,  37.2306,581,1845,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,178,Arrival
+T1_25L.avi,  67775,  37.6905,Time deployment,  37.2945,720,1846,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,179,Arrival
+T1_25L.avi,  67809,  37.7094,Time deployment,  37.3134,579,1841,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,178,Departure
+T1_25L.avi,  68054,  37.8456,Time deployment,  37.4497,733,1776,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,176,Departure
+T1_25L.avi,  68092,  37.8668,Time deployment,  37.4708,710,2218,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,170,Departure
+T1_25L.avi,  68138,  37.8923,Time deployment,  37.4964,651,1935,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,179,Departure
+T1_25L.avi,  68192,  37.9224,Time deployment,  37.5264,674,1815,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,180,Arrival
+T1_25L.avi,  68468,  38.0759,Time deployment,  37.6799,841,1733,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,181,Arrival
+T1_25L.avi,  68668,  38.1871,Time deployment,  37.7911,681,1740,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,175,Departure
+T1_25L.avi,  68707,  38.2088,Time deployment,  37.8128,602,1877,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,180,Departure
+T1_25L.avi,  68863,  38.2955,Time deployment,  37.8996,623,1794,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,181,Departure
+T1_25L.avi,  68967,  38.3534,Time deployment,  37.9574,615,1907,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,182,Arrival
+T1_25L.avi,  69151,  38.4557,Time deployment,  38.0597,910,1697,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,183,Arrival
+T1_25L.avi,  69205,  38.4857,Time deployment,  38.0898,499,1953,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,182,Departure
+T1_25L.avi,  69345,  38.5636,Time deployment,  38.1676,576,1913,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,184,Arrival
+T1_25L.avi,  69380,  38.5830,Time deployment,  38.1871,550,1889,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,184,Departure
+T1_25L.avi,  69414,  38.6019,Time deployment,  38.2060,582,1833,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,184,Arrival
+T1_25L.avi,  69433,  38.6125,Time deployment,  38.2165,707,1804,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,185,Arrival
+T1_25L.avi,  69512,  38.6564,Time deployment,  38.2605,761,1807,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,186,Arrival
+T1_25L.avi,  69514,  38.6575,Time deployment,  38.2616,571,1864,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,184,Departure
+T1_25L.avi,  69516,  38.6587,Time deployment,  38.2627,987,1673,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,187,Arrival
+T1_25L.avi,  69603,  38.7070,Time deployment,  38.3111,600,1818,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,188,Arrival
+T1_25L.avi,  69828,  38.8322,Time deployment,  38.4362,686,1853,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,183,Departure
+T1_25L.avi,  69909,  38.8772,Time deployment,  38.4813,669,1897,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,190,Arrival
+T1_25L.avi,  69917,  38.8817,Time deployment,  38.4857,555,2324,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,171,Arrival
+T1_25L.avi,  69930,  38.8889,Time deployment,  38.4929,744,1696,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,187,Departure
+T1_25L.avi,  70046,  38.9534,Time deployment,  38.5574,520,2036,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,185,Departure
+T1_25L.avi,  70131,  39.0007,Time deployment,  38.6047,479,2018,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,188,Departure
+T1_25L.avi,  70234,  39.0579,Time deployment,  38.6620,910,1941,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,192,Arrival
+T1_25L.avi,  70335,  39.1141,Time deployment,  38.7182,514,2341,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,193,Arrival
+T1_25L.avi,  70364,  39.1302,Time deployment,  38.7343,843,1935,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,192,Departure
+T1_25L.avi,  70368,  39.1325,Time deployment,  38.7365,903,1936,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,194,Arrival
+T1_25L.avi,  70395,  39.1475,Time deployment,  38.7515,798,1992,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,195,Arrival
+T1_25L.avi,  70453,  39.1797,Time deployment,  38.7838,555,1961,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,190,Departure
+T1_25L.avi,  70492,  39.2014,Time deployment,  38.8055,704,2085,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,195,Departure
+T1_25L.avi,  70552,  39.2348,Time deployment,  38.8388,649,2404,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,171,Departure
+T1_25L.avi,  70647,  39.2876,Time deployment,  38.8917,708,1784,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,186,Departure
+T1_25L.avi,  70648,  39.2882,Time deployment,  38.8922,688,1784,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,171,Departure
+T1_25L.avi,  70663,  39.2965,Time deployment,  38.9006,600,2386,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,193,Departure
+T1_25L.avi,  70831,  39.3899,Time deployment,  38.9940,1041,1652,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,196,Arrival
+T1_25L.avi,  70831,  39.3899,Time deployment,  38.9940,1098,1562,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,197,Arrival
+T1_25L.avi,  70899,  39.4278,Time deployment,  39.0318,1023,1576,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,197,Departure
+T1_25L.avi,  70995,  39.4811,Time deployment,  39.0852,1005,1702,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,196,Departure
+T1_25L.avi,  71249,  39.6224,Time deployment,  39.2264,794,1805,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,198,Arrival
+T1_25L.avi,  71264,  39.6307,Time deployment,  39.2348,702,1823,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,194,Departure
+T1_25L.avi,  71364,  39.6864,Time deployment,  39.2904,551,2003,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,199,Arrival
+T1_25L.avi,  71531,  39.7792,Time deployment,  39.3833,599,1953,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,200,Arrival
+T1_25L.avi,  71598,  39.8165,Time deployment,  39.4205,563,1956,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,200,Departure
+T1_25L.avi,  71630,  39.8343,Time deployment,  39.4383,553,1894,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,199,Departure
+T1_25L.avi,  71850,  39.9566,Time deployment,  39.5607,566,2177,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,201,Arrival
+T1_25L.avi,  71990,  40.0345,Time deployment,  39.6385,564,2133,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,201,Departure
+T1_25L.avi,  72026,  40.0545,Time deployment,  39.6585,1145,2450,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,189,
+T1_25L.avi,  72026,  40.0545,Time deployment,  39.6585,669,1632,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,,,202,
+T1_25L.avi,  72073,  40.0806,Time deployment,  39.6847,474,1971,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,198,Departure
+T1_25L.avi,  72127,  40.1107,Time deployment,  39.7147,851,1907,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,203,Arrival
+T1_25L.avi,  72384,  40.2536,Time deployment,  39.8576,725,2147,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,204,Arrival
+T1_25L.avi,  72455,  40.2931,Time deployment,  39.8971,646,2346,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,205,Arrival
+T1_25L.avi,  72596,  40.3715,Time deployment,  39.9755,484,2321,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,206,Arrival
+T1_25L.avi,  72598,  40.3726,Time deployment,  39.9766,830,2072,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,204,Departure
+T1_25L.avi,  72634,  40.3926,Time deployment,  39.9967,838,2383,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,207,Arrival
+T1_25L.avi,  72679,  40.4176,Time deployment,  40.0217,479,2336,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,206,Departure
+T1_25L.avi,  72755,  40.4599,Time deployment,  40.0640,618,2375,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,208,Arrival
+T1_25L.avi,  72829,  40.5011,Time deployment,  40.1051,486,2043,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  72829,  40.5011,Time deployment,  40.1051,496,2288,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  72829,  40.5011,Time deployment,  40.1051,558,2408,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  72829,  40.5011,Time deployment,  40.1051,584,2323,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  72829,  40.5011,Time deployment,  40.1051,743,2238,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  72829,  40.5011,Time deployment,  40.1051,861,2314,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi,  72867,  40.5222,Time deployment,  40.1262,499,2323,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,205,Departure
+T1_25L.avi,  72913,  40.5478,Time deployment,  40.1518,542,2324,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,208,Departure
+T1_25L.avi,  72922,  40.5528,Time deployment,  40.1568,861,1707,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,209,Arrival
+T1_25L.avi,  72938,  40.5617,Time deployment,  40.1657,707,2257,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,210,Arrival
+T1_25L.avi,  72956,  40.5717,Time deployment,  40.1757,839,1720,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,209,Departure
+T1_25L.avi,  73008,  40.6006,Time deployment,  40.2046,453,2039,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,203,Departure
+T1_25L.avi,  73048,  40.6228,Time deployment,  40.2269,731,2216,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,210,Departure
+T1_25L.avi,  73078,  40.6395,Time deployment,  40.2436,556,1915,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,211,Arrival
+T1_25L.avi,  73132,  40.6696,Time deployment,  40.2736,553,1905,T1_25,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen,,213,Arrival
+T1_25L.avi,  73194,  40.7040,Time deployment,  40.3081,708,2249,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,212,Arrival
+T1_25L.avi,  73197,  40.7057,Time deployment,  40.3098,622,1864,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,211,Departure
+T1_25L.avi,  73288,  40.7563,Time deployment,  40.3604,692,2095,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,214,Arrival
+T1_25L.avi,  73340,  40.7852,Time deployment,  40.3893,569,1882,T1_25,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen,,213,Departure
+T1_25L.avi,  73401,  40.8192,Time deployment,  40.4232,653,2393,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,215,Arrival
+T1_25L.avi,  73441,  40.8414,Time deployment,  40.4454,599,1891,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,216,Arrival
+T1_25L.avi,  73447,  40.8447,Time deployment,  40.4488,689,2244,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,212,Departure
+T1_25L.avi,  73492,  40.8698,Time deployment,  40.4738,532,1925,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,217,Arrival
+T1_25L.avi,  73513,  40.8814,Time deployment,  40.4855,651,2354,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,215,Departure
+T1_25L.avi,  73524,  40.8876,Time deployment,  40.4916,515,1927,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,217,Departure
+T1_25L.avi,  73606,  40.9332,Time deployment,  40.5372,623,1951,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,216,Departure
+T1_25L.avi,  73629,  40.9459,Time deployment,  40.5500,705,1853,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,216,Arrival
+T1_25L.avi,  73792,  41.0366,Time deployment,  40.6406,438,2252,T1_25,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen,,213,Arrival
+T1_25L.avi,  73867,  41.0783,Time deployment,  40.6823,666,1817,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,218,Arrival
+T1_25L.avi,  73894,  41.0933,Time deployment,  40.6974,402,2126,T1_25,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen,,213,Departure
+T1_25L.avi,  73943,  41.1206,Time deployment,  40.7246,600,1812,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,218,Departure
+T1_25L.avi,  73947,  41.1228,Time deployment,  40.7268,681,2234,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,219,Arrival
+T1_25L.avi,  73971,  41.1361,Time deployment,  40.7402,753,1689,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,220,Arrival
+T1_25L.avi,  74068,  41.1901,Time deployment,  40.7941,1003,2233,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,221,Arrival
+T1_25L.avi,  74074,  41.1934,Time deployment,  40.7975,694,2290,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,219,Departure
+T1_25L.avi,  74077,  41.1951,Time deployment,  40.7991,1023,2239,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,221,Departure
+T1_25L.avi,  74108,  41.2123,Time deployment,  40.8164,674,1740,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,220,Departure
+T1_25L.avi,  74290,  41.3135,Time deployment,  40.9176,545,2149,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,216,Departure
+T1_25L.avi,  74395,  41.3719,Time deployment,  40.9760,697,2023,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,222,Arrival
+T1_25L.avi,  74423,  41.3875,Time deployment,  40.9915,615,2203,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,223,Arrival
+T1_25L.avi,  74443,  41.3986,Time deployment,  41.0027,843,2422,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,225,Arrival
+T1_25L.avi,  74443,  41.3986,Time deployment,  41.0027,558,2138,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,216,
+T1_25L.avi,  74461,  41.4086,Time deployment,  41.0127,509,2314,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,224,Arrival
+T1_25L.avi,  74882,  41.6428,Time deployment,  41.2468,445,2249,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,223,Departure
+T1_25L.avi,  74916,  41.6617,Time deployment,  41.2657,550,2138,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,222,Departure
+T1_25L.avi,  74935,  41.6722,Time deployment,  41.2763,992,2238,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,189,New_flower
+T1_25L.avi,  75059,  41.7412,Time deployment,  41.3452,1093,1728,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,227,Arrival
+T1_25L.avi,  75269,  41.8580,Time deployment,  41.4620,929,1769,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,227,Departure
+T1_25L.avi,  75338,  41.8963,Time deployment,  41.5004,947,1815,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,228,Arrival
+T1_25L.avi,  75448,  41.9575,Time deployment,  41.5616,928,1706,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,229,Arrival
+T1_25L.avi,  75575,  42.0281,Time deployment,  41.6322,833,1786,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,229,Departure
+T1_25L.avi,  75584,  42.0331,Time deployment,  41.6372,659,1769,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,228,Departure
+T1_25L.avi,  75626,  42.0565,Time deployment,  41.6605,602,1935,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,230,Arrival
+T1_25L.avi,  75705,  42.1004,Time deployment,  41.7045,489,1977,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,232,Arrival
+T1_25L.avi,  75707,  42.1015,Time deployment,  41.7056,741,2033,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,231,Arrival
+T1_25L.avi,  75851,  42.1816,Time deployment,  41.7857,517,1969,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,232,Departure
+T1_25L.avi,  76000,  42.2645,Time deployment,  41.8685,546,1935,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,230,Departure
+T1_25L.avi,  76022,  42.2767,Time deployment,  41.8808,479,2116,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,231,Departure
+T1_25L.avi,  76076,  42.3068,Time deployment,  41.9108,561,2224,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,224,Departure
+T1_25L.avi,  76078,  42.3079,Time deployment,  41.9119,574,2041,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,233,Arrival
+T1_25L.avi,  76123,  42.3329,Time deployment,  41.9369,596,2061,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,234,Arrival
+T1_25L.avi,  76190,  42.3701,Time deployment,  41.9742,638,2007,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,235,Arrival
+T1_25L.avi,  76280,  42.4202,Time deployment,  42.0242,483,2066,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,234,Departure
+T1_25L.avi,  76290,  42.4258,Time deployment,  42.0298,566,2216,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,236,Arrival
+T1_25L.avi,  76371,  42.4708,Time deployment,  42.0749,692,2249,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,237,Arrival
+T1_25L.avi,  76429,  42.5031,Time deployment,  42.1071,713,2246,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,238,Arrival
+T1_25L.avi,  76450,  42.5147,Time deployment,  42.1188,607,1963,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,235,Departure
+T1_25L.avi,  76539,  42.5642,Time deployment,  42.1683,699,2275,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,237,Departure
+T1_25L.avi,  76570,  42.5815,Time deployment,  42.1855,758,2165,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,239,Arrival
+T1_25L.avi,  76648,  42.6248,Time deployment,  42.2289,813,2256,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,240,Arrival
+T1_25L.avi,  76699,  42.6532,Time deployment,  42.2573,579,2359,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,241,Arrival
+T1_25L.avi,  76773,  42.6944,Time deployment,  42.2984,723,2097,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,242,Arrival
+T1_25L.avi,  76831,  42.7266,Time deployment,  42.3307,535,2393,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,241,Departure
+T1_25L.avi,  76894,  42.7617,Time deployment,  42.3657,826,2239,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,241,Arrival
+T1_25L.avi,  76915,  42.7733,Time deployment,  42.3774,653,2105,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,243,Arrival
+T1_25L.avi,  77147,  42.9023,Time deployment,  42.5064,836,2220,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,239,Departure
+T1_25L.avi,  77708,  43.2143,Time deployment,  42.8184,704,2174,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,242,Departure
+T1_25L.avi,  77712,  43.2165,Time deployment,  42.8206,535,2018,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,244,Arrival
+T1_25L.avi,  77748,  43.2366,Time deployment,  42.8406,633,2238,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,240,Departure
+T1_25L.avi,  77797,  43.2638,Time deployment,  42.8679,481,2242,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,238,Departure
+T1_25L.avi,  77919,  43.3317,Time deployment,  42.9357,538,2017,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,244,Departure
+T1_25L.avi,  78073,  43.4173,Time deployment,  43.0214,546,2035,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,245,Arrival
+T1_25L.avi,  78080,  43.4212,Time deployment,  43.0252,600,2203,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,246,Arrival
+T1_25L.avi,  78233,  43.5063,Time deployment,  43.1103,859,2205,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,247,Arrival
+T1_25L.avi,  78245,  43.5130,Time deployment,  43.1170,501,1974,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,245,Departure
+T1_25L.avi,  78426,  43.6136,Time deployment,  43.2177,525,2098,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,248,Arrival
+T1_25L.avi,  78443,  43.6231,Time deployment,  43.2271,533,2125,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,249,Arrival
+T1_25L.avi,  78549,  43.6820,Time deployment,  43.2861,470,2241,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,246,Departure
+T1_25L.avi,  78550,  43.6826,Time deployment,  43.2866,455,2241,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,243,Departure
+T1_25L.avi,  79019,  43.9434,Time deployment,  43.5474,478,2159,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,249,Departure
+T1_25L.avi,  79040,  43.9551,Time deployment,  43.5591,682,2244,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,250,Arrival
+T1_25L.avi,  79285,  44.0913,Time deployment,  43.6954,597,2221,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,251,Arrival
+T1_25L.avi,  79558,  44.2431,Time deployment,  43.8472,689,2246,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,252,Arrival
+T1_25L.avi,  79577,  44.2537,Time deployment,  43.8577,589,2226,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,251,Departure
+T1_25L.avi,  79698,  44.3210,Time deployment,  43.9250,689,2259,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,250,Departure
+T1_25L.avi,  79936,  44.4533,Time deployment,  44.0574,615,2147,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,253,Arrival
+T1_25L.avi,  79975,  44.4750,Time deployment,  44.0791,749,2283,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,254,Arrival
+T1_25L.avi,  80021,  44.5006,Time deployment,  44.1047,600,2154,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,253,Departure
+T1_25L.avi,  80086,  44.5368,Time deployment,  44.1408,563,2226,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,252,Departure
+T1_25L.avi,  80153,  44.5740,Time deployment,  44.1781,749,1800,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,255,Arrival
+T1_25L.avi,  80218,  44.6102,Time deployment,  44.2142,802,1984,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,256,Arrival
+T1_25L.avi,  80274,  44.6413,Time deployment,  44.2454,977,2334,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,257,Arrival
+T1_25L.avi,  80703,  44.8799,Time deployment,  44.4839,466,2228,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,258,Arrival
+T1_25L.avi,  81013,  45.0523,Time deployment,  44.6563,800,1681,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,259,Arrival
+T1_25L.avi,  81067,  45.0823,Time deployment,  44.6864,735,1656,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,259,Departure
+T1_25L.avi,  81224,  45.1696,Time deployment,  44.7737,735,1763,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,260,Arrival
+T1_25L.avi,  81249,  45.1835,Time deployment,  44.7876,818,1856,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,261,Arrival
+T1_25L.avi,  81309,  45.2169,Time deployment,  44.8209,668,1756,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,260,Departure
+T1_25L.avi,  81325,  45.2258,Time deployment,  44.8298,798,1710,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,262,Arrival
+T1_25L.avi,  81327,  45.2269,Time deployment,  44.8309,509,1971,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,258,Departure
+T1_25L.avi,  81370,  45.2508,Time deployment,  44.8549,679,1850,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,263,Arrival
+T1_25L.avi,  81425,  45.2814,Time deployment,  44.8854,419,2278,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,257,Departure
+T1_25L.avi,  81440,  45.2897,Time deployment,  44.8938,672,1884,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,261,Departure
+T1_25L.avi,  81522,  45.3353,Time deployment,  44.9394,692,1818,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,264,Arrival
+T1_25L.avi,  81571,  45.3626,Time deployment,  44.9666,736,1732,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,265,Arrival
+T1_25L.avi,  81816,  45.4988,Time deployment,  45.1029,700,1674,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,265,Departure
+T1_25L.avi,  81872,  45.5300,Time deployment,  45.1340,640,1750,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,266,Arrival
+T1_25L.avi,  81942,  45.5689,Time deployment,  45.1730,574,1833,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,263,Departure
+T1_25L.avi,  81945,  45.5706,Time deployment,  45.1746,576,1854,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,262,Departure
+T1_25L.avi,  82148,  45.6835,Time deployment,  45.2875,579,1830,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,264,Departure
+T1_25L.avi,  82235,  45.7318,Time deployment,  45.3359,514,2167,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,267,Arrival
+T1_25L.avi,  82264,  45.7480,Time deployment,  45.3520,666,2175,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,241,Arrival
+T1_25L.avi,  82287,  45.7608,Time deployment,  45.3648,596,1817,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,266,Departure
+T1_25L.avi,  82313,  45.7752,Time deployment,  45.3793,669,2185,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,268,Arrival
+T1_25L.avi,  82489,  45.8731,Time deployment,  45.4771,735,2174,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,268,Departure
+T1_25L.avi,  82496,  45.8770,Time deployment,  45.4810,861,2169,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,269,Arrival
+T1_25L.avi,  82538,  45.9003,Time deployment,  45.5044,555,1887,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,267,Departure
+T1_25L.avi,  82593,  45.9309,Time deployment,  45.5350,533,2031,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,270,Arrival
+T1_25L.avi,  82867,  46.0833,Time deployment,  45.6874,831,2318,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,271,Arrival
+T1_25L.avi,  82962,  46.1361,Time deployment,  45.7402,702,2059,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,272,Arrival
+T1_25L.avi,  82976,  46.1439,Time deployment,  45.7480,515,2028,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,273,Arrival
+T1_25L.avi,  82998,  46.1562,Time deployment,  45.7602,550,2156,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,269,Departure
+T1_25L.avi,  83032,  46.1751,Time deployment,  45.7791,843,2000,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,274,Arrival
+T1_25L.avi,  83206,  46.2718,Time deployment,  45.8759,538,1923,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,273,Departure
+T1_25L.avi,  83220,  46.2796,Time deployment,  45.8837,877,1902,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,275,Arrival
+T1_25L.avi,  83308,  46.3286,Time deployment,  45.9326,713,1840,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,276,Arrival
+T1_25L.avi,  83452,  46.4086,Time deployment,  46.0127,527,1933,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,271,Departure
+T1_25L.avi,  83631,  46.5082,Time deployment,  46.1122,723,1909,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,277,Arrival
+T1_25L.avi,  83699,  46.5460,Time deployment,  46.1500,422,2108,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,274,Departure
+T1_25L.avi,  83703,  46.5482,Time deployment,  46.1523,654,1959,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,275,Departure
+T1_25L.avi,  83728,  46.5621,Time deployment,  46.1662,690,1886,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,277,Departure
+T1_25L.avi,  83963,  46.6928,Time deployment,  46.2969,620,1927,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,276,Departure
+T1_25L.avi,  83993,  46.7095,Time deployment,  46.3135,985,1740,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,278,Arrival
+T1_25L.avi,  84386,  46.9280,Time deployment,  46.5321,746,2341,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,279,Arrival
+T1_25L.avi,  84386,  46.9280,Time deployment,  46.5321,780,2352,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,280,Arrival
+T1_25L.avi,  84444,  46.9603,Time deployment,  46.5643,810,2344,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,279,Departure
+T1_25L.avi,  84494,  46.9881,Time deployment,  46.5921,736,2365,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,280,Departure
+T1_25L.avi,  84648,  47.0737,Time deployment,  46.6778,594,1832,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,281,Arrival
+T1_25L.avi,  84834,  47.1772,Time deployment,  46.7812,864,1563,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,278,Departure
+T1_25L.avi,  84836,  47.1783,Time deployment,  46.7823,569,1827,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,281,Departure
+T1_25L.avi,  84980,  47.2584,Time deployment,  46.8624,481,2138,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,282,Arrival
+T1_25L.avi,  85055,  47.3001,Time deployment,  46.9041,445,2152,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,282,Departure
+T1_25L.avi,  85078,  47.3129,Time deployment,  46.9169,605,2310,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,283,Arrival
+T1_25L.avi,  85097,  47.3234,Time deployment,  46.9275,512,2179,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,284,Arrival
+T1_25L.avi,  85156,  47.3562,Time deployment,  46.9603,555,2319,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,367,New_flower
+T1_25L.avi,  85197,  47.3790,Time deployment,  46.9831,684,2264,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,285,Arrival
+T1_25L.avi,  85376,  47.4786,Time deployment,  47.0826,504,2260,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,284,Departure
+T1_25L.avi,  85427,  47.5070,Time deployment,  47.1110,708,2262,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,286,Arrival
+T1_25L.avi,  85435,  47.5114,Time deployment,  47.1154,512,2319,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,283,Departure
+T1_25L.avi,  85521,  47.5592,Time deployment,  47.1633,728,1755,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,287,Arrival
+T1_25L.avi,  85967,  47.8073,Time deployment,  47.4113,510,2390,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,367,Departure
+T1_25L.avi,  85977,  47.8128,Time deployment,  47.4169,525,2404,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,285,Departure
+T1_25L.avi,  85978,  47.8134,Time deployment,  47.4174,507,2418,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,286,Departure
+T1_25L.avi,  86056,  47.8567,Time deployment,  47.4608,888,2321,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,288,Arrival
+T1_25L.avi,  86295,  47.9897,Time deployment,  47.5937,751,1845,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,290,Arrival
+T1_25L.avi,  86328,  48.0080,Time deployment,  47.6121,761,2310,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,289,Arrival
+T1_25L.avi,  86399,  48.0475,Time deployment,  47.6515,681,2318,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,288,Departure
+T1_25L.avi,  86584,  48.1504,Time deployment,  47.7544,758,1871,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,291,Arrival
+T1_25L.avi,  86645,  48.1843,Time deployment,  47.7883,664,1823,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,292,Arrival
+T1_25L.avi,  86650,  48.1871,Time deployment,  47.7911,753,1704,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,293,Arrival
+T1_25L.avi,  86710,  48.2204,Time deployment,  47.8245,699,2254,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,289,Departure
+T1_25L.avi,  86726,  48.2293,Time deployment,  47.8334,730,1697,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,293,Departure
+T1_25L.avi,  86727,  48.2299,Time deployment,  47.8339,710,1694,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,290,Departure
+T1_25L.avi,  86809,  48.2755,Time deployment,  47.8795,672,1846,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,291,Departure
+T1_25L.avi,  86919,  48.3367,Time deployment,  47.9407,769,1591,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,292,Departure
+T1_25L.avi,  86979,  48.3700,Time deployment,  47.9741,674,2012,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,294,Arrival
+T1_25L.avi,  87348,  48.5752,Time deployment,  48.1793,422,2108,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,294,Departure
+T1_25L.avi,  87525,  48.6737,Time deployment,  48.2777,504,2386,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,295,Arrival
+T1_25L.avi,  87616,  48.7243,Time deployment,  48.3283,805,1635,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,296,Arrival
+T1_25L.avi,  87715,  48.7793,Time deployment,  48.3834,522,2380,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,295,Departure
+T1_25L.avi,  87803,  48.8283,Time deployment,  48.4323,825,1634,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,296,Departure
+T1_25L.avi,  88063,  48.9729,Time deployment,  48.5769,512,2406,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,297,Arrival
+T1_25L.avi,  88178,  49.0368,Time deployment,  48.6409,605,1894,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,298,Arrival
+T1_25L.avi,  88412,  49.1669,Time deployment,  48.7710,556,2403,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,299,Arrival
+T1_25L.avi,  88413,  49.1675,Time deployment,  48.7715,484,2247,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,300,Arrival
+T1_25L.avi,  88444,  49.1847,Time deployment,  48.7888,555,2393,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,297,Departure
+T1_25L.avi,  88523,  49.2287,Time deployment,  48.8327,643,2400,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,299,Departure
+T1_25L.avi,  88641,  49.2943,Time deployment,  48.8983,527,2193,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,301,Arrival
+T1_25L.avi,  88734,  49.3460,Time deployment,  48.9501,465,2147,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,298,Departure
+T1_25L.avi,  88735,  49.3466,Time deployment,  48.9506,463,2152,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,300,Departure
+T1_25L.avi,  88796,  49.3805,Time deployment,  48.9845,434,2260,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,301,Departure
+T1_25L.avi,  88931,  49.4556,Time deployment,  49.0596,501,2385,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,302,Arrival
+T1_25L.avi,  89035,  49.5134,Time deployment,  49.1175,957,2347,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,303,Arrival
+T1_25L.avi,  89082,  49.5395,Time deployment,  49.1436,499,2390,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,302,Departure
+T1_25L.avi,  89492,  49.7675,Time deployment,  49.3716,602,2303,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,304,Arrival
+T1_25L.avi,  89520,  49.7831,Time deployment,  49.3872,587,2300,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,304,Departure
+T1_25L.avi,  89946,  50.0200,Time deployment,  49.6241,826,2378,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,305,Arrival
+T1_25L.avi,  89964,  50.0300,Time deployment,  49.6341,694,2247,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,306,Arrival
+T1_25L.avi,  90095,  50.1029,Time deployment,  49.7069,712,2236,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,306,Departure
+T1_25L.avi,  90116,  50.1146,Time deployment,  49.7186,710,2118,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,307,Arrival
+T1_25L.avi,  90221,  50.1730,Time deployment,  49.7770,615,2123,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,307,Departure
+T1_25L.avi,  90681,  50.4288,Time deployment,  50.0328,686,2015,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,308,Arrival
+T1_25L.avi,  91044,  50.6306,Time deployment,  50.2347,620,2079,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,308,Departure
+T1_25L.avi,  91390,  50.8230,Time deployment,  50.4271,956,1624,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,309,Arrival
+T1_25L.avi,  91419,  50.8392,Time deployment,  50.4432,646,1750,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,310,Arrival
+T1_25L.avi,  91629,  50.9560,Time deployment,  50.5600,844,1588,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,309,Departure
+T1_25L.avi,  91642,  50.9632,Time deployment,  50.5672,646,1753,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen,,310,Departure
+T1_25L.avi,  91664,  50.9754,Time deployment,  50.5795,638,1809,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,311,New_flower
+T1_25L.avi,  91945,  51.1317,Time deployment,  50.7357,756,2203,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,312,Arrival
+T1_25L.avi,  92021,  51.1740,Time deployment,  50.7780,866,1643,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,313,Arrival
+T1_25L.avi,  92131,  51.2351,Time deployment,  50.8392,735,1656,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,313,Departure
+T1_25L.avi,  92230,  51.2902,Time deployment,  50.8942,748,2215,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,314,Arrival
+T1_25L.avi,  92455,  51.4153,Time deployment,  51.0194,497,2390,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,315,Arrival
+T1_25L.avi,  92513,  51.4476,Time deployment,  51.0516,486,2380,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,315,Departure
+T1_25L.avi,  92527,  51.4553,Time deployment,  51.0594,743,2221,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,312,Departure
+T1_25L.avi,  92708,  51.5560,Time deployment,  51.1600,767,2197,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,314,Departure
+T1_25L.avi,  92810,  51.6127,Time deployment,  51.2168,772,2452,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,316,Arrival
+T1_25L.avi,  92830,  51.6238,Time deployment,  51.2279,707,2246,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,317,Arrival
+T1_25L.avi,  92879,  51.6511,Time deployment,  51.2551,784,2463,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,316,Departure
+T1_25L.avi,  92950,  51.6906,Time deployment,  51.2946,728,2242,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,317,Departure
+T1_25L.avi,  92959,  51.6956,Time deployment,  51.2996,496,2087,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,318,Arrival
+T1_25L.avi,  93010,  51.7239,Time deployment,  51.3280,483,2072,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,318,Departure
+T1_25L.avi,  93107,  51.7779,Time deployment,  51.3819,818,1809,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,319,Arrival
+T1_25L.avi,  93142,  51.7974,Time deployment,  51.4014,787,1805,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,319,Departure
+T1_25L.avi,  93181,  51.8190,Time deployment,  51.4231,834,2182,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,320,Arrival
+T1_25L.avi,  93251,  51.8580,Time deployment,  51.4620,821,2211,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,321,Arrival
+T1_25L.avi,  93262,  51.8641,Time deployment,  51.4681,823,2143,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,320,Departure
+T1_25L.avi,  93295,  51.8824,Time deployment,  51.4865,579,2391,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,322,Arrival
+T1_25L.avi,  93306,  51.8886,Time deployment,  51.4926,810,2193,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,321,Departure
+T1_25L.avi,  93506,  51.9998,Time deployment,  51.6038,990,1709,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,323,Arrival
+T1_25L.avi,  93521,  52.0081,Time deployment,  51.6122,646,2334,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,325,Arrival
+T1_25L.avi,  93540,  52.0187,Time deployment,  51.6227,630,2390,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,322,Departure
+T1_25L.avi,  93556,  52.0276,Time deployment,  51.6316,581,2290,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,324,Arrival
+T1_25L.avi,  93608,  52.0565,Time deployment,  51.6605,663,2350,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,325,Departure
+T1_25L.avi,  93705,  52.1104,Time deployment,  51.7145,913,1562,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,323,Departure
+T1_25L.avi,  93765,  52.1438,Time deployment,  51.7479,758,1696,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,326,Arrival
+T1_25L.avi,  93834,  52.1822,Time deployment,  51.7862,741,2310,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,327,Arrival
+T1_25L.avi,  93864,  52.1989,Time deployment,  51.8029,707,1704,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,328,Arrival
+T1_25L.avi,  93966,  52.2556,Time deployment,  51.8596,699,1676,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,326,Departure
+T1_25L.avi,  94193,  52.3818,Time deployment,  51.9859,702,2239,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,329,Arrival
+T1_25L.avi,  94272,  52.4258,Time deployment,  52.0298,664,1815,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,328,Departure
+T1_25L.avi,  94358,  52.4736,Time deployment,  52.0776,528,2296,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,327,Departure
+T1_25L.avi,  94367,  52.4786,Time deployment,  52.0826,686,2231,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,329,Departure
+T1_25L.avi,  94467,  52.5342,Time deployment,  52.1382,484,2370,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,330,Arrival
+T1_25L.avi,  94529,  52.5687,Time deployment,  52.1727,491,2393,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,330,Departure
+T1_25L.avi,  94579,  52.5965,Time deployment,  52.2005,632,2403,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,331,New_flower
+T1_25L.avi,  95040,  52.8529,Time deployment,  52.4569,898,2355,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,332,Arrival
+T1_25L.avi,  95059,  52.8634,Time deployment,  52.4675,553,2314,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,335,Arrival
+T1_25L.avi,  95103,  52.8879,Time deployment,  52.4919,862,1874,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,333,Arrival
+T1_25L.avi,  95123,  52.8990,Time deployment,  52.5031,540,2354,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,335,Departure
+T1_25L.avi,  95185,  52.9335,Time deployment,  52.5375,808,1871,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,333,Departure
+T1_25L.avi,  95228,  52.9574,Time deployment,  52.5615,836,1764,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,334,Arrival
+T1_25L.avi,  95290,  52.9919,Time deployment,  52.5959,830,1699,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,334,Departure
+T1_25L.avi,  95760,  53.2533,Time deployment,  52.8573,553,2360,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,332,Departure
+T1_25L.avi,  96269,  53.5363,Time deployment,  53.1404,671,1812,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,337,Arrival
+T1_25L.avi,  96654,  53.7504,Time deployment,  53.3545,609,1861,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,337,Departure
+T1_25L.avi,  96664,  53.7560,Time deployment,  53.3600,669,1794,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,338,Arrival
+T1_25L.avi,  96823,  53.8444,Time deployment,  53.4484,607,1918,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,339,Arrival
+T1_25L.avi,  96932,  53.9050,Time deployment,  53.5091,561,1879,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,339,Departure
+T1_25L.avi,  96942,  53.9106,Time deployment,  53.5146,496,2391,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,340,Arrival
+T1_25L.avi,  97011,  53.9489,Time deployment,  53.5530,496,2380,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,340,Departure
+T1_25L.avi,  97118,  54.0085,Time deployment,  53.6125,514,2236,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,338,Departure
+T1_25L.avi, 100453,  55.8631,Time deployment,  55.4671,983,2324,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,341,Arrival
+T1_25L.avi, 100453,  55.8631,Time deployment,  55.4671,970,2341,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,342,New_flower
+T1_25L.avi, 100453,  55.8631,Time deployment,  55.4671,1031,2202,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,343,New_flower
+T1_25L.avi, 100544,  55.9137,Time deployment,  55.5177,974,2321,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,341,Departure
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,746,2431,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,344,New_flower
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,826,2056,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,798,2049,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,861,2085,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,859,2089,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,893,2089,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,897,2093,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,903,2084,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,905,2064,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,908,2062,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,921,2066,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,898,2071,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,897,2074,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,890,2077,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,926,2041,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,928,2033,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,883,2040,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,879,2048,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,878,2053,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,875,2061,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,873,2069,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,882,2077,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,870,2080,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,907,2080,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,905,2083,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,907,2087,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,906,2073,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,962,2113,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1016,2176,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1075,1851,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,823,1786,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,499,2208,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,741,2301,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,551,2298,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,702,2038,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,776,1990,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,771,1866,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,761,1843,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1060,2031,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,758,2164,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,730,2233,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1047,2138,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1041,2089,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1111,2116,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1365,1889,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,,,,
+T1_25L.avi, 101820,  56.6233,Time deployment,  56.2273,1289,1796,T1_25,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T1_25L.avi, 101966,  56.7045,Time deployment,  56.3085,970,2346,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,345,Arrival
+T1_25L.avi, 102351,  56.9186,Time deployment,  56.5226,895,1948,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,346,Arrival
+T1_25L.avi, 102408,  56.9503,Time deployment,  56.5543,885,1953,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,346,Departure
+T1_25L.avi, 102841,  57.1911,Time deployment,  56.7951,1150,1450,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,347,Arrival
+T1_25L.avi, 102995,  57.2767,Time deployment,  56.8808,970,2344,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,345,Departure
+T1_25L.avi, 103632,  57.6310,Time deployment,  57.2350,731,2192,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,348,Arrival
+T1_25L.avi, 103774,  57.7099,Time deployment,  57.3140,720,2202,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,348,Departure
+T1_25L.avi, 103804,  57.7266,Time deployment,  57.3307,586,1963,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,349,Arrival
+T1_25L.avi, 104043,  57.8595,Time deployment,  57.4636,776,2206,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,350,Arrival
+T1_25L.avi, 104186,  57.9391,Time deployment,  57.5431,740,2192,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,350,Departure
+T1_25L.avi, 104197,  57.9452,Time deployment,  57.5492,993,2306,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,354,Arrival
+T1_25L.avi, 104298,  58.0013,Time deployment,  57.6054,563,2324,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,AD,Collecting nectar,,351,New_flower
+T1_25L.avi, 104531,  58.1309,Time deployment,  57.7350,1065,2190,T1_25,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,352,Arrival
+T1_25L.avi, 104548,  58.1404,Time deployment,  57.7444,990,2313,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,354,Departure
+T1_25L.avi, 104615,  58.1776,Time deployment,  57.7817,720,1750,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,356,Arrival
+T1_25L.avi, 104660,  58.2026,Time deployment,  57.8067,735,1737,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,356,Departure
+T1_25L.avi, 104812,  58.2872,Time deployment,  57.8912,1010,2180,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,353,Arrival
+T1_25L.avi, 104943,  58.3600,Time deployment,  57.9641,1068,2169,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,353,Departure
+T1_25L.avi, 105375,  58.6003,Time deployment,  58.2043,1124,2203,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,357,Arrival
+T1_25L.avi, 105525,  58.6837,Time deployment,  58.2877,1100,2231,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,357,Departure
+T1_25L.avi, 105715,  58.7893,Time deployment,  58.3934,640,2197,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,358,Arrival
+T1_25L.avi, 105752,  58.8099,Time deployment,  58.4140,628,2174,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,358,Departure
+T1_25L.avi, 105874,  58.8778,Time deployment,  58.4818,792,2228,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,359,Arrival
+T1_25L.avi, 105874,  58.8778,Time deployment,  58.4818,515,2039,T1_25,Jake,,,,,,,,,,,Order_Diptera,,sp4,,1,AD,Collecting nectar,,360,Arrival
+T1_25L.avi, 106412,  59.1770,Time deployment,  58.7810,1001,2339,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,361,Arrival
+T1_25L.avi, 106630,  59.2982,Time deployment,  58.9022,1001,2310,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,362,Arrival
+T1_25L.avi, 106645,  59.3065,Time deployment,  58.9106,956,2318,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,363,Arrival
+T1_25L.avi, 106730,  59.3538,Time deployment,  58.9578,689,1858,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,364,Arrival
+T1_25L.avi, 106799,  59.3922,Time deployment,  58.9962,1008,2296,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,362,Departure
+T1_25L.avi, 106913,  59.4556,Time deployment,  59.0596,689,1804,T1_25,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,364,Departure
+T1_25L.avi, 107111,  59.5657,Time deployment,  59.1697,1001,2341,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,365,Arrival
+T1_25L.avi, 107261,  59.6491,Time deployment,  59.2531,1008,2355,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,365,Departure
+T1_25L.avi, 107597,  59.8359,Time deployment,  59.4400,704,2231,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,359,Departure
+T1_25L.avi, 107889,  59.9983,Time deployment,  59.6024,543,2378,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,366,Arrival
+T1_25L.avi, 107989,  60.0539,Time deployment,  59.6580,486,2400,T1_25,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,366,Departure
+T1_25L.avi, 108275,  60.2130,Time deployment,  59.8170,499,2108,T1_25,Jake,,,,,,,,,,,Order_Diptera,,sp4,,1,AD,Collecting nectar,,360,Departure

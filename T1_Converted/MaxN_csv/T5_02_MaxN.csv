@@ -1,0 +1,15 @@
+MaxN
+
+Generated: Wednesday, February 13, 2019 07:39:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T5_02L.avi,  51994,  28.9145,Time deployment,  18.7482,T5_02,Jake,,,,,,,,,,,,,sp,,1,No
+T5_02L.avi, 102423,  56.9586,Time deployment,  46.7923,T5_02,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T5_02L.avi,  54457,  30.2842,Time deployment,  20.1179,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,No
+T5_02L.avi,  31843,  17.7083,Time deployment,   7.5420,T5_02,Jake,,,,,,,,,,,Formicidae,,sp,,1,No
+T5_02L.avi,  77292,  42.9830,Time deployment,  32.8167,T5_02,Jake,,,,,,,,,,,Geometridae,,sp,,1,No
+T5_02L.avi,  43899,  24.4127,Time deployment,  14.2465,T5_02,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,No
+T5_02L.avi, 123092,  68.4529,Time deployment,  58.2866,T5_02,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,2,No
+T5_02L.avi,  31843,  17.7083,Time deployment,   7.5420,T5_02,Jake,,,,,,,,,,,Order_Mantodea,,sp,,1,No
+T5_02L.avi,  21069,  11.7167,Time deployment,   1.5504,T5_02,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,2,No
+T5_02L.avi,  18344,  10.2013,Time deployment,   0.0350,T5_02,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,No

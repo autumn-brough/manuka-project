@@ -1,0 +1,64 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:16:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T1_21L.avi,   9133,   5.0790,Time deployment,   0.6662,846,1354,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,1,
+T1_21L.avi,  17288,   9.6141,Time deployment,   5.2013,1041,1331,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Attracted,,2,
+T1_21L.avi,  18696,  10.3971,Time deployment,   5.9843,772,2159,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Collecting nectar,,3,
+T1_21L.avi,  20103,  11.1795,Time deployment,   6.7668,1039,2221,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,,,4,
+T1_21L.avi,  20103,  11.1795,Time deployment,   6.7668,705,2177,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Collecting nectar,,3,
+T1_21L.avi,  20670,  11.4948,Time deployment,   7.0821,808,2102,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Collecting nectar,,4,
+T1_21L.avi,  22537,  12.5331,Time deployment,   8.1203,741,1737,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,3,
+T1_21L.avi,  23141,  12.8690,Time deployment,   8.4562,1062,1450,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Collecting nectar,,4,
+T1_21L.avi,  23333,  12.9758,Time deployment,   8.5630,1062,1457,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Collecting pollen or nectar,,3,
+T1_21L.avi,  32205,  17.9096,Time deployment,  13.4968,892,1455,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Attracted,,5,
+T1_21L.avi,  39455,  21.9414,Time deployment,  17.5286,776,1756,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,6,
+T1_21L.avi,  41558,  23.1109,Time deployment,  18.6981,830,1818,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,6,
+T1_21L.avi,  45497,  25.3014,Time deployment,  20.8887,1003,1367,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,7,
+T1_21L.avi,  46007,  25.5850,Time deployment,  21.1723,1168,1488,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting nectar,,8,Arrival
+T1_21L.avi,  46120,  25.6479,Time deployment,  21.2351,1037,1560,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting nectar,,8,Departure
+T1_21L.avi,  49997,  27.8039,Time deployment,  23.3912,838,1830,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,9,
+T1_21L.avi,  53959,  30.0072,Time deployment,  25.5945,825,1861,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,10,
+T1_21L.avi,  56451,  31.3931,Time deployment,  26.9803,831,1825,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,11,
+T1_21L.avi,  56599,  31.4754,Time deployment,  27.0626,859,1846,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,11,
+T1_21L.avi,  56599,  31.4754,Time deployment,  27.0626,831,1859,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,10,
+T1_21L.avi,  56599,  31.4754,Time deployment,  27.0626,1203,1956,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,,,12,
+T1_21L.avi,  57193,  31.8057,Time deployment,  27.3929,831,1823,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,12,
+T1_21L.avi,  63404,  35.2597,Time deployment,  30.8470,890,1309,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,13,
+T1_21L.avi,  63544,  35.3376,Time deployment,  30.9248,779,1789,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,10,
+T1_21L.avi,  64788,  36.0294,Time deployment,  31.6166,815,1823,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,10,
+T1_21L.avi,  68884,  38.3072,Time deployment,  33.8944,753,1748,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,10,
+T1_21L.avi,  72514,  40.3259,Time deployment,  35.9131,510,2537,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Passing,,14,
+T1_21L.avi,  72802,  40.4860,Time deployment,  36.0733,697,2069,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting nectar w/ PB,,14,Arrival
+T1_21L.avi,  72890,  40.5350,Time deployment,  36.1222,604,2120,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting nectar w/ PB,,14,Departure
+T1_21L.avi,  72929,  40.5567,Time deployment,  36.1439,1032,1540,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting nectar w/ PB,,14,Arrival
+T1_21L.avi,  72998,  40.5950,Time deployment,  36.1823,1098,1530,T1_21,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting nectar w/ PB,,14,Departure
+T1_21L.avi,  73720,  40.9966,Time deployment,  36.5838,777,2287,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,15,
+T1_21L.avi,  74619,  41.4965,Time deployment,  37.0838,805,2251,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Attracted,,16,
+T1_21L.avi,  77010,  42.8262,Time deployment,  38.4134,802,1807,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,17,
+T1_21L.avi,  77167,  42.9135,Time deployment,  38.5007,808,1802,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,18,
+T1_21L.avi,  77540,  43.1209,Time deployment,  38.7082,563,1931,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,19,
+T1_21L.avi,  81930,  45.5622,Time deployment,  41.1495,784,1745,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,20,
+T1_21L.avi,  83144,  46.2373,Time deployment,  41.8246,795,1802,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,,Attracted,,20,
+T1_21L.avi,  84899,  47.2133,Time deployment,  42.8006,900,1480,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,21,
+T1_21L.avi,  90269,  50.1996,Time deployment,  45.7869,712,2175,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Collecting nectar,,22,
+T1_21L.avi,  94030,  52.2912,Time deployment,  47.8784,800,1800,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,22,
+T1_21L.avi,  94112,  52.3368,Time deployment,  47.9240,789,1776,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,22,
+T1_21L.avi,  94801,  52.7199,Time deployment,  48.3072,820,1818,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,22,
+T1_21L.avi,  94985,  52.8223,Time deployment,  48.4095,815,1817,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,23,
+T1_21L.avi,  96053,  53.4162,Time deployment,  49.0034,1126,1552,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Collecting nectar,,22,
+T1_21L.avi,  96517,  53.6742,Time deployment,  49.2615,1193,1416,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Arrival
+T1_21L.avi,  96519,  53.6753,Time deployment,  49.2626,1180,1401,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Departure
+T1_21L.avi,  96526,  53.6792,Time deployment,  49.2665,1129,1368,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Arrival
+T1_21L.avi,  96528,  53.6803,Time deployment,  49.2676,1149,1349,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Departure
+T1_21L.avi,  96533,  53.6831,Time deployment,  49.2704,1137,1378,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Arrival
+T1_21L.avi,  96535,  53.6842,Time deployment,  49.2715,1142,1362,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Departure
+T1_21L.avi,  96552,  53.6937,Time deployment,  49.2809,1013,1370,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Arrival
+T1_21L.avi,  96565,  53.7009,Time deployment,  49.2882,1016,1341,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Collecting nectar,,24,Departure
+T1_21L.avi, 104945,  58.3611,Time deployment,  53.9484,820,1814,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,25,
+T1_21L.avi, 105671,  58.7649,Time deployment,  54.3521,627,1539,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,26,
+T1_21L.avi, 106029,  58.9640,Time deployment,  54.5512,602,2030,T1_21,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,,Passing,,27,
+T1_21L.avi, 107408,  59.7308,Time deployment,  55.3181,834,1825,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,28,
+T1_21L.avi, 110067,  61.2095,Time deployment,  56.7968,761,1761,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Attracted,,28,
+T1_21L.avi, 111346,  61.9208,Time deployment,  57.5081,782,2177,T1_21,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Collecting nectar,,28,

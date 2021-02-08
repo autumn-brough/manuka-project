@@ -1,0 +1,27 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:20
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T3_12L.avi,  30950,  17.2117,Time deployment,   0.1668,1060,1562,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Passing,,1,
+T3_12L.avi,  31179,  17.3390,Time deployment,   0.2942,992,1660,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,1,Arrival
+T3_12L.avi,  39130,  21.7606,Time deployment,   4.7158,771,2175,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,2,Arrival
+T3_12L.avi,  39130,  21.7606,Time deployment,   4.7158,938,1661,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,1,
+T3_12L.avi,  41319,  22.9780,Time deployment,   5.9332,1356,1393,T3_12,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Passing,,3,
+T3_12L.avi,  53337,  29.6613,Time deployment,  12.6165,960,1681,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T3_12L.avi,  54034,  30.0489,Time deployment,  13.0041,1098,1308,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,1,Arrival
+T3_12L.avi,  56474,  31.4059,Time deployment,  14.3610,1239,961,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T3_12L.avi,  63466,  35.2942,Time deployment,  18.2494,239,2535,T3_12,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen and nectar,,4,New_flower
+T3_12L.avi,  71600,  39.8176,Time deployment,  22.7728,1304,1666,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,5,New_flower
+T3_12L.avi,  86677,  48.2021,Time deployment,  31.1573,244,2146,T3_12,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,6,New_flower
+T3_12L.avi,  90253,  50.1907,Time deployment,  33.1459,947,1750,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,5,
+T3_12L.avi,  90253,  50.1907,Time deployment,  33.1459,193,2594,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Passing,,7,
+T3_12L.avi,  99691,  55.4393,Time deployment,  38.3945,977,1494,T3_12,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,10,New_flower
+T3_12L.avi, 105016,  58.4006,Time deployment,  41.3558,902,956,T3_12,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,9,Arrival
+T3_12L.avi, 105219,  58.5135,Time deployment,  41.4687,569,1437,T3_12,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,8,Arrival
+T3_12L.avi, 105257,  58.5346,Time deployment,  41.4898,596,1416,T3_12,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,8,Departure
+T3_12L.avi, 105302,  58.5597,Time deployment,  41.5148,1006,1778,T3_12,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,8,Arrival
+T3_12L.avi, 105335,  58.5780,Time deployment,  41.5332,1039,1805,T3_12,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,8,Departure
+T3_12L.avi, 111675,  62.1038,Time deployment,  45.0589,906,1516,T3_12,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,10,Departure
+T3_12L.avi, 127119,  70.6924,Time deployment,  53.6475,316,1665,T3_12,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,11,Arrival
+T3_12L.avi, 128014,  71.1901,Time deployment,  54.1453,319,1704,T3_12,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,11,Departure

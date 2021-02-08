@@ -1,0 +1,14 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:42
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_35L.avi,  48220,  26.8157,Time deployment,  11.6200,T1_35,Jake,,,,,,,,,,,,,sp,,1,No
+T1_35L.avi,  87968,  48.9200,Time deployment,  33.7243,T1_35,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,3,No
+T1_35L.avi,  35677,  19.8404,Time deployment,   4.6446,T1_35,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,2,No
+T1_35L.avi,  40308,  22.4157,Time deployment,   7.2200,T1_35,Jake,,,,,,,,,,,Coreidae,,sp,,1,No
+T1_35L.avi,  32168,  17.8890,Time deployment,   2.6932,T1_35,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,No
+T1_35L.avi,  85643,  47.6271,Time deployment,  32.4313,T1_35,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,2,No
+T1_35L.avi,  38544,  21.4348,Time deployment,   6.2390,T1_35,Jake,,,,,,,,,,,Order_Diptera,,sp,,2,No
+T1_35L.avi,  36817,  20.4744,Time deployment,   5.2786,T1_35,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,No
+T1_35L.avi,  51196,  28.4707,Time deployment,  13.2749,T1_35,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,No

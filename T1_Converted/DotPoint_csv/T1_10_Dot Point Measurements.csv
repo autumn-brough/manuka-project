@@ -1,0 +1,18 @@
+Dot Point Measurements,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Generated: Friday, February 01, 2019 11:16:54,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T1_10L.avi,48671,27.0664,Time deployment,19.5856,651,938,T1_10,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Attracted,,12,
+T1_10L.avi,48978,27.2372,Time deployment,19.7564,579,1026,T1_10,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting pollen or nectar,,12,New_flower
+T1_10L.avi,56343,31.3329,Time deployment,23.8521,870,1503,T1_10,Jake,,,,,,,,,,,Order_Himiptera,,sp,,1,,Collecting pollen or nectar,8,1,New_flower
+T1_10L.avi,60637,33.7208,Time deployment,26.2401,113,1039,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,4,
+T1_10L.avi,71949,40.0116,Time deployment,32.5308,628,1118,T1_10,Jake,,,,,,,,,,,Thomisidae,Thomisus,spectabilis,18,1,AD,,6,2,New_flower
+T1_10L.avi,95457,53.0846,Time deployment,45.6038,252,1116,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,5,
+T1_10L.avi,95457,53.0846,Time deployment,45.6038,463,1054,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,6,
+T1_10L.avi,95457,53.0846,Time deployment,45.6038,823,1974,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,7,
+T1_10L.avi,96767,53.8131,Time deployment,46.3323,407,108,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,8,
+T1_10L.avi,96767,53.8131,Time deployment,46.3323,437,146,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,9,
+T1_10L.avi,96767,53.8131,Time deployment,46.3323,345,1115,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,10,
+T1_10L.avi,96767,53.8131,Time deployment,46.3323,429,1041,T1_10,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,11,
+T1_10L.avi,109921,61.1282,Time deployment,53.6474,842,2640,T1_10,Jake,,,,,,,,,,,Tingidae,Teleonemia,scrupulosa,19,1,,Attracted,16,3,New_flower

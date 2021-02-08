@@ -1,0 +1,25 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:54
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_27L.avi,   1422,   0.7908,Time deployment,   0.0000,394,1498,T4_27,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,AD,Collecting pollen or nectar,,1,New_flower
+T4_27L.avi,   1622,   0.9020,Time deployment,   0.1112,445,1511,T4_27,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T4_27L.avi,   1984,   1.1033,Time deployment,   0.3125,648,668,T4_27,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,2,Arrival
+T4_27L.avi,   5788,   3.2188,Time deployment,   2.4280,509,2031,T4_27,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T4_27L.avi,  19082,  10.6117,Time deployment,   9.8209,996,1679,T4_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,3,New_flower
+T4_27L.avi,  25069,  13.9412,Time deployment,  13.1504,259,2334,T4_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,4,New_flower
+T4_27L.avi,  28708,  15.9649,Time deployment,  15.1741,1299,737,T4_27,Jake,,,,,,,,,,,Order_Araneae,,sp,,1,AD,Guarding bait,,,
+T4_27L.avi,  33384,  18.5652,Time deployment,  17.7744,438,1080,T4_27,Jake,,,,,,,,,,,,,sp,,1,AD,,,,
+T4_27L.avi,  41176,  22.8985,Time deployment,  22.1077,177,1398,T4_27,Jake,,,,,,,,,,,Order_Araneae,,sp,,1,AD,Guarding bait,,,
+T4_27L.avi,  61758,  34.3443,Time deployment,  33.5536,771,1273,T4_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,5,New_flower
+T4_27L.avi,  66950,  37.2317,Time deployment,  36.4409,298,257,T4_27,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,6,
+T4_27L.avi,  70396,  39.1480,Time deployment,  38.3572,833,831,T4_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,7,New_flower
+T4_27L.avi,  77837,  43.2861,Time deployment,  42.4953,82,1131,T4_27,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,8,Arrival
+T4_27L.avi,  77906,  43.3244,Time deployment,  42.5336,154,1201,T4_27,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,8,Departure
+T4_27L.avi,  85361,  47.4702,Time deployment,  46.6795,80,1262,T4_27,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,9,Arrival
+T4_27L.avi,  85380,  47.4808,Time deployment,  46.6900,67,1224,T4_27,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,9,Departure
+T4_27L.avi,  98845,  54.9689,Time deployment,  54.1781,798,478,T4_27,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,10,Arrival
+T4_27L.avi, 102240,  56.8569,Time deployment,  56.0661,808,1074,T4_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,
+T4_27L.avi, 102240,  56.8569,Time deployment,  56.0661,273,1359,T4_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,
+T4_27L.avi, 108674,  60.4349,Time deployment,  59.6441,661,560,T4_27,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,10,Departure

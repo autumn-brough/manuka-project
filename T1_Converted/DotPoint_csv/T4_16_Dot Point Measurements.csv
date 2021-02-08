@@ -1,0 +1,58 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:54
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_16L.avi,   7423,   4.1280,Time deployment,   3.0019,1147,1532,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,Arrival
+T4_16L.avi,   9566,   5.3198,Time deployment,   4.1936,1365,1792,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,3,New_flower
+T4_16L.avi,   9566,   5.3198,Time deployment,   4.1936,1356,1805,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,New_flower
+T4_16L.avi,  12591,   7.0020,Time deployment,   5.8759,1134,1656,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T4_16L.avi,  13122,   7.2973,Time deployment,   6.1712,254,1719,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Collecting pollen or nectar,,2,New_flower
+T4_16L.avi,  15063,   8.3767,Time deployment,   7.2506,877,2198,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,,
+T4_16L.avi,  15204,   8.4551,Time deployment,   7.3290,164,1722,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Attracted,,,
+T4_16L.avi,  15204,   8.4551,Time deployment,   7.3290,193,1701,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Collecting pollen or nectar,,2,
+T4_16L.avi,  15912,   8.8488,Time deployment,   7.7227,146,1710,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Collecting pollen or nectar,,2,Departure
+T4_16L.avi,  15937,   8.8628,Time deployment,   7.7366,116,1617,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Collecting pollen or nectar,,2,Arrival
+T4_16L.avi,  16247,   9.0351,Time deployment,   7.9090,1381,1786,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,Departure
+T4_16L.avi,  22977,  12.7778,Time deployment,  11.6517,85,1465,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Attracted,,,
+T4_16L.avi,  23519,  13.0792,Time deployment,  11.9531,214,1710,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Collecting pollen or nectar,,2,Departure
+T4_16L.avi,  25536,  14.2009,Time deployment,  13.0747,36,1453,T4_16,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,,
+T4_16L.avi,  28075,  15.6128,Time deployment,  14.4867,1342,1717,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,,
+T4_16L.avi,  28075,  15.6128,Time deployment,  14.4867,1404,1766,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,,
+T4_16L.avi,  28075,  15.6128,Time deployment,  14.4867,798,1710,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,,
+T4_16L.avi,  28075,  15.6128,Time deployment,  14.4867,1023,1704,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,,
+T4_16L.avi,  29465,  16.3858,Time deployment,  15.2597,80,1494,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,5,Arrival
+T4_16L.avi,  33628,  18.7009,Time deployment,  17.5748,123,1465,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T4_16L.avi,  38165,  21.2240,Time deployment,  20.0979,178,1283,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Attracted,,,
+T4_16L.avi,  38780,  21.5660,Time deployment,  20.4399,61,1691,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Attracted,,,
+T4_16L.avi,  40523,  22.5353,Time deployment,  21.4092,44,2103,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Attracted,,,
+T4_16L.avi,  41385,  23.0147,Time deployment,  21.8886,1289,1992,T4_16,Jake,,,,,,,,,,,,,sp2,,1,AD,Attracted,,,
+T4_16L.avi,  44259,  24.6129,Time deployment,  23.4868,1217,1881,T4_16,Jake,,,,,,,,,,,Apidae,Tetragonula,carbonaria,5,1,AD,Collecting pollen or nectar,,6,Arrival
+T4_16L.avi,  44798,  24.9127,Time deployment,  23.7866,1306,1930,T4_16,Jake,,,,,,,,,,,Apidae,Tetragonula,carbonaria,5,1,AD,Collecting pollen or nectar,,6,Departure
+T4_16L.avi,  47815,  26.5905,Time deployment,  25.4644,268,1977,T4_16,Jake,,,,,,,,,,,,,sp2,,1,AD,Attracted,,,
+T4_16L.avi,  49873,  27.7350,Time deployment,  26.6088,488,1650,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,8,Arrival
+T4_16L.avi,  52216,  29.0379,Time deployment,  27.9118,650,1796,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,7,New_flower
+T4_16L.avi,  52853,  29.3922,Time deployment,  28.2660,566,1562,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,8,Departure
+T4_16L.avi,  58220,  32.3768,Time deployment,  31.2507,72,1719,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Passing,,,
+T4_16L.avi,  63106,  35.0940,Time deployment,  33.9679,1333,1779,T4_16,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,20,Arrival
+T4_16L.avi,  63415,  35.2658,Time deployment,  34.1397,1247,1668,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,9,New_flower
+T4_16L.avi,  63603,  35.3704,Time deployment,  34.2442,980,1764,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,10,Arrival
+T4_16L.avi,  74189,  41.2574,Time deployment,  40.1312,774,1601,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,11,New_flower
+T4_16L.avi,  74344,  41.3436,Time deployment,  40.2174,406,1746,T4_16,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,12,Arrival
+T4_16L.avi,  74995,  41.7056,Time deployment,  40.5795,327,1814,T4_16,Jake,,,,,,,,,,,,,sp1,,1,AD,Passing,,,
+T4_16L.avi,  75581,  42.0315,Time deployment,  40.9053,672,1599,T4_16,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,13,Arrival
+T4_16L.avi,  75581,  42.0315,Time deployment,  40.9053,416,1755,T4_16,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,12,
+T4_16L.avi,  75999,  42.2639,Time deployment,  41.1378,21,1660,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,14,New_flower
+T4_16L.avi,  78507,  43.6587,Time deployment,  42.5325,425,1724,T4_16,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,17,New_flower
+T4_16L.avi,  78655,  43.7410,Time deployment,  42.6148,1245,1853,T4_16,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,15,Arrival
+T4_16L.avi,  78846,  43.8472,Time deployment,  42.7211,1373,1931,T4_16,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,15,Departure
+T4_16L.avi,  81794,  45.4866,Time deployment,  44.3605,13,1660,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,16,New_flower
+T4_16L.avi,  87483,  48.6503,Time deployment,  47.5242,1034,1794,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,10,Departure
+T4_16L.avi,  96057,  53.4184,Time deployment,  52.2923,748,1827,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,18,New_flower
+T4_16L.avi, 101876,  56.6544,Time deployment,  55.5283,1152,1658,T4_16,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting pollen or nectar,,19,New_flower
+T4_16L.avi, 102633,  57.0754,Time deployment,  55.9493,1356,1760,T4_16,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,20,Departure
+T4_16L.avi, 108907,  60.5645,Time deployment,  59.4383,412,1758,T4_16,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,12,Departure
+T4_16L.avi, 109917,  61.1261,Time deployment,  60.0000,1471,1715,T4_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,3,Departure
+T4_16L.avi, 109917,  61.1261,Time deployment,  60.0000,123,1594,T4_16,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,5,Departure
+T4_16L.avi, 109917,  61.1261,Time deployment,  60.0000,641,1614,T4_16,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Collecting pollen or nectar,,13,Departure
+T4_16L.avi, 109917,  61.1261,Time deployment,  60.0000,342,1737,T4_16,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Collecting pollen or nectar,,17,Departure

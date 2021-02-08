@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:41
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_24R.avi,  55538,  30.8853,Time deployment,  16.5315,T1_24,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,3,No
+T1_24R.avi,  83027,  46.1723,Time deployment,  31.8185,T1_24,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,2,No
+T1_24R.avi,  96279,  53.5419,Time deployment,  39.1881,T1_24,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,No
+T1_24R.avi,  94418,  52.5070,Time deployment,  38.1532,T1_24,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,No
+T1_24R.avi,  34855,  19.3833,Time deployment,   5.0295,T1_24,Jake,,,,,,,,,,,Tingidae,Teleonemia,scrupulosa,19,5,Yes

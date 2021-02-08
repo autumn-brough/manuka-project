@@ -1,0 +1,13 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:15:14
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T3_23L.avi,  57183,  31.8001,Time deployment,  12.5948,T3_23,Jake,,,,,,,,,,,,,sp,,1,No
+T3_23L.avi,  87347,  48.5747,Time deployment,  29.3694,T3_23,Jake,,,,,,,,,,,,,sp1,,1,No
+T3_23L.avi, 133190,  74.0685,Time deployment,  54.8632,T3_23,Jake,,,,,,,,,,,,,sp2,,1,No
+T3_23L.avi, 139827,  77.7594,Time deployment,  58.5541,T3_23,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,4,No
+T3_23L.avi,  34718,  19.3071,Time deployment,   0.1018,T3_23,Jake,,,,,,,,,,,Nitidulidae,,sp,,3,No
+T3_23L.avi,  75574,  42.0276,Time deployment,  22.8223,T3_23,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,No
+T3_23L.avi,  65379,  36.3580,Time deployment,  17.1527,T3_23,Jake,,,,,,,,,,,Order_Diptera,,sp,,4,No
+T3_23L.avi, 121978,  67.8334,Time deployment,  48.6281,T3_23,Jake,,,,,,,,,,,Sepsidae,Parapalaeosepsis,sp,67,1,No

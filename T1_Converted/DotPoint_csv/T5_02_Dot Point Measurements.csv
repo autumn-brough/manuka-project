@@ -1,0 +1,37 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_02L.avi,  18344,  10.2013,Time deployment,   0.0350,62,1534,T5_02,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Passing,,1,New_flower
+T5_02L.avi,  21069,  11.7167,Time deployment,   1.5504,119,809,T5_02,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,,
+T5_02L.avi,  21069,  11.7167,Time deployment,   1.5504,1008,2193,T5_02,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,,
+T5_02L.avi,  31843,  17.7083,Time deployment,   7.5420,1299,1941,T5_02,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting nectar,,2,New_flower
+T5_02L.avi,  31843,  17.7083,Time deployment,   7.5420,602,2488,T5_02,Jake,,,,,,,,,,,Order_Mantodea,,sp,,1,AD,Guarding bait,,,
+T5_02L.avi,  43899,  24.4127,Time deployment,  14.2465,897,1601,T5_02,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Arrival
+T5_02L.avi,  51994,  28.9145,Time deployment,  18.7482,74,514,T5_02,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,Arrival
+T5_02L.avi,  54457,  30.2842,Time deployment,  20.1179,1219,1259,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Arrival
+T5_02L.avi,  54470,  30.2914,Time deployment,  20.1251,1234,1242,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Departure
+T5_02L.avi,  54515,  30.3164,Time deployment,  20.1502,854,635,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Arrival
+T5_02L.avi,  54661,  30.3976,Time deployment,  20.2313,756,547,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Departure
+T5_02L.avi,  54964,  30.5661,Time deployment,  20.3998,545,2000,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Arrival
+T5_02L.avi,  55078,  30.6295,Time deployment,  20.4632,553,1990,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Departure
+T5_02L.avi,  55089,  30.6356,Time deployment,  20.4694,494,1931,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Arrival
+T5_02L.avi,  55165,  30.6779,Time deployment,  20.5116,491,1977,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Departure
+T5_02L.avi,  55271,  30.7368,Time deployment,  20.5706,587,2611,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Arrival
+T5_02L.avi,  55401,  30.8091,Time deployment,  20.6429,615,2603,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Departure
+T5_02L.avi,  55423,  30.8214,Time deployment,  20.6551,573,2558,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Arrival
+T5_02L.avi,  55517,  30.8737,Time deployment,  20.7074,579,2630,T5_02,Jake,,,,,,,,,,,Bombyliidae,,,,1,AD,Collecting nectar,,5,Departure
+T5_02L.avi,  77292,  42.9830,Time deployment,  32.8167,766,2475,T5_02,Jake,,,,,,,,,,,Geometridae,,sp,,1,J,Collecting pollen or nectar,,6,New_flower
+T5_02L.avi,  79976,  44.4756,Time deployment,  34.3093,910,2458,T5_02,Jake,,,,,,,,,,,Geometridae,,sp,,1,J,Collecting pollen or nectar,,6,Departure
+T5_02L.avi,  96533,  53.6831,Time deployment,  43.5169,877,2637,T5_02,Jake,,,,,,,,,,,,,sp,,1,AD,Attracted,,7,
+T5_02L.avi, 102423,  56.9586,Time deployment,  46.7923,983,2102,T5_02,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,8,Arrival
+T5_02L.avi, 102527,  57.0165,Time deployment,  46.8502,903,2241,T5_02,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,8,Departure
+T5_02L.avi, 102567,  57.0387,Time deployment,  46.8724,954,2239,T5_02,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,8,Arrival
+T5_02L.avi, 102584,  57.0482,Time deployment,  46.8819,920,2202,T5_02,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,8,Departure
+T5_02L.avi, 103007,  57.2834,Time deployment,  47.1171,846,1611,T5_02,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,9,New_flower
+T5_02L.avi, 110830,  61.6339,Time deployment,  51.4676,1171,1206,T5_02,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Departure
+T5_02L.avi, 110845,  61.6422,Time deployment,  51.4759,1338,1106,T5_02,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Arrival
+T5_02L.avi, 123092,  68.4529,Time deployment,  58.2866,725,1619,T5_02,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,10,New_flower
+T5_02L.avi, 123092,  68.4529,Time deployment,  58.2866,618,1833,T5_02,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,11,New_flower
+T5_02L.avi, 126173,  70.1663,Time deployment,  60.0000,1353,1028,T5_02,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Departure

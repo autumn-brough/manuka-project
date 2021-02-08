@@ -1,0 +1,19 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:53
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_04R.avi,  24544,  13.6492,Time deployment,   2.4269,1301,2445,T4_04,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,New_flower
+T4_04R.avi,  24611,  13.6865,Time deployment,   2.4641,1399,926,T4_04,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,2,Arrival
+T4_04R.avi,  24642,  13.7037,Time deployment,   2.4814,1374,912,T4_04,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,2,Departure
+T4_04R.avi,  36382,  20.2325,Time deployment,   9.0101,738,2213,T4_04,Jake,,,,,,,,,,,Culicidae,,sp,,1,AD,Collecting pollen or nectar,,3,Arrival
+T4_04R.avi,  36410,  20.2480,Time deployment,   9.0257,746,2213,T4_04,Jake,,,,,,,,,,,Culicidae,,sp,,1,AD,Collecting pollen or nectar,,3,Departure
+T4_04R.avi,  41083,  22.8467,Time deployment,  11.6244,970,815,T4_04,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T4_04R.avi,  41084,  22.8473,Time deployment,  11.6250,1065,692,T4_04,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Passing,,,
+T4_04R.avi,  41084,  22.8473,Time deployment,  11.6250,596,2165,T4_04,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Passing,,,
+T4_04R.avi,  44477,  24.7342,Time deployment,  13.5118,422,154,T4_04,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T4_04R.avi,  49559,  27.5603,Time deployment,  16.3380,906,2465,T4_04,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Passing,,,
+T4_04R.avi,  62734,  34.8871,Time deployment,  23.6648,1250,763,T4_04,Jake,,,,,,,,,,,Formicidae,,,8,1,AD,Passing,,,
+T4_04R.avi,  66236,  36.8346,Time deployment,  25.6123,530,1185,T4_04,Jake,,,,,,,,,,,,,sp,,1,AD,,,,
+T4_04R.avi,  92035,  51.1817,Time deployment,  39.9594,887,1075,T4_04,Jake,,,,,,,,,,,Formicidae,,,8,1,AD,Collecting pollen or nectar,,4,Arrival
+T4_04R.avi,  92577,  51.4831,Time deployment,  40.2608,893,1052,T4_04,Jake,,,,,,,,,,,Formicidae,,,8,1,AD,Collecting pollen or nectar,,4,Departure

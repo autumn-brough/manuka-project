@@ -1,0 +1,32 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_09L.avi,  20141,  11.2006,Time deployment,   1.1523,604,1981,T5_09,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting nectar,,,New_flower
+T5_09L.avi,  20604,  11.4581,Time deployment,   1.4097,756,1732,T5_09,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,New_flower
+T5_09L.avi,  22492,  12.5081,Time deployment,   2.4597,857,1630,T5_09,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,1,New_flower
+T5_09L.avi,  22723,  12.6365,Time deployment,   2.5881,923,1645,T5_09,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T5_09L.avi,  32018,  17.8056,Time deployment,   7.7572,201,2025,T5_09,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting nectar,,2,New_flower
+T5_09L.avi,  52752,  29.3360,Time deployment,  19.2876,759,1833,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Arrival
+T5_09L.avi,  52932,  29.4361,Time deployment,  19.3877,905,1927,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Departure
+T5_09L.avi,  53027,  29.4889,Time deployment,  19.4406,1116,1938,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Arrival
+T5_09L.avi,  53187,  29.5779,Time deployment,  19.5295,1090,1841,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Departure
+T5_09L.avi,  54037,  30.0506,Time deployment,  20.0022,1050,1907,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Arrival
+T5_09L.avi,  55147,  30.6679,Time deployment,  20.6195,635,2406,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Departure
+T5_09L.avi,  55225,  30.7113,Time deployment,  20.6629,802,2015,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Arrival
+T5_09L.avi,  55309,  30.7580,Time deployment,  20.7096,668,2113,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Departure
+T5_09L.avi,  55314,  30.7608,Time deployment,  20.7124,923,1989,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Arrival
+T5_09L.avi,  56372,  31.3491,Time deployment,  21.3007,1499,1814,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,3,Departure
+T5_09L.avi,  56677,  31.5187,Time deployment,  21.4704,591,1598,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,4,Arrival
+T5_09L.avi,  56679,  31.5199,Time deployment,  21.4715,578,1580,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,4,Departure
+T5_09L.avi,  57122,  31.7662,Time deployment,  21.7178,1509,1868,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,5,Arrival
+T5_09L.avi,  57794,  32.1399,Time deployment,  22.0915,1276,2002,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,5,Departure
+T5_09L.avi,  58739,  32.6654,Time deployment,  22.6171,1181,2216,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,5,Arrival
+T5_09L.avi,  61015,  33.9312,Time deployment,  23.8828,1279,2341,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,5,Departure
+T5_09L.avi,  61234,  34.0529,Time deployment,  24.0046,1507,1427,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,5,Arrival
+T5_09L.avi,  61940,  34.4456,Time deployment,  24.3972,1252,1003,T5_09,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,5,Departure
+T5_09L.avi,  74159,  41.2407,Time deployment,  31.1923,1165,1923,T5_09,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting nectar,,,New_flower
+T5_09L.avi,  80304,  44.6580,Time deployment,  34.6096,471,1822,T5_09,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,New_flower
+T5_09L.avi, 103856,  57.7555,Time deployment,  47.7072,1109,1679,T5_09,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting nectar,,,New_flower
+T5_09L.avi, 103856,  57.7555,Time deployment,  47.7072,666,2197,T5_09,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting nectar,,,New_flower

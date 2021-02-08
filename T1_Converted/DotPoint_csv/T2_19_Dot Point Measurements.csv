@@ -1,0 +1,301 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:09
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_19L.avi,  14780,   8.2193,Time deployment,   0.0000,741,1396,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,New_flower
+T2_19L.avi,  15186,   8.4451,Time deployment,   0.2258,749,1468,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Departure
+T2_19L.avi,  15251,   8.4813,Time deployment,   0.2619,600,1578,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Arrival
+T2_19L.avi,  15484,   8.6108,Time deployment,   0.3915,672,1638,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Departure
+T2_19L.avi,  15520,   8.6309,Time deployment,   0.4115,797,1712,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Arrival
+T2_19L.avi,  15570,   8.6587,Time deployment,   0.4393,785,1717,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Departure
+T2_19L.avi,  15611,   8.6815,Time deployment,   0.4621,704,1489,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Arrival
+T2_19L.avi,  15647,   8.7015,Time deployment,   0.4821,715,1465,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,1,Departure
+T2_19L.avi,  15663,   8.7104,Time deployment,   0.4910,614,1244,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,2,Arrival
+T2_19L.avi,  15663,   8.7104,Time deployment,   0.4910,671,1830,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Passing,,1,
+T2_19L.avi,  15904,   8.8444,Time deployment,   0.6251,766,1323,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,3,Arrival
+T2_19L.avi,  15975,   8.8839,Time deployment,   0.6646,771,1311,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,3,Departure
+T2_19L.avi,  16031,   8.9150,Time deployment,   0.6957,710,1507,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,3,Arrival
+T2_19L.avi,  16094,   8.9501,Time deployment,   0.7307,712,1491,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,3,Departure
+T2_19L.avi,  22227,  12.3607,Time deployment,   4.1414,537,1319,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,4,Arrival
+T2_19L.avi,  23048,  12.8173,Time deployment,   4.5979,609,1583,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,4,Departure
+T2_19L.avi,  23073,  12.8312,Time deployment,   4.6118,407,1486,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,4,Arrival
+T2_19L.avi,  23240,  12.9240,Time deployment,   4.7047,507,1575,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,Arrival
+T2_19L.avi,  23521,  13.0803,Time deployment,   4.8610,1257,1517,T2_19,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,6,
+T2_19L.avi,  23815,  13.2438,Time deployment,   5.0245,623,1648,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,4,Departure
+T2_19L.avi,  23839,  13.2571,Time deployment,   5.0378,1116,1580,T2_19,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting pollen or nectar,,6,Arrival
+T2_19L.avi,  24020,  13.3578,Time deployment,   5.1385,720,1681,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,7,Arrival
+T2_19L.avi,  24059,  13.3795,Time deployment,   5.1602,713,1692,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,7,Departure
+T2_19L.avi,  26345,  14.6508,Time deployment,   6.4314,713,1287,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,8,Arrival
+T2_19L.avi,  26752,  14.8771,Time deployment,   6.6578,807,1273,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,8,Departure
+T2_19L.avi,  27013,  15.0222,Time deployment,   6.8029,722,1638,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting nectar,,9,Arrival
+T2_19L.avi,  27013,  15.0222,Time deployment,   6.8029,715,1645,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,
+T2_19L.avi,  27017,  15.0245,Time deployment,   6.8051,726,1679,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,Departure
+T2_19L.avi,  27019,  15.0256,Time deployment,   6.8063,686,1679,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting nectar,,9,Departure
+T2_19L.avi,  27026,  15.0295,Time deployment,   6.8101,841,1738,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,Arrival
+T2_19L.avi,  27073,  15.0556,Time deployment,   6.8363,862,1761,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,Departure
+T2_19L.avi,  27079,  15.0589,Time deployment,   6.8396,987,1766,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,Arrival
+T2_19L.avi,  27227,  15.1413,Time deployment,   6.9219,959,1828,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,5,Departure
+T2_19L.avi,  27366,  15.2186,Time deployment,   6.9992,484,1548,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,10,Arrival
+T2_19L.avi,  28697,  15.9587,Time deployment,   7.7394,646,1640,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,10,Departure
+T2_19L.avi,  28711,  15.9665,Time deployment,   7.7472,551,1298,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,12,Arrival
+T2_19L.avi,  29191,  16.2335,Time deployment,   8.0141,702,1367,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,11,Arrival
+T2_19L.avi,  29406,  16.3530,Time deployment,   8.1337,859,1246,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,12,Departure
+T2_19L.avi,  29690,  16.5110,Time deployment,   8.2916,722,1499,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,15,Arrival
+T2_19L.avi,  30443,  16.9297,Time deployment,   8.7104,648,1545,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,13,Arrival
+T2_19L.avi,  30828,  17.1438,Time deployment,   8.9245,632,1645,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,13,Departure
+T2_19L.avi,  30932,  17.2016,Time deployment,   8.9823,725,1670,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,11,Departure
+T2_19L.avi,  31001,  17.2400,Time deployment,   9.0207,628,1606,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,14,Arrival
+T2_19L.avi,  31336,  17.4263,Time deployment,   9.2070,1139,1301,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Passing,,105,
+T2_19L.avi,  31336,  17.4263,Time deployment,   9.2070,690,1542,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,15,
+T2_19L.avi,  32694,  18.1815,Time deployment,   9.9622,658,1570,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,14,Departure
+T2_19L.avi,  32728,  18.2004,Time deployment,   9.9811,672,1547,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,15,
+T2_19L.avi,  32728,  18.2004,Time deployment,   9.9811,841,1069,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Passing,,17,
+T2_19L.avi,  32729,  18.2010,Time deployment,   9.9816,707,1634,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,16,Arrival
+T2_19L.avi,  32737,  18.2054,Time deployment,   9.9861,870,1342,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,17,Arrival
+T2_19L.avi,  32764,  18.2204,Time deployment,  10.0011,924,1350,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting pollen or nectar,,17,Departure
+T2_19L.avi,  34102,  18.9645,Time deployment,  10.7452,748,1591,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,18,Arrival
+T2_19L.avi,  34102,  18.9645,Time deployment,  10.7452,705,1589,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,15,
+T2_19L.avi,  34163,  18.9984,Time deployment,  10.7791,707,1652,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,18,Departure
+T2_19L.avi,  34201,  19.0196,Time deployment,  10.8002,852,1719,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,16,Departure
+T2_19L.avi,  34234,  19.0379,Time deployment,  10.8186,646,1313,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,19,Arrival
+T2_19L.avi,  37351,  20.7713,Time deployment,  12.5520,648,1331,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,19,Departure
+T2_19L.avi,  38257,  21.2752,Time deployment,  13.0558,790,1254,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,20,New_flower
+T2_19L.avi,  39426,  21.9253,Time deployment,  13.7059,661,1519,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,21,New_flower
+T2_19L.avi,  39426,  21.9253,Time deployment,  13.7059,717,1519,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,20,
+T2_19L.avi,  41764,  23.2254,Time deployment,  15.0061,744,1625,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,22,New_flower
+T2_19L.avi,  43348,  24.1063,Time deployment,  15.8870,810,1627,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,22,Departure
+T2_19L.avi,  43612,  24.2531,Time deployment,  16.0338,669,1458,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,21,Departure
+T2_19L.avi,  43848,  24.3844,Time deployment,  16.1651,664,1517,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,23,Arrival
+T2_19L.avi,  43867,  24.3950,Time deployment,  16.1756,635,1583,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,23,Departure
+T2_19L.avi,  43931,  24.4305,Time deployment,  16.2112,748,1689,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,20,Departure
+T2_19L.avi,  44762,  24.8927,Time deployment,  16.6733,654,1537,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,25,New_flower
+T2_19L.avi,  44912,  24.9761,Time deployment,  16.7568,821,1606,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,24,New_flower
+T2_19L.avi,  45529,  25.3192,Time deployment,  17.0999,926,1730,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,24,Departure
+T2_19L.avi,  45555,  25.3337,Time deployment,  17.1143,700,1367,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,26,New_flower
+T2_19L.avi,  45623,  25.3715,Time deployment,  17.1522,772,1344,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,26,Departure
+T2_19L.avi,  45682,  25.4043,Time deployment,  17.1850,844,1419,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,26,New_flower
+T2_19L.avi,  46551,  25.8876,Time deployment,  17.6682,828,1670,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,26,Departure
+T2_19L.avi,  46726,  25.9849,Time deployment,  17.7655,838,1668,T2_19,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting pollen or nectar,,27,Arrival
+T2_19L.avi,  46790,  26.0205,Time deployment,  17.8011,795,1689,T2_19,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting pollen or nectar,,27,Departure
+T2_19L.avi,  50324,  27.9858,Time deployment,  19.7664,708,1512,T2_19,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting pollen or nectar,,28,Arrival
+T2_19L.avi,  50912,  28.3128,Time deployment,  20.0934,749,1550,T2_19,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting pollen or nectar,,28,Departure
+T2_19L.avi,  58493,  32.5286,Time deployment,  24.3093,898,1652,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,25,Departure
+T2_19L.avi,  59691,  33.1949,Time deployment,  24.9755,790,1465,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Arrival
+T2_19L.avi,  59858,  33.2877,Time deployment,  25.0684,758,1521,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Departure
+T2_19L.avi,  59895,  33.3083,Time deployment,  25.0890,762,1598,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Arrival
+T2_19L.avi,  61556,  34.2320,Time deployment,  26.0127,839,1591,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Departure
+T2_19L.avi,  61657,  34.2882,Time deployment,  26.0688,650,1298,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Arrival
+T2_19L.avi,  63763,  35.4593,Time deployment,  27.2400,722,1622,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Departure
+T2_19L.avi,  63798,  35.4788,Time deployment,  27.2595,512,1354,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Arrival
+T2_19L.avi,  63976,  35.5778,Time deployment,  27.3585,438,1342,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,30,Departure
+T2_19L.avi,  65063,  36.1823,Time deployment,  27.9630,545,1326,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,31,Arrival
+T2_19L.avi,  75827,  42.1683,Time deployment,  33.9489,474,1388,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Arrival
+T2_19L.avi,  75999,  42.2639,Time deployment,  34.0446,473,1347,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Departure
+T2_19L.avi,  76032,  42.2823,Time deployment,  34.0630,861,1262,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Arrival
+T2_19L.avi,  76895,  42.7622,Time deployment,  34.5429,864,1334,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Departure
+T2_19L.avi,  77430,  43.0597,Time deployment,  34.8404,869,1365,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Arrival
+T2_19L.avi,  77620,  43.1654,Time deployment,  34.9461,926,1377,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Departure
+T2_19L.avi,  77648,  43.1810,Time deployment,  34.9616,898,1635,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Arrival
+T2_19L.avi,  77797,  43.2638,Time deployment,  35.0445,872,1530,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Departure
+T2_19L.avi,  77825,  43.2794,Time deployment,  35.0601,736,1272,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Arrival
+T2_19L.avi,  79044,  43.9573,Time deployment,  35.7380,609,1134,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,33,Arrival
+T2_19L.avi,  79044,  43.9573,Time deployment,  35.7380,759,1170,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,
+T2_19L.avi,  79980,  44.4778,Time deployment,  36.2585,519,1282,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,34,Arrival
+T2_19L.avi,  80223,  44.6129,Time deployment,  36.3936,514,1239,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,34,Departure
+T2_19L.avi,  80225,  44.6141,Time deployment,  36.3947,496,1270,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,35,Arrival
+T2_19L.avi,  80254,  44.6302,Time deployment,  36.4109,520,1254,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,35,Departure
+T2_19L.avi,  80314,  44.6636,Time deployment,  36.4442,808,1236,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,32,Departure
+T2_19L.avi,  83572,  46.4754,Time deployment,  38.2560,599,1219,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,36,Arrival
+T2_19L.avi,  83639,  46.5126,Time deployment,  38.2933,582,1188,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,36,Departure
+T2_19L.avi,  84080,  46.7579,Time deployment,  38.5385,1068,1409,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,37,Arrival
+T2_19L.avi,  84320,  46.8913,Time deployment,  38.6720,1086,1347,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,37,Departure
+T2_19L.avi,  84351,  46.9086,Time deployment,  38.6892,708,1483,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,37,Arrival
+T2_19L.avi,  84482,  46.9814,Time deployment,  38.7621,820,1455,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,37,Departure
+T2_19L.avi,  84691,  47.0977,Time deployment,  38.8783,533,1306,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,38,Arrival
+T2_19L.avi,  85150,  47.3529,Time deployment,  39.1336,620,1210,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,38,Departure
+T2_19L.avi,  85183,  47.3713,Time deployment,  39.1519,1060,1406,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,38,Arrival
+T2_19L.avi,  85326,  47.4508,Time deployment,  39.2315,1057,1360,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,38,Departure
+T2_19L.avi,  85345,  47.4614,Time deployment,  39.2420,586,1231,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,38,Arrival
+T2_19L.avi,  85380,  47.4808,Time deployment,  39.2615,591,1224,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,38,Departure
+T2_19L.avi,  85427,  47.5070,Time deployment,  39.2876,697,1619,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,39,Arrival
+T2_19L.avi,  85437,  47.5125,Time deployment,  39.2932,672,1645,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,39,Departure
+T2_19L.avi,  89051,  49.5223,Time deployment,  41.3030,744,1652,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,40,Arrival
+T2_19L.avi,  89286,  49.6530,Time deployment,  41.4337,820,1683,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,40,Departure
+T2_19L.avi,  90852,  50.5239,Time deployment,  42.3045,578,1242,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,40,Arrival
+T2_19L.avi,  92498,  51.4392,Time deployment,  43.2199,803,1287,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,40,Departure
+T2_19L.avi,  92634,  51.5148,Time deployment,  43.2955,538,1291,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,41,Arrival
+T2_19L.avi,  92754,  51.5816,Time deployment,  43.3623,564,1236,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,42,Arrival
+T2_19L.avi,  93102,  51.7751,Time deployment,  43.5558,605,1164,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,42,Departure
+T2_19L.avi,  93141,  51.7968,Time deployment,  43.5775,862,1278,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,42,Arrival
+T2_19L.avi,  94071,  52.3140,Time deployment,  44.0947,679,1645,T2_19,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,43,Arrival
+T2_19L.avi,  94156,  52.3613,Time deployment,  44.1419,411,1542,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,41,Departure
+T2_19L.avi,  94195,  52.3829,Time deployment,  44.1636,754,1640,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Arrival
+T2_19L.avi,  94235,  52.4052,Time deployment,  44.1859,741,1665,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Departure
+T2_19L.avi,  94262,  52.4202,Time deployment,  44.2009,828,1375,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Arrival
+T2_19L.avi,  94309,  52.4463,Time deployment,  44.2270,839,1404,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Departure
+T2_19L.avi,  94384,  52.4880,Time deployment,  44.2687,810,1728,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Arrival
+T2_19L.avi,  94418,  52.5070,Time deployment,  44.2876,802,1737,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Departure
+T2_19L.avi,  94442,  52.5203,Time deployment,  44.3010,938,1560,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Arrival
+T2_19L.avi,  94491,  52.5475,Time deployment,  44.3282,952,1483,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Departure
+T2_19L.avi,  94513,  52.5598,Time deployment,  44.3405,1075,1408,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Arrival
+T2_19L.avi,  94624,  52.6215,Time deployment,  44.4022,1077,1427,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,44,Departure
+T2_19L.avi,  95713,  53.2271,Time deployment,  45.0078,802,1362,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,42,Departure
+T2_19L.avi,  95748,  53.2466,Time deployment,  45.0272,525,1293,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,45,Arrival
+T2_19L.avi,  95989,  53.3806,Time deployment,  45.1613,709,1653,T2_19,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,43,Departure
+T2_19L.avi,  95996,  53.3845,Time deployment,  45.1652,618,1229,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,45,Departure
+T2_19L.avi,  96015,  53.3951,Time deployment,  45.1757,820,1314,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,46,Arrival
+T2_19L.avi,  96178,  53.4857,Time deployment,  45.2664,828,1306,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,46,Departure
+T2_19L.avi,  96454,  53.6392,Time deployment,  45.4199,962,1372,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Arrival
+T2_19L.avi,  96576,  53.7070,Time deployment,  45.4877,957,1362,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Departure
+T2_19L.avi,  96609,  53.7254,Time deployment,  45.5061,540,1260,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Arrival
+T2_19L.avi,  96823,  53.8444,Time deployment,  45.6251,600,1228,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Departure
+T2_19L.avi,  96853,  53.8611,Time deployment,  45.6418,960,1388,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Arrival
+T2_19L.avi,  96973,  53.9278,Time deployment,  45.7085,988,1350,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Departure
+T2_19L.avi,  97038,  53.9640,Time deployment,  45.7446,1106,1409,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Arrival
+T2_19L.avi,  97113,  54.0057,Time deployment,  45.7863,1086,1327,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,47,Departure
+T2_19L.avi,  97994,  54.4956,Time deployment,  46.2763,1050,1396,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,48,Arrival
+T2_19L.avi,  98503,  54.7787,Time deployment,  46.5593,1014,1345,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,48,Departure
+T2_19L.avi,  98572,  54.8170,Time deployment,  46.5977,823,1580,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,48,Arrival
+T2_19L.avi,  98767,  54.9255,Time deployment,  46.7062,944,1604,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,48,Departure
+T2_19L.avi,  99038,  55.0762,Time deployment,  46.8569,761,1237,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,49,Arrival
+T2_19L.avi,  99563,  55.3681,Time deployment,  47.1488,749,1445,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,49,Departure
+T2_19L.avi,  99612,  55.3954,Time deployment,  47.1761,632,1216,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,49,Arrival
+T2_19L.avi,  99918,  55.5656,Time deployment,  47.3462,522,1195,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,49,Departure
+T2_19L.avi,  99957,  55.5873,Time deployment,  47.3679,514,1218,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,49,Arrival
+T2_19L.avi, 100078,  55.6545,Time deployment,  47.4352,589,1552,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,50,New_flower
+T2_19L.avi, 100573,  55.9298,Time deployment,  47.7105,798,1519,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,50,Arrival
+T2_19L.avi, 101962,  56.7023,Time deployment,  48.4829,741,1377,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,50,Departure
+T2_19L.avi, 102041,  56.7462,Time deployment,  48.5269,887,1298,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,49,Departure
+T2_19L.avi, 102071,  56.7629,Time deployment,  48.5435,1091,1313,T2_19,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Attracted,,51,
+T2_19L.avi, 102114,  56.7868,Time deployment,  48.5675,692,1609,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,52,Arrival
+T2_19L.avi, 102234,  56.8535,Time deployment,  48.6342,879,1373,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,53,Arrival
+T2_19L.avi, 102239,  56.8563,Time deployment,  48.6370,661,1576,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,52,Departure
+T2_19L.avi, 102271,  56.8741,Time deployment,  48.6548,658,1545,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,52,Arrival
+T2_19L.avi, 102299,  56.8897,Time deployment,  48.6703,882,1404,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,53,Departure
+T2_19L.avi, 102346,  56.9158,Time deployment,  48.6965,694,1511,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,53,Arrival
+T2_19L.avi, 102357,  56.9219,Time deployment,  48.7026,636,1576,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,52,Departure
+T2_19L.avi, 102386,  56.9380,Time deployment,  48.7187,537,1511,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,52,Arrival
+T2_19L.avi, 102430,  56.9625,Time deployment,  48.7432,636,1493,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,53,Departure
+T2_19L.avi, 102986,  57.2717,Time deployment,  49.0524,1134,1471,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,54,Arrival
+T2_19L.avi, 103114,  57.3429,Time deployment,  49.1236,1118,1475,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,54,Departure
+T2_19L.avi, 103143,  57.3590,Time deployment,  49.1397,874,1591,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,54,Arrival
+T2_19L.avi, 103147,  57.3613,Time deployment,  49.1419,769,1619,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,57,Arrival
+T2_19L.avi, 103915,  57.7883,Time deployment,  49.5690,494,1265,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,56,Arrival
+T2_19L.avi, 104499,  58.1131,Time deployment,  49.8938,574,1154,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,55,Arrival
+T2_19L.avi, 104602,  58.1704,Time deployment,  49.9511,560,1233,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,56,Departure
+T2_19L.avi, 104645,  58.1943,Time deployment,  49.9750,849,1599,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,56,Arrival
+T2_19L.avi, 104786,  58.2727,Time deployment,  50.0534,702,1566,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,56,
+T2_19L.avi, 104786,  58.2727,Time deployment,  50.0534,645,1393,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,54,
+T2_19L.avi, 104786,  58.2727,Time deployment,  50.0534,582,1532,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,57,
+T2_19L.avi, 104836,  58.3005,Time deployment,  50.0812,744,1233,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,55,Departure
+T2_19L.avi, 104898,  58.3350,Time deployment,  50.1157,695,1617,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,56,Departure
+T2_19L.avi, 105106,  58.4507,Time deployment,  50.2313,524,1291,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,58,Arrival
+T2_19L.avi, 105404,  58.6164,Time deployment,  50.3971,643,1291,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,59,Arrival
+T2_19L.avi, 105404,  58.6164,Time deployment,  50.3971,578,1260,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105404,  58.6164,Time deployment,  50.3971,632,1444,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105404,  58.6164,Time deployment,  50.3971,769,1553,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105418,  58.6242,Time deployment,  50.4048,610,1226,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,58,Departure
+T2_19L.avi, 105426,  58.6286,Time deployment,  50.4093,597,1216,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,60,Arrival
+T2_19L.avi, 105457,  58.6459,Time deployment,  50.4265,574,1169,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105457,  58.6459,Time deployment,  50.4265,600,1242,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105457,  58.6459,Time deployment,  50.4265,612,1378,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105457,  58.6459,Time deployment,  50.4265,728,1539,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,,
+T2_19L.avi, 105457,  58.6459,Time deployment,  50.4265,695,1162,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Attracted,,,
+T2_19L.avi, 105562,  58.7043,Time deployment,  50.4849,933,1562,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,61,Arrival
+T2_19L.avi, 105566,  58.7065,Time deployment,  50.4872,556,1233,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,60,Departure
+T2_19L.avi, 105582,  58.7154,Time deployment,  50.4961,612,1381,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,62,Arrival
+T2_19L.avi, 105592,  58.7209,Time deployment,  50.5016,579,1354,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,62,Departure
+T2_19L.avi, 105605,  58.7282,Time deployment,  50.5088,481,1359,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,62,Arrival
+T2_19L.avi, 105619,  58.7360,Time deployment,  50.5166,800,1252,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,63,Arrival
+T2_19L.avi, 105664,  58.7610,Time deployment,  50.5417,798,1208,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,63,Departure
+T2_19L.avi, 105688,  58.7743,Time deployment,  50.5550,447,1354,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,62,Departure
+T2_19L.avi, 105725,  58.7949,Time deployment,  50.5756,602,1231,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,62,Arrival
+T2_19L.avi, 105853,  58.8661,Time deployment,  50.6468,704,1208,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,54,Departure
+T2_19L.avi, 106051,  58.9762,Time deployment,  50.7569,591,1498,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,59,Departure
+T2_19L.avi, 106108,  59.0079,Time deployment,  50.7886,452,1350,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,64,Arrival
+T2_19L.avi, 106180,  59.0479,Time deployment,  50.8286,1078,1431,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,65,Arrival
+T2_19L.avi, 106429,  59.1864,Time deployment,  50.9671,1093,1416,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,65,Departure
+T2_19L.avi, 106493,  59.2220,Time deployment,  51.0027,630,1174,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,64,Departure
+T2_19L.avi, 106550,  59.2537,Time deployment,  51.0344,687,1498,T2_19,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,66,Arrival
+T2_19L.avi, 106589,  59.2754,Time deployment,  51.0561,473,1288,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,67,Arrival
+T2_19L.avi, 106875,  59.4344,Time deployment,  51.2151,931,1642,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,61,Departure
+T2_19L.avi, 106910,  59.4539,Time deployment,  51.2346,492,1440,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,68,Arrival
+T2_19L.avi, 106929,  59.4645,Time deployment,  51.2451,848,1378,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,69,Arrival
+T2_19L.avi, 106954,  59.4784,Time deployment,  51.2590,488,1445,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,68,Departure
+T2_19L.avi, 106973,  59.4889,Time deployment,  51.2696,656,1612,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,68,Arrival
+T2_19L.avi, 106975,  59.4900,Time deployment,  51.2707,841,1357,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,69,Departure
+T2_19L.avi, 106999,  59.5034,Time deployment,  51.2841,650,1614,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,68,Departure
+T2_19L.avi, 107027,  59.5190,Time deployment,  51.2996,869,1692,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,68,Arrival
+T2_19L.avi, 107200,  59.6152,Time deployment,  51.3958,718,1432,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,70,Arrival
+T2_19L.avi, 107243,  59.6391,Time deployment,  51.4198,707,1416,T2_19,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Collecting pollen or nectar,,70,Departure
+T2_19L.avi, 107259,  59.6480,Time deployment,  51.4287,715,1440,T2_19,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,AD,Collecting pollen or nectar,,66,Departure
+T2_19L.avi, 107630,  59.8543,Time deployment,  51.6350,1011,1460,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,71,Arrival
+T2_19L.avi, 107668,  59.8754,Time deployment,  51.6561,1008,1470,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,71,Departure
+T2_19L.avi, 107770,  59.9322,Time deployment,  51.7128,1028,1336,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,71,Arrival
+T2_19L.avi, 107832,  59.9666,Time deployment,  51.7473,1047,1344,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,71,Departure
+T2_19L.avi, 107915,  60.0128,Time deployment,  51.7935,668,1578,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,72,Arrival
+T2_19L.avi, 107971,  60.0439,Time deployment,  51.8246,887,1745,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,68,Departure
+T2_19L.avi, 108030,  60.0767,Time deployment,  51.8574,674,1257,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,73,Arrival
+T2_19L.avi, 108074,  60.1012,Time deployment,  51.8819,674,1218,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,73,Departure
+T2_19L.avi, 108121,  60.1273,Time deployment,  51.9080,690,1576,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,74,Arrival
+T2_19L.avi, 108217,  60.1807,Time deployment,  51.9614,648,1607,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,74,Departure
+T2_19L.avi, 108591,  60.3887,Time deployment,  52.1694,666,1580,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,76,Arrival
+T2_19L.avi, 108605,  60.3965,Time deployment,  52.1772,764,1386,T2_19,Jake,,,,,,,,,,,Order_Diptera,,sp9,,1,AD,Collecting nectar,,75,Arrival
+T2_19L.avi, 108606,  60.3971,Time deployment,  52.1777,771,1372,T2_19,Jake,,,,,,,,,,,Order_Diptera,,sp9,,1,AD,Collecting nectar,,75,Arrival
+T2_19L.avi, 108681,  60.4388,Time deployment,  52.2194,753,1367,T2_19,Jake,,,,,,,,,,,Order_Diptera,,sp9,,1,AD,Collecting nectar,,75,Departure
+T2_19L.avi, 108682,  60.4393,Time deployment,  52.2200,776,1332,T2_19,Jake,,,,,,,,,,,Order_Diptera,,sp9,,1,AD,Collecting nectar,,75,Departure
+T2_19L.avi, 109105,  60.6746,Time deployment,  52.4552,972,1629,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,75,Arrival
+T2_19L.avi, 110173,  61.2685,Time deployment,  53.0492,764,1193,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,77,Arrival
+T2_19L.avi, 110460,  61.4281,Time deployment,  53.2088,704,1301,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,72,Departure
+T2_19L.avi, 110939,  61.6945,Time deployment,  53.4751,897,1354,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,78,Arrival
+T2_19L.avi, 111001,  61.7290,Time deployment,  53.5096,938,1357,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,78,Departure
+T2_19L.avi, 111089,  61.7779,Time deployment,  53.5586,761,1614,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,76,Departure
+T2_19L.avi, 111123,  61.7968,Time deployment,  53.5775,594,1403,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,79,Arrival
+T2_19L.avi, 111331,  61.9125,Time deployment,  53.6931,725,1241,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,80,Arrival
+T2_19L.avi, 112056,  62.3156,Time deployment,  54.0963,1010,1450,T2_19,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,81,Arrival
+T2_19L.avi, 113614,  63.1821,Time deployment,  54.9627,618,1085,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,79,Departure
+T2_19L.avi, 113690,  63.2243,Time deployment,  55.0050,746,1450,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,82,Arrival
+T2_19L.avi, 113785,  63.2772,Time deployment,  55.0578,790,1663,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,82,Departure
+T2_19L.avi, 113821,  63.2972,Time deployment,  55.0779,466,1431,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,83,Arrival
+T2_19L.avi, 114124,  63.4657,Time deployment,  55.2464,641,1635,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,84,Arrival
+T2_19L.avi, 114384,  63.6103,Time deployment,  55.3909,654,1612,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,84,Departure
+T2_19L.avi, 114420,  63.6303,Time deployment,  55.4110,452,1327,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,85,Arrival
+T2_19L.avi, 114568,  63.7126,Time deployment,  55.4933,550,1435,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,85,Departure
+T2_19L.avi, 114621,  63.7421,Time deployment,  55.5227,689,1553,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,86,Arrival
+T2_19L.avi, 114950,  63.9250,Time deployment,  55.7057,761,1689,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,87,Arrival
+T2_19L.avi, 114973,  63.9378,Time deployment,  55.7185,476,1503,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,88,Arrival
+T2_19L.avi, 115002,  63.9540,Time deployment,  55.7346,754,1710,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,87,Departure
+T2_19L.avi, 115629,  64.3026,Time deployment,  56.0833,1193,1732,T2_19,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,AD,Passing,,89,
+T2_19L.avi, 116781,  64.9433,Time deployment,  56.7239,852,1244,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,86,Departure
+T2_19L.avi, 116808,  64.9583,Time deployment,  56.7390,569,1170,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,90,Arrival
+T2_19L.avi, 118711,  66.0166,Time deployment,  57.7972,654,1329,T2_19,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,91,Arrival
+T2_19L.avi, 119217,  66.2980,Time deployment,  58.0786,1047,1424,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,92,Arrival
+T2_19L.avi, 119398,  66.3986,Time deployment,  58.1793,980,1413,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,92,Departure
+T2_19L.avi, 119445,  66.4248,Time deployment,  58.2054,556,1375,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,92,Arrival
+T2_19L.avi, 119563,  66.4904,Time deployment,  58.2710,460,1236,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,92,Departure
+T2_19L.avi, 119799,  66.6216,Time deployment,  58.4023,864,1224,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,93,Arrival
+T2_19L.avi, 119865,  66.6583,Time deployment,  58.4390,905,1139,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,93,Departure
+T2_19L.avi, 119889,  66.6717,Time deployment,  58.4523,985,1234,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,93,Arrival
+T2_19L.avi, 119928,  66.6934,Time deployment,  58.4740,422,1213,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,94,Arrival
+T2_19L.avi, 120044,  66.7579,Time deployment,  58.5385,442,1295,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,94,Departure
+T2_19L.avi, 120095,  66.7862,Time deployment,  58.5669,1023,1316,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,93,Departure
+T2_19L.avi, 120145,  66.8140,Time deployment,  58.5947,497,1221,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,95,Arrival
+T2_19L.avi, 120262,  66.8791,Time deployment,  58.6598,591,1206,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,96,Arrival
+T2_19L.avi, 120410,  66.9614,Time deployment,  58.7421,700,1201,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,95,Departure
+T2_19L.avi, 120483,  67.0020,Time deployment,  58.7827,758,1151,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,97,Arrival
+T2_19L.avi, 120732,  67.1405,Time deployment,  58.9211,838,1221,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,98,Arrival
+T2_19L.avi, 120774,  67.1638,Time deployment,  58.9445,419,1152,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,99,Arrival
+T2_19L.avi, 120852,  67.2072,Time deployment,  58.9879,684,1043,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,100,Arrival
+T2_19L.avi, 121960,  67.8234,Time deployment,  59.6040,815,1121,T2_19,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,91,Departure
+T2_19L.avi, 122014,  67.8534,Time deployment,  59.6341,911,1157,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,101,Arrival
+T2_19L.avi, 122254,  67.9869,Time deployment,  59.7675,852,1390,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,98,Departure
+T2_19L.avi, 122299,  68.0119,Time deployment,  59.7926,438,1228,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,102,Arrival
+T2_19L.avi, 122335,  68.0319,Time deployment,  59.8126,641,1467,T2_19,Jake,,,,,,,,,,,Colletidae,Hylaeus,sp,58,1,AD,Collecting nectar,,103,Arrival
+T2_19L.avi, 122340,  68.0347,Time deployment,  59.8154,982,1352,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,101,Arrival
+T2_19L.avi, 122353,  68.0419,Time deployment,  59.8226,448,1237,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,102,Departure
+T2_19L.avi, 122414,  68.0759,Time deployment,  59.8565,1029,1321,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,104,Arrival
+T2_19L.avi, 122512,  68.1304,Time deployment,  59.9110,1032,1269,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,104,Departure
+T2_19L.avi, 122604,  68.1815,Time deployment,  59.9622,640,1488,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,104,Arrival
+T2_19L.avi, 125430,  69.7531,Time deployment,  61.5338,779,1614,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,104,Departure
+T2_19L.avi, 128319,  71.3597,Time deployment,  63.1404,666,1352,T2_19,Jake,,,,,,,,,,,Syrphidae,Eumerus,sp,57,1,AD,Collecting nectar,,99,Departure

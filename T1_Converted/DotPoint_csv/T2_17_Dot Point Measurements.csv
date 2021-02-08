@@ -1,0 +1,32 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:09
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_17L.avi,  34992,  19.4595,Time deployment,   5.3820,859,2517,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Passing,,1,
+T2_17L.avi,  35125,  19.5334,Time deployment,   5.4560,787,2165,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,2,Arrival
+T2_17L.avi,  35201,  19.5757,Time deployment,   5.4983,774,2115,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,2,Departure
+T2_17L.avi,  50856,  28.2816,Time deployment,  14.2042,921,1902,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Arrival
+T2_17L.avi,  50896,  28.3039,Time deployment,  14.2264,990,1740,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Departure
+T2_17L.avi,  51107,  28.4212,Time deployment,  14.3438,1080,615,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,4,Arrival
+T2_17L.avi,  51291,  28.5235,Time deployment,  14.4461,779,1275,T2_17,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,4,Departure
+T2_17L.avi,  77297,  42.9858,Time deployment,  28.9084,1258,1848,T2_17,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,5,
+T2_17L.avi,  83589,  46.4848,Time deployment,  32.4074,893,2326,T2_17,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,6,New_flower
+T2_17L.avi,  92682,  51.5415,Time deployment,  37.4641,1140,21,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Arrival
+T2_17L.avi,  94302,  52.4424,Time deployment,  38.3650,978,350,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi,  94358,  52.4736,Time deployment,  38.3962,1001,1370,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Arrival
+T2_17L.avi,  94955,  52.8056,Time deployment,  38.7282,1173,16,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi,  94987,  52.8234,Time deployment,  38.7460,1137,7,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,New_flower
+T2_17L.avi,  98116,  54.5635,Time deployment,  40.4860,960,818,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi,  98150,  54.5824,Time deployment,  40.5049,1026,782,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Arrival
+T2_17L.avi,  98921,  55.0111,Time deployment,  40.9337,1132,39,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi,  98958,  55.0317,Time deployment,  40.9543,962,630,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Arrival
+T2_17L.avi,  99719,  55.4549,Time deployment,  41.3775,1098,246,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi,  99739,  55.4660,Time deployment,  41.3886,1100,185,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Arrival
+T2_17L.avi, 100456,  55.8648,Time deployment,  41.7873,1085,430,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi, 100465,  55.8698,Time deployment,  41.7923,1055,180,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Arrival
+T2_17L.avi, 100874,  56.0972,Time deployment,  42.0198,864,818,T2_17,Jake,,,,,,,,,,,Pompilidae,,sp,,1,AD,Collecting nectar,,7,Departure
+T2_17L.avi, 123508,  68.6842,Time deployment,  54.6068,987,1103,T2_17,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,8,
+T2_17L.avi, 131020,  72.8618,Time deployment,  58.7843,618,1080,T2_17,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,AD,Collecting nectar,,9,Arrival
+T2_17L.avi, 132921,  73.9189,Time deployment,  59.8415,666,992,T2_17,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,AD,Collecting nectar,,9,Departure
+T2_17L.avi, 133200,  74.0741,Time deployment,  59.9967,584,79,T2_17,Jake,,,,,,,,,,,Lycaenidae,Prosotas,dubiosa,53,1,AD,Collecting nectar,,10,Arrival

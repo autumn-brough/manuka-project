@@ -1,0 +1,26 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:09
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_13L.avi,  23425,  13.0269,Time deployment,   2.8823,854,1915,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Attracted,,1,
+T2_13L.avi,  27604,  15.3509,Time deployment,   5.2063,674,2200,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_13L.avi,  28045,  15.5962,Time deployment,   5.4516,936,2205,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,2,
+T2_13L.avi,  28045,  15.5962,Time deployment,   5.4516,754,1771,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,1,
+T2_13L.avi,  28206,  15.6857,Time deployment,   5.5411,1042,2264,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_13L.avi,  28299,  15.7374,Time deployment,   5.5928,609,1612,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,1,New_flower
+T2_13L.avi,  37276,  20.7296,Time deployment,  10.5850,867,1936,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,3,New_flower
+T2_13L.avi,  89954,  50.0245,Time deployment,  39.8799,798,876,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Arrival
+T2_13L.avi,  95965,  53.3673,Time deployment,  43.2227,826,1539,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,5,New_flower
+T2_13L.avi,  96800,  53.8316,Time deployment,  43.6870,951,2385,T2_13,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,6,New_flower
+T2_13L.avi, 110712,  61.5682,Time deployment,  51.4236,1046,971,T2_13,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Attracted,,7,
+T2_13L.avi, 110717,  61.5710,Time deployment,  51.4264,679,1007,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Departure
+T2_13L.avi, 111876,  62.2155,Time deployment,  52.0710,926,1562,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Arrival
+T2_13L.avi, 113230,  62.9685,Time deployment,  52.8239,800,1560,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Departure
+T2_13L.avi, 113237,  62.9724,Time deployment,  52.8278,854,1401,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Arrival
+T2_13L.avi, 114363,  63.5986,Time deployment,  53.4540,854,1476,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Departure
+T2_13L.avi, 116393,  64.7275,Time deployment,  54.5829,723,830,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Arrival
+T2_13L.avi, 123320,  68.5797,Time deployment,  58.4351,836,1588,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,8,New_flower
+T2_13L.avi, 124436,  69.2003,Time deployment,  59.0557,843,550,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Collecting nectar,,4,Departure
+T2_13L.avi, 124462,  69.2148,Time deployment,  59.0702,1103,491,T2_13,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Attracted,,4,
+T2_13L.avi, 124970,  69.4973,Time deployment,  59.3527,1095,2084,T2_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,9,New_flower

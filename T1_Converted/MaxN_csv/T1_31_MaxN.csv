@@ -1,0 +1,11 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:42
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_31L.avi,  73631,  40.9471,Time deployment,  30.6123,T1_31,Jake,,,,,,,,,,,,,sp,,1,No
+T1_31L.avi,  99091,  55.1057,Time deployment,  44.7709,T1_31,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,3,No
+T1_31L.avi,  80720,  44.8893,Time deployment,  34.5546,T1_31,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,No
+T1_31L.avi,  19636,  10.9198,Time deployment,   0.5850,T1_31,Jake,,,,,,,,,,,Coreidae,,sp,,1,No
+T1_31L.avi,  25987,  14.4517,Time deployment,   4.1169,T1_31,Jake,,,,,,,,,,,Formicidae,,sp,,1,No
+T1_31L.avi,  61824,  34.3810,Time deployment,  24.0463,T1_31,Jake,,,,,,,,,,,Order_Diptera,,,4,1,No

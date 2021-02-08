@@ -1,0 +1,50 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:16:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T1_18L.avi,   1718,   0.9554,Time deployment,   0.5433,699,2228,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,7,1,New_flower
+T1_18L.avi,   2371,   1.3185,Time deployment,   0.9065,389,1814,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,11,1,New_flower
+T1_18L.avi,   3331,   1.8524,Time deployment,   1.4403,776,858,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,2,2,New_flower
+T1_18L.avi,   5245,   2.9168,Time deployment,   2.5047,483,1992,T1_18,Jake,,,,,,,,,,,Order_Diptera,,sp3,,1,,Collecting pollen or nectar,11,3,Arrival
+T1_18L.avi,   5401,   3.0036,Time deployment,   2.5915,486,1961,T1_18,Jake,,,,,,,,,,,Order_Diptera,,sp3,,1,,Collecting pollen or nectar,11,3,Departure
+T1_18L.avi,  15990,   8.8922,Time deployment,   8.4801,434,2262,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting pollen or nectar,6,4,New_flower
+T1_18L.avi,  16470,   9.1592,Time deployment,   8.7471,834,2460,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,7,4,New_flower
+T1_18L.avi,  28353,  15.7674,Time deployment,  15.3553,402,480,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,1,5,New_flower
+T1_18L.avi,  28353,  15.7674,Time deployment,  15.3553,980,2383,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,7,4,
+T1_18L.avi,  29132,  16.2006,Time deployment,  15.7886,769,2635,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,8,4,New_flower
+T1_18L.avi,  29711,  16.5226,Time deployment,  16.1105,419,2118,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting pollen or nectar,6,4,New_flower
+T1_18L.avi,  40605,  22.5809,Time deployment,  22.1688,438,517,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,1,6,New_flower
+T1_18L.avi,  40724,  22.6471,Time deployment,  22.2350,931,1272,T1_18,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,,Collecting pollen or nectar,3,7,Arrival
+T1_18L.avi,  43287,  24.0724,Time deployment,  23.6603,779,910,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,2,6,New_flower
+T1_18L.avi,  60014,  33.3745,Time deployment,  32.9624,1162,1277,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,8,New_flower
+T1_18L.avi,  64598,  35.9237,Time deployment,  35.5116,735,1417,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,4,9,New_flower
+T1_18L.avi,  64598,  35.9237,Time deployment,  35.5116,885,1306,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,8,
+T1_18L.avi,  64839,  36.0577,Time deployment,  35.6456,895,1480,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,9,New_flower
+T1_18L.avi,  68551,  38.1220,Time deployment,  37.7099,635,2593,T1_18,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting pollen or nectar,6,10,Arrival
+T1_18L.avi,  68554,  38.1236,Time deployment,  37.7116,628,2607,T1_18,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting pollen or nectar,6,10,Departure
+T1_18L.avi,  68630,  38.1659,Time deployment,  37.7538,542,1822,T1_18,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting pollen or nectar,10,10,Arrival
+T1_18L.avi,  68653,  38.1787,Time deployment,  37.7666,422,1776,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting pollen or nectar,10,11,New_flower
+T1_18L.avi,  68671,  38.1887,Time deployment,  37.7766,434,1771,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting pollen or nectar,10,11,
+T1_18L.avi,  68671,  38.1887,Time deployment,  37.7766,926,1452,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,9,
+T1_18L.avi,  68671,  38.1887,Time deployment,  37.7766,1203,838,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,,,12,
+T1_18L.avi,  68725,  38.2187,Time deployment,  37.8067,463,1836,T1_18,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,F,Collecting pollen or nectar,10,10,Departure
+T1_18L.avi,  68876,  38.3027,Time deployment,  37.8906,1158,1290,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,12,New_flower
+T1_18L.avi,  71686,  39.8654,Time deployment,  39.4533,846,1511,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,4,9,New_flower
+T1_18L.avi,  71988,  40.0333,Time deployment,  39.6212,733,1665,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,5,9,New_flower
+T1_18L.avi,  73854,  41.0710,Time deployment,  40.6590,774,1300,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,12,
+T1_18L.avi,  73854,  41.0710,Time deployment,  40.6590,628,990,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,2,13,New_flower
+T1_18L.avi,  73854,  41.0710,Time deployment,  40.6590,296,714,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,1,14,New_flower
+T1_18L.avi,  75525,  42.0003,Time deployment,  41.5882,794,2540,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,9,15,New_flower
+T1_18L.avi,  76194,  42.3723,Time deployment,  41.9603,605,2617,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,6,15,New_flower
+T1_18L.avi,  76519,  42.5531,Time deployment,  42.1410,1049,2346,T1_18,Jake,,,,,,,,,,,Syrphidae,Dideopsis,aegrota,10,1,,Collecting nectar,7,16,Arrival
+T1_18L.avi,  76553,  42.5720,Time deployment,  42.1599,1077,2326,T1_18,Jake,,,,,,,,,,,Syrphidae,Dideopsis,aegrota,10,1,,Collecting nectar,7,16,Departure
+T1_18L.avi,  76814,  42.7171,Time deployment,  42.3050,560,1796,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,10,11,
+T1_18L.avi,  76814,  42.7171,Time deployment,  42.3050,681,2573,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,6,15,
+T1_18L.avi,  76814,  42.7171,Time deployment,  42.3050,1281,1061,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,12,
+T1_18L.avi,  76814,  42.7171,Time deployment,  42.3050,1153,861,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,2,13,
+T1_18L.avi,  78103,  43.4339,Time deployment,  43.0219,1057,1383,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,4,14,New_flower
+T1_18L.avi,  78741,  43.7887,Time deployment,  43.3767,1086,1316,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,3,14,New_flower
+T1_18L.avi,  84267,  46.8618,Time deployment,  46.4497,1078,2026,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,8,15,New_flower
+T1_18L.avi,  85369,  47.4746,Time deployment,  47.0626,1018,2238,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,7,15,New_flower
+T1_18L.avi, 107648,  59.8642,Time deployment,  59.4522,474,254,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,F,Collecting nectar,1,16,New_flower

@@ -1,0 +1,42 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:10
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_32L.avi,  16518,   9.1859,Time deployment,   2.0092,515,2521,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,1,Arrival
+T2_32L.avi,  16987,   9.4467,Time deployment,   2.2700,522,2542,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,1,Departure
+T2_32L.avi,  17008,   9.4583,Time deployment,   2.2817,492,2517,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,1,Arrival
+T2_32L.avi,  17018,   9.4639,Time deployment,   2.2873,553,2535,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,1,Departure
+T2_32L.avi,  52336,  29.1047,Time deployment,  21.9280,452,2679,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Attracted,,2,
+T2_32L.avi,  52432,  29.1580,Time deployment,  21.9814,566,1555,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Collecting pollen or nectar w/ PB,,2,Arrival
+T2_32L.avi,  52687,  29.2999,Time deployment,  22.1232,569,1530,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Collecting pollen or nectar w/ PB,,2,Departure
+T2_32L.avi,  52832,  29.3805,Time deployment,  22.2039,492,1429,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Collecting pollen or nectar w/ PB,,2,Arrival
+T2_32L.avi,  52933,  29.4367,Time deployment,  22.2600,496,1419,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Collecting pollen or nectar w/ PB,,2,Departure
+T2_32L.avi,  53006,  29.4773,Time deployment,  22.3006,520,2496,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Collecting nectar w/ PB,,2,Arrival
+T2_32L.avi,  53136,  29.5495,Time deployment,  22.3729,605,2483,T2_32,Jake,,,,,,,,,,,Colletidae,Leioproctus,sp,92,1,AD,Collecting nectar w/ PB,,2,Departure
+T2_32L.avi,  75561,  42.0204,Time deployment,  34.8437,326,1679,T2_32,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,3,
+T2_32L.avi,  81525,  45.3370,Time deployment,  38.1604,303,2694,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,4,Arrival
+T2_32L.avi,  81527,  45.3381,Time deployment,  38.1615,299,2684,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,4,Departure
+T2_32L.avi,  81561,  45.3570,Time deployment,  38.1804,515,2524,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,4,Arrival
+T2_32L.avi,  81727,  45.4493,Time deployment,  38.2727,491,2519,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,4,Departure
+T2_32L.avi,  82836,  46.0661,Time deployment,  38.8894,13,1697,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,4,Arrival
+T2_32L.avi,  82886,  46.0939,Time deployment,  38.9173,28,1697,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,4,Departure
+T2_32L.avi,  87342,  48.5719,Time deployment,  41.3953,484,2539,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,5,Arrival
+T2_32L.avi,  87415,  48.6125,Time deployment,  41.4359,486,2539,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,5,Departure
+T2_32L.avi,  96799,  53.8311,Time deployment,  46.6544,700,1673,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Attracted,,6,
+T2_32L.avi,  96811,  53.8377,Time deployment,  46.6611,689,1645,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Arrival
+T2_32L.avi,  96942,  53.9106,Time deployment,  46.7340,689,1643,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Departure
+T2_32L.avi,  97002,  53.9439,Time deployment,  46.7673,581,1548,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Arrival
+T2_32L.avi,  97672,  54.3165,Time deployment,  47.1399,587,1557,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Departure
+T2_32L.avi,  97745,  54.3571,Time deployment,  47.1805,582,1548,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Arrival
+T2_32L.avi,  97902,  54.4444,Time deployment,  47.2678,564,1526,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Departure
+T2_32L.avi,  98096,  54.5523,Time deployment,  47.3757,512,2524,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Arrival
+T2_32L.avi,  98127,  54.5696,Time deployment,  47.3929,533,2524,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Departure
+T2_32L.avi,  98206,  54.6135,Time deployment,  47.4369,128,856,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Arrival
+T2_32L.avi,  98219,  54.6207,Time deployment,  47.4441,172,827,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,6,Departure
+T2_32L.avi,  98906,  55.0028,Time deployment,  47.8262,584,1558,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,7,Arrival
+T2_32L.avi,  99137,  55.1312,Time deployment,  47.9546,597,1522,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,7,Departure
+T2_32L.avi,  99220,  55.1774,Time deployment,  48.0008,666,1640,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,7,Arrival
+T2_32L.avi,  99278,  55.2097,Time deployment,  48.0330,679,1606,T2_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar w/ PB,,7,Departure
+T2_32L.avi, 120176,  66.8313,Time deployment,  59.6547,533,2038,T2_32,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,8,
+T2_32L.avi, 120713,  67.1299,Time deployment,  59.9533,347,334,T2_32,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,9,

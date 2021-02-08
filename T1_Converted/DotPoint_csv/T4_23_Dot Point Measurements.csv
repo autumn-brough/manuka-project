@@ -1,0 +1,11 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:54
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_23L.avi,   9351,   5.2002,Time deployment,   0.0000,1396,809,T4_23,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,New_flower
+T4_23L.avi,   9351,   5.2002,Time deployment,   0.0000,1134,1981,T4_23,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,2,New_flower
+T4_23L.avi,  29501,  16.4059,Time deployment,  11.2057,1509,910,T4_23,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,Departure
+T4_23L.avi,  39068,  21.7262,Time deployment,  16.5260,234,915,T4_23,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T4_23L.avi,  88303,  49.1063,Time deployment,  43.9061,524,809,T4_23,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Attracted,,,
+T4_23L.avi, 117243,  65.2002,Time deployment,  60.0000,1091,2066,T4_23,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,2,Departure

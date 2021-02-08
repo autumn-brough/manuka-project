@@ -1,0 +1,12 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:08
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_06L.avi,  31106,  17.2984,Time deployment,   7.0109,671,2585,T2_06,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,1,
+T2_06L.avi,  50247,  27.9429,Time deployment,  17.6554,440,2172,T2_06,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,AD,Passing,,2,
+T2_06L.avi,  50275,  27.9585,Time deployment,  17.6710,679,2580,T2_06,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Attracted,,3,
+T2_06L.avi,  57860,  32.1766,Time deployment,  21.8891,713,1815,T2_06,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,4,New_flower
+T2_06L.avi,  65828,  36.6077,Time deployment,  26.3202,713,2560,T2_06,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,AD,Collecting nectar,,5,New_flower
+T2_06L.avi,  74030,  41.1689,Time deployment,  30.8814,764,2580,T2_06,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Attracted,,6,
+T2_06L.avi,  75927,  42.2239,Time deployment,  31.9364,700,2522,T2_06,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Attracted,,7,

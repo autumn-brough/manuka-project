@@ -1,0 +1,14 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:20
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T3_02L.avi,  28970,  16.1106,Time deployment,   7.9174,1013,586,T3_02,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,1,New_flower
+T3_02L.avi,  67133,  37.3334,Time deployment,  29.1403,1162,689,T3_02,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Passing,,2,
+T3_02L.avi,  67290,  37.4208,Time deployment,  29.2276,1145,804,T3_02,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,2,Arrival
+T3_02L.avi,  67446,  37.5075,Time deployment,  29.3143,1147,807,T3_02,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,2,Departure
+T3_02L.avi,  76877,  42.7522,Time deployment,  34.5590,604,1706,T3_02,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,J,Collecting pollen or nectar,,3,New_flower
+T3_02L.avi,  82710,  45.9960,Time deployment,  37.8028,983,1818,T3_02,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,4,
+T3_02L.avi,  88933,  49.4567,Time deployment,  41.2635,1181,697,T3_02,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,2,Arrival
+T3_02L.avi,  89330,  49.6775,Time deployment,  41.4843,1170,674,T3_02,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Collecting pollen or nectar,,2,Departure
+T3_02L.avi, 109130,  60.6885,Time deployment,  52.4953,957,1345,T3_02,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,AD,Attracted,,2,

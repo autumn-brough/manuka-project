@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 14:31:11
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T4_12L.avi, 108082,  60.1057,Time deployment,  59.1603,T4_12,Jake,,,,,,,,,,,Formicidae,,sp,,1,No
+T4_12L.avi,  30315,  16.8585,Time deployment,  15.9131,T4_12,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,3,No
+T4_12L.avi,  67848,  37.7311,Time deployment,  36.7857,T4_12,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,No
+T4_12L.avi,   8360,   4.6491,Time deployment,   3.7037,T4_12,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T4_12L.avi,  86695,  48.2121,Time deployment,  47.2667,T4_12,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,2,No

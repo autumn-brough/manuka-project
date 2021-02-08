@@ -1,0 +1,23 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:41
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_19L.avi,  93348,  51.9119,Time Deployment,  50.5672,T1_19,Jake,,,,,,,,,,,,,,,1,No
+T1_19L.avi,  29816,  16.5810,Time Deployment,  15.2363,T1_19,Jake,,,,,,,,,,,,,sp,,1,No
+T1_19L.avi,  26010,  14.4645,Time Deployment,  13.1198,T1_19,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,3,No
+T1_19L.avi,  32057,  17.8273,Time Deployment,  16.4826,T1_19,Jake,,,,,,,,,,,Apioceridae,Apiocera,sp,27,1,No
+T1_19L.avi,  13885,   7.7216,Time Deployment,   6.3769,T1_19,Jake,,,,,,,,,,,Crabronidae,,,,1,No
+T1_19L.avi,  30527,  16.9764,Time Deployment,  15.6317,T1_19,Jake,,,,,,,,,,,Crabronidae,Bembix,sp,26,1,No
+T1_19L.avi,  31516,  17.5264,Time Deployment,  16.1817,T1_19,Jake,,,,,,,,,,,Formicidae,Leptomyrmex,rufipes,38,2,No
+T1_19L.avi,  43589,  24.2404,Time Deployment,  22.8957,T1_19,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,2,No
+T1_19L.avi,  13382,   7.4419,Time Deployment,   6.0972,T1_19,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,No
+T1_19L.avi, 108302,  60.2280,Time Deployment,  58.8833,T1_19,Jake,,,,,,,,,,,Muscidae,Neomyia,sp,28,1,No
+T1_19L.avi,  16538,   9.1970,Time Deployment,   7.8523,T1_19,Jake,,,,,,,,,,,Order_Diptera,,,4,1,No
+T1_19L.avi,  39342,  21.8785,Time Deployment,  20.5339,T1_19,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T1_19L.avi,   6649,   3.6976,Time Deployment,   2.3529,T1_19,Jake,,,,,,,,,,,Order_Diptera,,sp3,,2,No
+T1_19L.avi,  48914,  27.2016,Time Deployment,  25.8570,T1_19,Jake,,,,,,,,,,,Order_Diptera,,sp5,,1,No
+T1_19L.avi,  56668,  31.5137,Time Deployment,  30.1691,T1_19,Jake,,,,,,,,,,,Order_Diptera,,sp6,,1,No
+T1_19L.avi,   5236,   2.9118,Time Deployment,   1.5671,T1_19,Jake,,,,,,,,,,,Syrphidae,Dideopsis,aegrota,10,1,No
+T1_19L.avi,  60920,  33.8783,Time Deployment,  32.5336,T1_19,Jake,,,,,,,,,,,Syrphidae,Sphaerophoria,sp,,1,No
+T1_19L.avi,  84760,  47.1360,Time Deployment,  45.7913,T1_19,Jake,,,,,,,,,,,Tiphiidae,,sp,,1,No

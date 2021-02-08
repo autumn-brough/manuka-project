@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:41
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_18L.avi,  68551,  38.1220,Time deployment,  37.7099,T1_18,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T1_18L.avi,  76814,  42.7171,Time deployment,  42.3050,T1_18,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,4,No
+T1_18L.avi,  40724,  22.6471,Time deployment,  22.2350,T1_18,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,No
+T1_18L.avi,   5245,   2.9168,Time deployment,   2.5047,T1_18,Jake,,,,,,,,,,,Order_Diptera,,sp3,,1,No
+T1_18L.avi,  76519,  42.5531,Time deployment,  42.1410,T1_18,Jake,,,,,,,,,,,Syrphidae,Dideopsis,aegrota,10,1,No

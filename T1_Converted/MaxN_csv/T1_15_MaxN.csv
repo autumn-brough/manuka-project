@@ -1,0 +1,16 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:41
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_15L.avi,  66925,  37.2177,Time deployment,  36.5699,T1_15,Jake,,,,,,,,,,,,,sp,,1,No
+T1_15L.avi,   6007,   3.3406,Time deployment,   2.6927,T1_15,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T1_15L.avi,  76705,  42.6565,Time deployment,  42.0086,T1_15,Jake,,,,,,,,,,,Calliphoridae,Calliphora,sp,63,1,No
+T1_15L.avi, 109986,  61.1644,Time deployment,  60.5166,T1_15,Jake,,,,,,,,,,,Crabronidae,Larra,sp,25,1,No
+T1_15L.avi,   2114,   1.1756,Time deployment,   0.5277,T1_15,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,2,No
+T1_15L.avi,  31225,  17.3646,Time deployment,  16.7167,T1_15,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,No
+T1_15L.avi,  10986,   6.1094,Time deployment,   5.4616,T1_15,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T1_15L.avi,  11469,   6.3780,Time deployment,   5.7302,T1_15,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,No
+T1_15L.avi, 101861,  56.6460,Time deployment,  55.9982,T1_15,Jake,,,,,,,,,,,Pompilidae,,sp,,1,No
+T1_15L.avi, 100113,  55.6740,Time deployment,  55.0261,T1_15,Jake,,,,,,,,,,,Tabanidae,,sp,,1,No
+T1_15L.avi,  78645,  43.7354,Time deployment,  43.0875,T1_15,Jake,,,,,,,,,,,Tabanidae,,sp1,,1,No

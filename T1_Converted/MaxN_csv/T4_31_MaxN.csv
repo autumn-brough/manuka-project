@@ -1,0 +1,14 @@
+MaxN
+
+Generated: Friday, February 01, 2019 14:31:12
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T4_31L.avi,  37908,  21.0811,Time deployment,  13.9968,T4_31,Jake,,,,,,,,,,,,,sp,,1,No
+T4_31L.avi,  71520,  39.7731,Time deployment,  32.6888,T4_31,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,3,No
+T4_31L.avi,  92074,  51.2034,Time deployment,  44.1191,T4_31,Jake,,,,,,,,,,,Curculionidae,,sp,,1,No
+T4_31L.avi,  82998,  46.1562,Time deployment,  39.0718,T4_31,Jake,,,,,,,,,,,Formicidae,,sp,,2,No
+T4_31L.avi,  16597,   9.2298,Time deployment,   2.1455,T4_31,Jake,,,,,,,,,,,Order_Araneae,,sp,,1,No
+T4_31L.avi,  12854,   7.1483,Time deployment,   0.0640,T4_31,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T4_31L.avi,  57162,  31.7885,Time deployment,  24.7041,T4_31,Jake,,,,,,,,,,,Order_Hymenoptera,,sp,,1,No
+T4_31L.avi,  90146,  50.1312,Time deployment,  43.0469,T4_31,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,No
+T4_31L.avi,  16183,   8.9996,Time deployment,   1.9152,T4_31,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,2,No

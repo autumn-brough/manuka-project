@@ -1,0 +1,41 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:09
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_14L.avi,  12945,   7.1989,Time deployment,   0.0261,672,1028,T2_14,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,,
+T2_14L.avi,  12945,   7.1989,Time deployment,   0.0261,205,1455,T2_14,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,,
+T2_14L.avi,  12945,   7.1989,Time deployment,   0.0261,816,1958,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  13554,   7.5375,Time deployment,   0.3648,1065,1987,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  13554,   7.5375,Time deployment,   0.3648,1059,1945,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  13554,   7.5375,Time deployment,   0.3648,826,1948,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  13554,   7.5375,Time deployment,   0.3648,887,1791,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  17856,   9.9299,Time deployment,   2.7572,663,2200,T2_14,Jake,,,,,,,,,,,Syrphidae,,sp,,1,AD,Passing,,,
+T2_14L.avi,  36688,  20.4026,Time deployment,  13.2299,1086,1818,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,1,Arrival
+T2_14L.avi,  70403,  39.1519,Time deployment,  31.9792,533,1850,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  70403,  39.1519,Time deployment,  31.9792,564,1845,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  70403,  39.1519,Time deployment,  31.9792,920,1809,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,
+T2_14L.avi,  70403,  39.1519,Time deployment,  31.9792,689,2274,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_14L.avi,  70403,  39.1519,Time deployment,  31.9792,596,2455,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_14L.avi,  70403,  39.1519,Time deployment,  31.9792,553,2557,T2_14,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_14L.avi,  78080,  43.4212,Time deployment,  36.2485,892,1827,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,2,New_flower
+T2_14L.avi,  80886,  44.9816,Time deployment,  37.8089,532,1776,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,3,New_flower
+T2_14L.avi,  82943,  46.1256,Time deployment,  38.9528,916,2023,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,2,
+T2_14L.avi,  82943,  46.1256,Time deployment,  38.9528,805,2116,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,4,
+T2_14L.avi,  83795,  46.5994,Time deployment,  39.4266,1100,1764,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,5,New_flower
+T2_14L.avi,  84441,  46.9586,Time deployment,  39.7859,895,1697,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  84441,  46.9586,Time deployment,  39.7859,772,1694,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  84441,  46.9586,Time deployment,  39.7859,525,2563,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,,
+T2_14L.avi,  87625,  48.7293,Time deployment,  41.5566,483,1907,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  87625,  48.7293,Time deployment,  41.5566,952,1984,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  87625,  48.7293,Time deployment,  41.5566,1381,1475,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,,
+T2_14L.avi,  87897,  48.8805,Time deployment,  41.7078,614,1717,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  87897,  48.8805,Time deployment,  41.7078,1013,1935,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  87897,  48.8805,Time deployment,  41.7078,1378,1483,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,,
+T2_14L.avi,  87897,  48.8805,Time deployment,  41.7078,504,2642,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,,
+T2_14L.avi,  89776,  49.9255,Time deployment,  42.7528,519,1750,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,6,New_flower
+T2_14L.avi,  94083,  52.3207,Time deployment,  45.1479,483,1689,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  94083,  52.3207,Time deployment,  45.1479,612,1796,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  94083,  52.3207,Time deployment,  45.1479,761,1648,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi,  94083,  52.3207,Time deployment,  45.1479,975,1999,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,,
+T2_14L.avi, 118472,  65.8837,Time deployment,  58.7109,1065,1773,T2_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,7,New_flower

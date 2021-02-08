@@ -1,0 +1,12 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_06L.avi,  20255,  11.2640,Time deployment,   0.0000,492,1486,T5_06,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,,
+T5_06L.avi,  36384,  20.2336,Time deployment,   8.9695,934,1981,T5_06,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting nectar,,1,New_flower
+T5_06L.avi,  76291,  42.4263,Time deployment,  31.1623,669,2421,T5_06,Jake,,,,,,,,,,,Order_Mantodea,,sp,,1,AD,Guarding bait,,,
+T5_06L.avi, 100067,  55.6484,Time deployment,  44.3844,957,1823,T5_06,Jake,,,,,,,,,,,Superfamily_Ichneumonoidea,,sp,,1,AD,Passing,,,
+T5_06L.avi, 100197,  55.7207,Time deployment,  44.4567,244,606,T5_06,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,2,New_flower
+T5_06L.avi, 125490,  69.7865,Time deployment,  58.5224,489,868,T5_06,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,3,Arrival
+T5_06L.avi, 125779,  69.9472,Time deployment,  58.6831,530,830,T5_06,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,3,Departure

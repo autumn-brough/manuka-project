@@ -1,0 +1,18 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:16:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T1_22L.avi,  34992,  19.4595,Time deployment,  12.1049,543,2306,T1_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,F,Collecting pollen or nectar,,1,New_flower
+T1_22L.avi,  38179,  21.2318,Time deployment,  13.8772,528,2673,T1_22,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,,Collecting nectar,,2,Arrival
+T1_22L.avi,  39186,  21.7918,Time deployment,  14.4372,730,1738,T1_22,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,,Collecting nectar,,3,Arrival
+T1_22L.avi,  39278,  21.8430,Time deployment,  14.4884,726,1681,T1_22,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,,Collecting nectar,,3,Departure
+T1_22L.avi,  39717,  22.0871,Time deployment,  14.7325,856,1787,T1_22,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,,Collecting nectar,,3,Arrival
+T1_22L.avi,  39780,  22.1221,Time deployment,  14.7675,830,1784,T1_22,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,,Collecting nectar,,3,Departure
+T1_22L.avi,  40862,  22.7238,Time deployment,  15.3693,826,1774,T1_22,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,,Collecting nectar,,3,Arrival
+T1_22L.avi,  40964,  22.7806,Time deployment,  15.4260,794,1756,T1_22,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,,Collecting nectar,,3,Departure
+T1_22L.avi,  46947,  26.1078,Time deployment,  18.7532,677,2321,T1_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,F,Collecting nectar,,4,New_flower
+T1_22L.avi,  92449,  51.4120,Time deployment,  44.0574,826,740,T1_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,F,Collecting nectar,,5,New_flower
+T1_22L.avi,  94518,  52.5626,Time deployment,  45.2080,766,699,T1_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,F,Collecting nectar,,5,
+T1_22L.avi, 101470,  56.4287,Time deployment,  49.0741,1111,2547,T1_22,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,,Collecting nectar,,6,Arrival
+T1_22L.avi, 101771,  56.5960,Time deployment,  49.2415,1139,2544,T1_22,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,,Collecting nectar,,6,Departure

@@ -1,0 +1,13 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_12L.avi,  15779,   8.7749,Time deployment,   1.6795,753,2075,T5_12,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,,New_flower
+T5_12L.avi,  15954,   8.8722,Time deployment,   1.7768,430,2454,T5_12,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Passing,,,
+T5_12L.avi,  21290,  11.8396,Time deployment,   4.7442,632,1368,T5_12,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,New_flower
+T5_12L.avi,  34282,  19.0646,Time deployment,  11.9692,988,1416,T5_12,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,New_flower
+T5_12L.avi,  34282,  19.0646,Time deployment,  11.9692,803,1493,T5_12,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,New_flower
+T5_12L.avi,  34282,  19.0646,Time deployment,  11.9692,710,1679,T5_12,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,New_flower
+T5_12L.avi,  57081,  31.7434,Time deployment,  24.6480,694,671,T5_12,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Passing,,,
+T5_12L.avi,  59519,  33.0992,Time deployment,  26.0038,262,1702,T5_12,Jake,,,,,,,,,,,Oxyopidae,Oxyopes,sp,39,1,AD,Guarding bait,,,

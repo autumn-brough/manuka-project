@@ -1,0 +1,16 @@
+MaxN
+
+Generated: Friday, February 01, 2019 14:31:11
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T4_13L.avi,  49163,  27.3401,Time deployment,   4.2476,T4_13,Jake,,,,,,,,,,,,,sp,,2,No
+T4_13L.avi,  58030,  32.2712,Time deployment,   9.1786,T4_13,Jake,,,,,,,,,,,,,sp1,,1,No
+T4_13L.avi,  41525,  23.0925,Time deployment,   0.0000,T4_13,Jake,,,,,,,,,,,,,sp2,,1,No
+T4_13L.avi,  98187,  54.6029,Time deployment,  31.5104,T4_13,Jake,,,,,,,,,,,,,sp3,,1,No
+T4_13L.avi, 114715,  63.7943,Time deployment,  40.7018,T4_13,Jake,,,,,,,,,,,,,sp4,,1,No
+T4_13L.avi, 107933,  60.0228,Time deployment,  36.9303,T4_13,Jake,,,,,,,,,,,Bombyliidae,,,,1,No
+T4_13L.avi, 139248,  77.4374,Time deployment,  54.3449,T4_13,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,11,No
+T4_13L.avi, 121687,  67.6716,Time deployment,  44.5790,T4_13,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,2,No
+T4_13L.avi,  43287,  24.0724,Time deployment,   0.9799,T4_13,Jake,,,,,,,,,,,Order_Hymenoptera,,sp,,1,No
+T4_13L.avi,  43681,  24.2915,Time deployment,   1.1990,T4_13,Jake,,,,,,,,,,,Order_Hymenoptera,,sp1,,1,No
+T4_13L.avi,  44153,  24.5540,Time deployment,   1.4615,T4_13,Jake,,,,,,,,,,,Order_Hymenoptera,,sp2,,1,No

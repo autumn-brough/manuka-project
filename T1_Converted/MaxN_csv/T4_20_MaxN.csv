@@ -1,0 +1,15 @@
+MaxN
+
+Generated: Friday, February 01, 2019 14:31:11
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T4_20L.avi,  38063,  21.1673,Time deployment,  10.0662,T4_20,Jake,,,,,,,,,,,,,sp,,1,No
+T4_20L.avi,  47593,  26.4670,Time deployment,  15.3659,T4_20,Jake,,,,,,,,,,,,,sp1,,1,No
+T4_20L.avi, 105635,  58.7449,Time deployment,  47.6438,T4_20,Jake,,,,,,,,,,,Anthophoridae,,,,1,No
+T4_20L.avi,  77184,  42.9229,Time deployment,  31.8218,T4_20,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T4_20L.avi,  30862,  17.1627,Time deployment,   6.0616,T4_20,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,No
+T4_20L.avi,  35751,  19.8815,Time deployment,   8.7804,T4_20,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,No
+T4_20L.avi,  50247,  27.9429,Time deployment,  16.8418,T4_20,Jake,,,,,,,,,,,Order_Araneae,,sp,,1,No
+T4_20L.avi, 114292,  63.5591,Time deployment,  52.4580,T4_20,Jake,,,,,,,,,,,Order_Diptera,,,4,1,No
+T4_20L.avi,  59895,  33.3083,Time deployment,  22.2072,T4_20,Jake,,,,,,,,,,,Order_Diptera,,sp,,2,No
+T4_20L.avi,  50731,  28.2121,Time deployment,  17.1110,T4_20,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,No

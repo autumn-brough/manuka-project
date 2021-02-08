@@ -1,0 +1,20 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:08
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_02L.avi,  17245,   9.5901,Time deployment,   6.2457,15,1643,T2_02,Jake,,,,,,,,,,,,,sp,,1,J,,,1,New_flower
+T2_02L.avi,  25165,  13.9946,Time deployment,  10.6501,1402,2035,T2_02,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T2_02L.avi,  25165,  13.9946,Time deployment,  10.6501,1446,2319,T2_02,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T2_02L.avi,  49734,  27.6577,Time deployment,  24.3132,764,2401,T2_02,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,2,New_flower
+T2_02L.avi,  50800,  28.2505,Time deployment,  24.9060,396,2424,T2_02,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Passing,,7,
+T2_02L.avi,  82057,  45.6329,Time deployment,  42.2884,738,2075,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Attracted,,3,
+T2_02L.avi,  82066,  45.6379,Time deployment,  42.2934,854,1804,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Collecting nectar,,3,Arrival
+T2_02L.avi,  82354,  45.7980,Time deployment,  42.4536,846,1815,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Collecting nectar,,3,Departure
+T2_02L.avi,  91738,  51.0166,Time deployment,  47.6721,726,2331,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Collecting nectar,,4,Arrival
+T2_02L.avi,  91826,  51.0655,Time deployment,  47.7211,726,2324,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Collecting nectar,,4,Departure
+T2_02L.avi,  93460,  51.9742,Time deployment,  48.6297,1060,1760,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Collecting nectar,,5,Arrival
+T2_02L.avi,  93604,  52.0543,Time deployment,  48.7098,1044,1660,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,Collecting nectar,,5,Departure
+T2_02L.avi,  95329,  53.0136,Time deployment,  49.6691,792,2689,T2_02,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T2_02L.avi,  95329,  53.0136,Time deployment,  49.6691,938,2567,T2_02,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T2_02L.avi,  99316,  55.2308,Time deployment,  51.8863,85,1084,T2_02,Jake,,,,,,,,,,,Tachinidae,,sp,,1,AD,,,6,

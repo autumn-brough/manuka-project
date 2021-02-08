@@ -1,0 +1,17 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_11L.avi,  19975,  11.1083,Time deployment,   0.0000,527,2134,T5_11,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,New_flower
+T5_11L.avi,  21588,  12.0053,Time deployment,   0.8970,965,1746,T5_11,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,J,Passing,,,
+T5_11L.avi,  24876,  13.8338,Time deployment,   2.7255,931,1658,T5_11,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,J,Collecting pollen or nectar,,1,Arrival
+T5_11L.avi,  25958,  14.4355,Time deployment,   3.3272,988,1003,T5_11,Jake,,,,,,,,,,,Order_Araneae,,sp,,1,AD,Guarding bait,,,
+T5_11L.avi,  46381,  25.7930,Time deployment,  14.6847,506,2259,T5_11,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,,New_flower
+T5_11L.avi,  46381,  25.7930,Time deployment,  14.6847,440,1804,T5_11,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_11L.avi,  59162,  32.9007,Time deployment,  21.7923,470,1321,T5_11,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_11L.avi,  59162,  32.9007,Time deployment,  21.7923,1239,1544,T5_11,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_11L.avi,  59162,  32.9007,Time deployment,  21.7923,528,2044,T5_11,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Passing,,,
+T5_11L.avi,  83801,  46.6027,Time deployment,  35.4944,890,1591,T5_11,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,J,Collecting pollen or nectar,,1,Departure
+T5_11L.avi, 100885,  56.1033,Time deployment,  44.9950,224,2043,T5_11,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,,
+T5_11L.avi, 109800,  61.0611,Time deployment,  49.9527,128,1828,T5_11,Jake,,,,,,,,,,,Clade_Anthophila,,sp,,1,AD,Passing,,,

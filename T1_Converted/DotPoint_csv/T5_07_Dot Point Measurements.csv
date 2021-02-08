@@ -1,0 +1,13 @@
+Dot Point Measurements
+
+Generated: Wednesday, February 13, 2019 07:39:39
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T5_07L.avi,  29195,  16.2357,Time deployment,   0.0000,668,1774,T5_07,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,3,New_flower
+T5_07L.avi,  29338,  16.3152,Time deployment,   0.0795,728,1686,T5_07,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting pollen or nectar,,1,Arrival
+T5_07L.avi,  29338,  16.3152,Time deployment,   0.0795,465,1233,T5_07,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,2,New_flower
+T5_07L.avi,  32722,  18.1971,Time deployment,   1.9614,1191,2440,T5_07,Jake,,,,,,,,,,,Order_Hymenoptera,,sp,,1,AD,Passing,,,
+T5_07L.avi,  32885,  18.2877,Time deployment,   2.0521,661,1776,T5_07,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,AD,Collecting pollen or nectar,,3,Departure
+T5_07L.avi,  41328,  22.9830,Time deployment,   6.7473,1003,2509,T5_07,Jake,,,,,,,,,,,Curculionidae,,sp,,1,AD,Passing,,,
+T5_07L.avi,  56880,  31.6316,Time deployment,  15.3960,1435,1661,T5_07,Jake,,,,,,,,,,,Geometridae,,sp,,1,J,Passing,,,
+T5_07L.avi,  91464,  50.8642,Time deployment,  34.6285,1137,738,T5_07,Jake,,,,,,,,,,,Scincidae,,sp,,1,AD,Guarding bait,,,

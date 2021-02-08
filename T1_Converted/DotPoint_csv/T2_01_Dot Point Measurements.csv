@@ -1,0 +1,31 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:08
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_01L.avi,  24705,  13.7387,Time deployment,   0.2519,283,2476,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,1,
+T2_01L.avi,  30513,  16.9686,Time deployment,   3.4818,1327,1691,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Passing,,2,
+T2_01L.avi,  45012,  25.0317,Time deployment,  11.5449,1397,1485,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_01L.avi,  48039,  26.7150,Time deployment,  13.2282,1502,1368,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_01L.avi,  50901,  28.3066,Time deployment,  14.8198,918,1372,T2_01,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,3,New_flower
+T2_01L.avi,  52664,  29.2871,Time deployment,  15.8002,942,1334,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_01L.avi,  55570,  30.9031,Time deployment,  17.4163,1512,1386,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_01L.avi,  57201,  31.8101,Time deployment,  18.3233,676,1507,T2_01,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,4,
+T2_01L.avi,  58811,  32.7055,Time deployment,  19.2187,1324,1444,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_01L.avi,  67992,  37.8111,Time deployment,  24.3243,787,1273,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Attracted,,5,
+T2_01L.avi,  68627,  38.1643,Time deployment,  24.6775,584,1892,T2_01,Jake,,,,,,,,,,,Formicidae,Iridomyrmex,purpureus,50,1,AD,Collecting pollen or nectar,,2,New_flower
+T2_01L.avi,  78682,  43.7560,Time deployment,  30.2692,1122,1421,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,6,
+T2_01L.avi,  79099,  43.9879,Time deployment,  30.5011,969,1372,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Attracted,,7,
+T2_01L.avi,  80415,  44.7197,Time deployment,  31.2329,795,2328,T2_01,Jake,,,,,,,,,,,,,sp,,1,J,Feeding,,8,
+T2_01L.avi,  87844,  48.8511,Time deployment,  35.3643,293,2274,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,9,
+T2_01L.avi,  88205,  49.0518,Time deployment,  35.5650,1302,1362,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting pollen or nectar,,10,New_flower
+T2_01L.avi,  94194,  52.3824,Time deployment,  38.8956,800,1295,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,11,New_flower
+T2_01L.avi, 108727,  60.4644,Time deployment,  46.9775,836,1290,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,11,
+T2_01L.avi, 108727,  60.4644,Time deployment,  46.9775,474,2125,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,12,
+T2_01L.avi, 110431,  61.4120,Time deployment,  47.9251,725,2337,T2_01,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,13,New_flower
+T2_01L.avi, 111765,  62.1538,Time deployment,  48.6670,887,1426,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,14,Arrival
+T2_01L.avi, 111898,  62.2278,Time deployment,  48.7410,897,1424,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,14,
+T2_01L.avi, 111898,  62.2278,Time deployment,  48.7410,270,2450,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,15,
+T2_01L.avi, 116169,  64.6029,Time deployment,  51.1161,782,1349,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,14,New_flower
+T2_01L.avi, 119871,  66.6617,Time deployment,  53.1748,259,2506,T2_01,Jake,,,,,,,,,,,Laridae,Sternula,sp,48,1,AD,Feeding,,16,
+T2_01L.avi, 123023,  68.4145,Time deployment,  54.9277,1492,1372,T2_01,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,14,Arrival

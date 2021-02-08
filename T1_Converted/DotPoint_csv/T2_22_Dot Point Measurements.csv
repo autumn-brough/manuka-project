@@ -1,0 +1,55 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:09
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T2_22L.avi,   5340,   2.9696,Time deployment,   1.9275,834,1658,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,1,New_flower
+T2_22L.avi,   7772,   4.3221,Time deployment,   3.2799,843,1501,T2_22,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Attracted,,2,
+T2_22L.avi,  10415,   5.7919,Time deployment,   4.7497,738,1958,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,3,New_flower
+T2_22L.avi,  10415,   5.7919,Time deployment,   4.7497,722,1982,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,4,New_flower
+T2_22L.avi,  23939,  13.3128,Time deployment,  12.2706,563,1900,T2_22,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Attracted,,5,
+T2_22L.avi,  31284,  17.3974,Time deployment,  16.3552,1152,1463,T2_22,Jake,,,,,,,,,,,Vespidae,,sp,,1,AD,Passing,,6,
+T2_22L.avi,  34847,  19.3788,Time deployment,  18.3367,201,1673,T2_22,Jake,,,,,,,,,,,Colletidae,Subfamily_Hylaeinae,sp,83,1,AD,Passing,,7,
+T2_22L.avi,  38408,  21.3591,Time deployment,  20.3170,648,1655,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,8,New_flower
+T2_22L.avi,  45346,  25.2174,Time deployment,  24.1753,923,1935,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,9,New_flower
+T2_22L.avi,  47516,  26.4242,Time deployment,  25.3820,705,1823,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Collecting nectar,,8,
+T2_22L.avi,  47516,  26.4242,Time deployment,  25.3820,1438,1665,T2_22,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,AD,Passing,,9,
+T2_22L.avi,  48145,  26.7740,Time deployment,  25.7318,612,2318,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,10,
+T2_22L.avi,  51985,  28.9095,Time deployment,  27.8673,812,1891,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,11,New_flower
+T2_22L.avi,  54804,  30.4771,Time deployment,  29.4350,740,2386,T2_22,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,AD,Passing,,12,
+T2_22L.avi,  56433,  31.3830,Time deployment,  30.3409,617,2275,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  56433,  31.3830,Time deployment,  30.3409,669,2182,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  56433,  31.3830,Time deployment,  30.3409,543,2472,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  60871,  33.8511,Time deployment,  32.8089,1016,1796,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,13,New_flower
+T2_22L.avi,  60871,  33.8511,Time deployment,  32.8089,982,1985,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,14,New_flower
+T2_22L.avi,  63311,  35.2080,Time deployment,  34.1658,671,2174,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  63311,  35.2080,Time deployment,  34.1658,699,2133,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  63311,  35.2080,Time deployment,  34.1658,749,2036,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  63311,  35.2080,Time deployment,  34.1658,1047,1930,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_22L.avi,  66044,  36.7278,Time deployment,  35.6857,756,2069,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  66044,  36.7278,Time deployment,  35.6857,1152,1778,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  66044,  36.7278,Time deployment,  35.6857,1134,1696,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  66044,  36.7278,Time deployment,  35.6857,1219,2617,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  66044,  36.7278,Time deployment,  35.6857,340,2661,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  66044,  36.7278,Time deployment,  35.6857,1080,1897,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,16,
+T2_22L.avi,  80277,  44.6430,Time deployment,  43.6008,802,2118,T2_22,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Passing,,15,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,1127,1709,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,1140,1689,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,1345,1521,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,569,2403,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,399,2632,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,308,2684,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  89624,  49.8410,Time deployment,  48.7988,365,2660,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  90213,  50.1685,Time deployment,  49.1263,996,1720,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,17,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,841,1722,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,923,1712,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,888,1961,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,548,1778,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Collecting nectar,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,1229,1719,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,510,2472,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,612,2318,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,666,2257,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,1481,2203,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,761,2044,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,1194,1977,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,
+T2_22L.avi,  99533,  55.3515,Time deployment,  54.3093,1253,1147,T2_22,Jake,,,,,,,,,,,Formicidae,Crematogaster,laeviceps,47,1,AD,Passing,,,

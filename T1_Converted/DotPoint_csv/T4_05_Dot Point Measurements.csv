@@ -1,0 +1,16 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:53
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_05L.avi,  54684,  30.4104,Time deployment,   6.9414,137,599,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,1,Arrival
+T4_05L.avi,  55551,  30.8926,Time deployment,   7.4235,223,303,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,1,Departure
+T4_05L.avi,  55556,  30.8953,Time deployment,   7.4263,234,304,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,1,Arrival
+T4_05L.avi,  59318,  32.9874,Time deployment,   9.5184,350,468,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,1,Departure
+T4_05L.avi, 104005,  57.8384,Time deployment,  34.3694,561,1262,T4_05,Jake,,,,,,,,,,,Sepsidae,Parapalaeosepsis,sp,67,1,AD,Collecting pollen or nectar,,2,Arrival
+T4_05L.avi, 104139,  57.9129,Time deployment,  34.4439,519,1190,T4_05,Jake,,,,,,,,,,,Sepsidae,Parapalaeosepsis,sp,67,1,AD,Collecting pollen or nectar,,2,Departure
+T4_05L.avi, 124314,  69.1325,Time deployment,  45.6634,308,593,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Arrival
+T4_05L.avi, 128540,  71.4826,Time deployment,  48.0136,422,615,T4_05,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,4,Arrival
+T4_05L.avi, 136625,  75.9788,Time deployment,  52.5097,422,512,T4_05,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Collecting pollen or nectar,,4,Departure
+T4_05L.avi, 143589,  79.8515,Time deployment,  56.3825,327,797,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Departure
+T4_05L.avi, 145208,  80.7519,Time deployment,  57.2828,299,578,T4_05,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,AD,Collecting pollen or nectar,,3,Arrival

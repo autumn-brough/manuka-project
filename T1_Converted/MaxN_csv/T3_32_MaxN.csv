@@ -1,0 +1,9 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:15:14
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T3_32L.avi, 107355,  59.7014,Time deployment,  52.5414,T3_32,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T3_32L.avi,  17693,   9.8393,Time deployment,   2.6793,T3_32,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T3_32L.avi,  50998,  28.3606,Time deployment,  21.2006,T3_32,Jake,,,,,,,,,,,Order_Lepidoptera,,sp,,1,No
+T3_32L.avi,  18065,  10.0462,Time deployment,   2.8862,T3_32,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,No

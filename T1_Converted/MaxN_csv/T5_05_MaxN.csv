@@ -1,0 +1,14 @@
+MaxN
+
+Generated: Wednesday, February 13, 2019 07:39:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T5_04L.avi,  32441,  18.0408,Time deployment,   4.9989,T5_04,Jake,,,,,,,,,,,,,,,1,No
+T5_04L.avi, 129011,  71.7445,Time deployment,  58.7026,T5_04,Jake,,,,,,,,,,,Bombyliidae,,,,1,No
+T5_04L.avi, 106270,  59.0980,Time deployment,  46.0561,T5_04,Jake,,,,,,,,,,,Formicidae,,sp,,3,No
+T5_04L.avi,  41446,  23.0486,Time deployment,  10.0067,T5_04,Jake,,,,,,,,,,,Lauxaniidae,Sapromyza,sp,24,1,No
+T5_04L.avi, 122723,  68.2477,Time deployment,  55.2058,T5_04,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,No
+T5_04L.avi,  43594,  24.2431,Time deployment,  11.2012,T5_04,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,2,No
+T5_04L.avi,  55677,  30.9626,Time deployment,  17.9207,T5_04,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T5_04L.avi,  77260,  42.9652,Time deployment,  29.9233,T5_04,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,No
+T5_04L.avi,  58412,  32.4836,Time deployment,  19.4417,T5_04,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,No

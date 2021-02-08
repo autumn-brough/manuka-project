@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:15:14
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T3_22L.avi,  30050,  16.7112,Time deployment,   8.6737,T3_22,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T3_22L.avi,  33616,  18.6942,Time deployment,  10.6568,T3_22,Jake,,,,,,,,,,,Nitidulidae,,sp,,1,No
+T3_22L.avi,  65282,  36.3041,Time deployment,  28.2666,T3_22,Jake,,,,,,,,,,,Order_Diptera,,sp,,2,No
+T3_22L.avi,  74072,  41.1923,Time deployment,  33.1548,T3_22,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,No
+T3_22L.avi,  27784,  15.4510,Time deployment,   7.4135,T3_22,Jake,,,,,,,,,,,Superfamily_Apoidea,,,40,1,No

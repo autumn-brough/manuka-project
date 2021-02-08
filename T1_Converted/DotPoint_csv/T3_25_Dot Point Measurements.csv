@@ -1,0 +1,13 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 11:17:21
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T3_25L.avi,  37685,  20.9571,Time deployment,  17.5581,707,1702,T3_25,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,1,
+T3_25L.avi,  52719,  29.3177,Time deployment,  25.9187,740,1773,T3_25,Jake,,,,,,,,,,,,,sp1,,1,AD,Passing,,2,
+T3_25L.avi,  61713,  34.3193,Time deployment,  30.9204,504,1886,T3_25,Jake,,,,,,,,,,,,,sp,,1,AD,Passing,,3,
+T3_25L.avi,  90573,  50.3687,Time deployment,  46.9697,106,2447,T3_25,Jake,,,,,,,,,,,Order_Diptera,,,4,1,AD,Passing,,,
+T3_25L.avi,  94690,  52.6582,Time deployment,  49.2593,402,2208,T3_25,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,Arrival
+T3_25L.avi,  94796,  52.7172,Time deployment,  49.3182,342,2265,T3_25,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,Departure
+T3_25L.avi,  94933,  52.7933,Time deployment,  49.3944,329,2238,T3_25,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,Arrival
+T3_25L.avi,  94969,  52.8134,Time deployment,  49.4144,332,2228,T3_25,Jake,,,,,,,,,,,,,sp,,1,AD,Collecting pollen or nectar,,4,Departure

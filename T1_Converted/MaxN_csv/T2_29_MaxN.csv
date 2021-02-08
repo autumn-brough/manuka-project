@@ -1,0 +1,10 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:15:00
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T2_29L.avi, 103259,  57.4235,Time deployment,  52.3729,T2_29,Jake,,,,,,,,,,,,,sp,,1,No
+T2_29L.avi,  76497,  42.5409,Time deployment,  37.4903,T2_29,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T2_29L.avi,  80446,  44.7370,Time deployment,  39.6864,T2_29,Jake,,,,,,,,,,,Order_Diptera,,,4,1,No
+T2_29L.avi,  12917,   7.1833,Time deployment,   2.1327,T2_29,Jake,,,,,,,,,,,Order_Diptera,,sp1,,1,No
+T2_29L.avi,  43113,  23.9756,Time deployment,  18.9250,T2_29,Jake,,,,,,,,,,,Syrphidae,,sp,,1,No

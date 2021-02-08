@@ -1,0 +1,15 @@
+MaxN
+
+Generated: Friday, February 01, 2019 11:14:42
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T1_27L.avi,  85616,  47.6121,Time deployment,  45.0562,T1_27,Jake,,,,,,,,,,,,,sp,,1,No
+T1_27L.avi,  38589,  21.4598,Time deployment,  18.9039,T1_27,Jake,,,,,,,,,,,Apidae,Amegilla,sp,16,1,No
+T1_27L.avi,  64871,  36.0755,Time deployment,  33.5196,T1_27,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T1_27L.avi,  75970,  42.2478,Time deployment,  39.6919,T1_27,Jake,,,,,,,,,,,Apidae,Tribe_Meliponini,sp,89,1,No
+T1_27L.avi,  19463,  10.8236,Time deployment,   8.2677,T1_27,Jake,,,,,,,,,,,Colletidae,Subfamily_Euryglossinae,sp,90,1,No
+T1_27L.avi,  20247,  11.2596,Time deployment,   8.7037,T1_27,Jake,,,,,,,,,,,Formicidae,,sp,,1,No
+T1_27L.avi,   9954,   5.5355,Time deployment,   2.9796,T1_27,Jake,,,,,,,,,,,Order_Coleoptera,,sp,,1,No
+T1_27L.avi,  70112,  38.9901,Time deployment,  36.4342,T1_27,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T1_27L.avi,  12658,   7.0393,Time deployment,   4.4834,T1_27,Jake,,,,,,,,,,,Order_Diptera,,sp7,,1,No
+T1_27L.avi,  70854,  39.4027,Time deployment,  36.8468,T1_27,Jake,,,,,,,,,,,Syrphidae,,sp,,1,No

@@ -1,0 +1,15 @@
+MaxN
+
+Generated: Friday, February 01, 2019 14:31:12
+
+Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
+T4_35L.avi,  71679,  39.8615,Time deployment,  19.1469,T4_35,Jake,,,,,,,,,,,,,sp,,1,No
+T4_35L.avi,  96993,  53.9389,Time deployment,  33.2243,T4_35,Jake,,,,,,,,,,,,,sp1,,1,No
+T4_35L.avi, 100835,  56.0755,Time deployment,  35.3609,T4_35,Jake,,,,,,,,,,,,,sp2,,1,No
+T4_35L.avi,  39655,  22.0526,Time deployment,   1.3380,T4_35,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,No
+T4_35L.avi,  43580,  24.2353,Time deployment,   3.5207,T4_35,Jake,,,,,,,,,,,Colletidae,,sp,,1,No
+T4_35L.avi,  38481,  21.3997,Time deployment,   0.6851,T4_35,Jake,,,,,,,,,,,Formicidae,,sp,,1,No
+T4_35L.avi,  71743,  39.8971,Time deployment,  19.1825,T4_35,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No
+T4_35L.avi,  77125,  42.8901,Time deployment,  22.1755,T4_35,Jake,,,,,,,,,,,Order_Hymenoptera,,sp,,1,No
+T4_35L.avi,  90757,  50.4710,Time deployment,  29.7564,T4_35,Jake,,,,,,,,,,,Order_Odonata,,sp,,1,No
+T4_35L.avi,  44998,  25.0239,Time deployment,   4.3093,T4_35,Jake,,,,,,,,,,,Vespidae,Polistes,sp,,1,No

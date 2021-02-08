@@ -1,0 +1,195 @@
+Dot Point Measurements
+
+Generated: Friday, February 01, 2019 14:30:55
+
+Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
+T4_33R.avi,  31172,  17.3351,Time deployment,   0.2519,640,1023,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,58,Arrival
+T4_33R.avi,  31574,  17.5587,Time deployment,   0.4755,671,989,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,58,Departure
+T4_33R.avi,  32616,  18.1381,Time deployment,   1.0549,483,2095,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,60,New_flower
+T4_33R.avi,  34580,  19.2303,Time deployment,   2.1471,684,2239,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,59,Arrival
+T4_33R.avi,  36190,  20.1257,Time deployment,   3.0425,702,2472,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,59,Departure
+T4_33R.avi,  36594,  20.3504,Time deployment,   3.2672,334,1706,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,60,Departure
+T4_33R.avi,  36725,  20.4232,Time deployment,   3.3400,687,2069,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,61,Arrival
+T4_33R.avi,  36758,  20.4416,Time deployment,   3.3584,741,2134,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,61,Departure
+T4_33R.avi,  36826,  20.4794,Time deployment,   3.3962,628,2113,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,62,Arrival
+T4_33R.avi,  37266,  20.7241,Time deployment,   3.6409,614,2144,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,62,Departure
+T4_33R.avi,  37732,  20.9832,Time deployment,   3.9000,767,1805,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,63,Arrival
+T4_33R.avi,  37767,  21.0027,Time deployment,   3.9195,776,1733,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,63,Departure
+T4_33R.avi,  37791,  21.0160,Time deployment,   3.9328,578,1799,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,63,Arrival
+T4_33R.avi,  38232,  21.2613,Time deployment,   4.1781,720,2318,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,64,Arrival
+T4_33R.avi,  38239,  21.2652,Time deployment,   4.1820,615,2311,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,64,Departure
+T4_33R.avi,  38309,  21.3041,Time deployment,   4.2209,396,1940,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,65,Arrival
+T4_33R.avi,  39501,  21.9670,Time deployment,   4.8838,501,1830,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,65,Departure
+T4_33R.avi,  39533,  21.9848,Time deployment,   4.9016,368,1581,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,63,Arrival
+T4_33R.avi,  39571,  22.0059,Time deployment,   4.9227,550,2077,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,63,Departure
+T4_33R.avi,  40345,  22.4363,Time deployment,   5.3531,314,1661,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,66,Arrival
+T4_33R.avi,  40355,  22.4419,Time deployment,   5.3587,283,1743,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,66,Departure
+T4_33R.avi,  40397,  22.4652,Time deployment,   5.3820,543,1807,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,66,Arrival
+T4_33R.avi,  40703,  22.6354,Time deployment,   5.5522,569,1925,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,66,Departure
+T4_33R.avi,  40779,  22.6777,Time deployment,   5.5945,900,2349,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,1,Arrival
+T4_33R.avi,  40855,  22.7199,Time deployment,   5.6367,692,959,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,68,Arrival
+T4_33R.avi,  40859,  22.7222,Time deployment,   5.6390,674,949,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,68,Departure
+T4_33R.avi,  43604,  24.2487,Time deployment,   7.1655,722,2306,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,1,Departure
+T4_33R.avi,  45375,  25.2336,Time deployment,   8.1504,748,2298,T4_33,Jake,,,,,,,,,,,Asilinae,,sp,,1,AD,Collecting pollen or nectar,,2,Arrival
+T4_33R.avi,  45381,  25.2369,Time deployment,   8.1537,723,2226,T4_33,Jake,,,,,,,,,,,Asilinae,,sp,,1,AD,Collecting pollen or nectar,,2,Departure
+T4_33R.avi,  45568,  25.3409,Time deployment,   8.2577,563,786,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Arrival
+T4_33R.avi,  45654,  25.3887,Time deployment,   8.3055,669,776,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Departure
+T4_33R.avi,  45697,  25.4126,Time deployment,   8.3294,681,1147,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Arrival
+T4_33R.avi,  46441,  25.8264,Time deployment,   8.7432,581,1041,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Departure
+T4_33R.avi,  46442,  25.8269,Time deployment,   8.7437,834,928,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Passing,,,
+T4_33R.avi,  46472,  25.8436,Time deployment,   8.7604,553,938,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Arrival
+T4_33R.avi,  46704,  25.9726,Time deployment,   8.8894,555,1021,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,3,Departure
+T4_33R.avi,  47229,  26.2646,Time deployment,   9.1814,568,1160,T4_33,Jake,,,,,,,,,,,Meliphagidae,Philemon,corniculatus,87,1,AD,Attracted,,4,
+T4_33R.avi,  48497,  26.9697,Time deployment,   9.8866,766,836,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Arrival
+T4_33R.avi,  51549,  28.6670,Time deployment,  11.5838,638,864,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Departure
+T4_33R.avi,  52493,  29.1920,Time deployment,  12.1088,291,1627,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Arrival
+T4_33R.avi,  52676,  29.2937,Time deployment,  12.2105,254,1663,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Departure
+T4_33R.avi,  52706,  29.3104,Time deployment,  12.2272,555,1665,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Arrival
+T4_33R.avi,  53839,  29.9405,Time deployment,  12.8573,479,1519,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Departure
+T4_33R.avi,  53968,  30.0122,Time deployment,  12.9290,885,2445,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Arrival
+T4_33R.avi,  54128,  30.1012,Time deployment,  13.0180,654,2311,T4_33,Jake,,,,,,,,,,,Suborder_Nematocera,,sp,,1,AD,Collecting pollen or nectar,,5,Departure
+T4_33R.avi,  56299,  31.3085,Time deployment,  14.2253,782,2213,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,6,Arrival
+T4_33R.avi,  56342,  31.3324,Time deployment,  14.2492,699,2041,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,6,Departure
+T4_33R.avi,  56357,  31.3408,Time deployment,  14.2576,532,2057,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Passing,,6,
+T4_33R.avi,  56357,  31.3408,Time deployment,  14.2576,444,942,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,7,Arrival
+T4_33R.avi,  56371,  31.3486,Time deployment,  14.2654,777,1982,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,6,Arrival
+T4_33R.avi,  56423,  31.3775,Time deployment,  14.2943,668,1653,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,6,Departure
+T4_33R.avi,  56651,  31.5043,Time deployment,  14.4211,363,1057,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,7,Departure
+T4_33R.avi,  56725,  31.5454,Time deployment,  14.4622,738,925,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,7,Arrival
+T4_33R.avi,  58471,  32.5164,Time deployment,  15.4332,576,2044,T4_33,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,8,New_flower
+T4_33R.avi,  58844,  32.7238,Time deployment,  15.6406,492,1650,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,9,Arrival
+T4_33R.avi,  59235,  32.9413,Time deployment,  15.8581,537,1961,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,9,Departure
+T4_33R.avi,  59288,  32.9707,Time deployment,  15.8876,954,2048,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,9,Arrival
+T4_33R.avi,  60203,  33.4796,Time deployment,  16.3964,645,1720,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,9,Departure
+T4_33R.avi,  60368,  33.5713,Time deployment,  16.4882,506,807,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,7,Departure
+T4_33R.avi,  60683,  33.7465,Time deployment,  16.6633,614,1678,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,10,Arrival
+T4_33R.avi,  61583,  34.2470,Time deployment,  17.1638,509,1396,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Arrival
+T4_33R.avi,  61583,  34.2470,Time deployment,  17.1638,506,1673,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,10,
+T4_33R.avi,  61721,  34.3238,Time deployment,  17.2406,463,1475,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Departure
+T4_33R.avi,  61893,  34.4194,Time deployment,  17.3362,1018,2254,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Arrival
+T4_33R.avi,  61984,  34.4700,Time deployment,  17.3868,658,1974,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,10,Departure
+T4_33R.avi,  62570,  34.7959,Time deployment,  17.7127,694,1160,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,12,Arrival
+T4_33R.avi,  63132,  35.1084,Time deployment,  18.0252,587,1129,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,12,Departure
+T4_33R.avi,  63176,  35.1329,Time deployment,  18.0497,818,2329,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Departure
+T4_33R.avi,  63324,  35.2152,Time deployment,  18.1320,1029,2252,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Arrival
+T4_33R.avi,  63515,  35.3214,Time deployment,  18.2382,956,2049,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Departure
+T4_33R.avi,  63552,  35.3420,Time deployment,  18.2588,671,2282,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Arrival
+T4_33R.avi,  63637,  35.3893,Time deployment,  18.3061,872,2211,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Departure
+T4_33R.avi,  63693,  35.4204,Time deployment,  18.3372,589,2344,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Arrival
+T4_33R.avi,  64872,  36.0761,Time deployment,  18.9929,350,1724,T4_33,Jake,,,,,,,,,,,Nymphalidae,,sp,,1,AD,Collecting nectar,,13,Arrival
+T4_33R.avi,  64876,  36.0783,Time deployment,  18.9951,353,1712,T4_33,Jake,,,,,,,,,,,Nymphalidae,,sp,,1,AD,Collecting nectar,,13,Departure
+T4_33R.avi,  65434,  36.3886,Time deployment,  19.3054,605,2143,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,11,Departure
+T4_33R.avi,  65501,  36.4259,Time deployment,  19.3427,360,1786,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,14,Arrival
+T4_33R.avi,  66327,  36.8852,Time deployment,  19.8020,473,1499,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,14,Departure
+T4_33R.avi,  74246,  41.2891,Time deployment,  24.2059,684,2339,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,15,Arrival
+T4_33R.avi,  75170,  41.8029,Time deployment,  24.7197,524,2187,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,15,Departure
+T4_33R.avi,  75589,  42.0359,Time deployment,  24.9527,726,1272,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,15,Arrival
+T4_33R.avi,  75843,  42.1772,Time deployment,  25.0940,674,1016,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,15,Departure
+T4_33R.avi,  75886,  42.2011,Time deployment,  25.1179,463,974,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,15,Arrival
+T4_33R.avi,  76765,  42.6899,Time deployment,  25.6067,442,810,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,15,Departure
+T4_33R.avi,  78706,  43.7693,Time deployment,  26.6861,785,1999,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,16,Arrival
+T4_33R.avi,  79090,  43.9829,Time deployment,  26.8997,414,1645,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,16,Departure
+T4_33R.avi,  79111,  43.9946,Time deployment,  26.9114,362,1737,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,16,Arrival
+T4_33R.avi,  79155,  44.0190,Time deployment,  26.9358,465,1930,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting nectar,,16,Departure
+T4_33R.avi,  79890,  44.4278,Time deployment,  27.3446,995,2321,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,17,Arrival
+T4_33R.avi,  80298,  44.6547,Time deployment,  27.5715,1047,2283,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,17,Departure
+T4_33R.avi,  83403,  46.3814,Time deployment,  29.2982,558,2252,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,18,New_flower
+T4_33R.avi,  84097,  46.7673,Time deployment,  29.6841,506,2228,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,18,Departure
+T4_33R.avi,  87269,  48.5313,Time deployment,  31.4481,800,2198,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,19,Arrival
+T4_33R.avi,  87272,  48.5330,Time deployment,  31.4498,870,2192,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,19,Departure
+T4_33R.avi,  87956,  48.9134,Time deployment,  31.8302,903,2010,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,20,Arrival
+T4_33R.avi,  88736,  49.3471,Time deployment,  32.2639,581,2221,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,20,
+T4_33R.avi,  88736,  49.3471,Time deployment,  32.2639,774,2665,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Attracted,,21,
+T4_33R.avi,  90238,  50.1824,Time deployment,  33.0992,259,1722,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,20,Departure
+T4_33R.avi,  90304,  50.2191,Time deployment,  33.1359,614,1080,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,20,Arrival
+T4_33R.avi,  90536,  50.3481,Time deployment,  33.2649,460,889,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,20,Departure
+T4_33R.avi,  92050,  51.1901,Time deployment,  34.1069,509,1812,T4_33,Jake,,,,,,,,,,,Formicidae,,sp,,1,AD,Collecting pollen or nectar,,21,New_flower
+T4_33R.avi,  95867,  53.3128,Time deployment,  36.2296,605,1786,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,22,Arrival
+T4_33R.avi,  96395,  53.6064,Time deployment,  36.5232,221,1571,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,22,Departure
+T4_33R.avi,  97440,  54.1875,Time deployment,  37.1043,545,1660,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,23,Arrival
+T4_33R.avi,  99133,  55.1290,Time deployment,  38.0458,538,1129,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,24,Arrival
+T4_33R.avi,  99188,  55.1596,Time deployment,  38.0764,872,1409,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,23,Departure
+T4_33R.avi,  99267,  55.2035,Time deployment,  38.1203,759,2138,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,23,Arrival
+T4_33R.avi,  99280,  55.2108,Time deployment,  38.1276,851,2468,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,23,Departure
+T4_33R.avi,  99304,  55.2241,Time deployment,  38.1409,422,1003,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,24,Departure
+T4_33R.avi,  99377,  55.2647,Time deployment,  38.1815,705,851,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,25,Arrival
+T4_33R.avi,  99496,  55.3309,Time deployment,  38.2477,669,895,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,25,Departure
+T4_33R.avi,  99660,  55.4221,Time deployment,  38.3389,785,1611,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,26,Arrival
+T4_33R.avi,  99696,  55.4421,Time deployment,  38.3589,614,2228,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,27,Arrival
+T4_33R.avi,  99793,  55.4961,Time deployment,  38.4129,794,2035,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,27,Departure
+T4_33R.avi, 100933,  56.1300,Time deployment,  39.0468,535,2259,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,28,New_flower
+T4_33R.avi, 100940,  56.1339,Time deployment,  39.0507,259,1341,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Passing,,,
+T4_33R.avi, 100940,  56.1339,Time deployment,  39.0507,250,1604,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,,
+T4_33R.avi, 100940,  56.1339,Time deployment,  39.0507,525,2275,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,,
+T4_33R.avi, 100981,  56.1567,Time deployment,  39.0735,605,2485,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,28,Departure
+T4_33R.avi, 101061,  56.2012,Time deployment,  39.1180,787,1612,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,29,Arrival
+T4_33R.avi, 101083,  56.2134,Time deployment,  39.1302,846,1786,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,29,Departure
+T4_33R.avi, 101107,  56.2268,Time deployment,  39.1436,367,1774,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,26,Departure
+T4_33R.avi, 101989,  56.7173,Time deployment,  39.6341,456,1475,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,30,New_flower
+T4_33R.avi, 102268,  56.8724,Time deployment,  39.7892,705,2319,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,31,Arrival
+T4_33R.avi, 102321,  56.9019,Time deployment,  39.8187,669,2339,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,31,Departure
+T4_33R.avi, 102603,  57.0587,Time deployment,  39.9755,682,1409,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,30,Departure
+T4_33R.avi, 103201,  57.3913,Time deployment,  40.3081,726,1373,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,32,Arrival
+T4_33R.avi, 103700,  57.6688,Time deployment,  40.5856,684,1750,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,33,Arrival
+T4_33R.avi, 103749,  57.6960,Time deployment,  40.6128,805,1925,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,33,Departure
+T4_33R.avi, 103950,  57.8078,Time deployment,  40.7246,645,2238,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,34,Arrival
+T4_33R.avi, 103967,  57.8173,Time deployment,  40.7341,686,2257,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,34,Departure
+T4_33R.avi, 105001,  58.3923,Time deployment,  41.3091,398,1429,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,32,Departure
+T4_33R.avi, 105090,  58.4418,Time deployment,  41.3586,884,2118,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,36,Arrival
+T4_33R.avi, 105907,  58.8961,Time deployment,  41.8129,636,1712,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,37,Arrival
+T4_33R.avi, 106510,  59.2315,Time deployment,  42.1483,628,933,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,38,Arrival
+T4_33R.avi, 107829,  59.9650,Time deployment,  42.8818,381,962,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,38,Departure
+T4_33R.avi, 110091,  61.2229,Time deployment,  44.1397,604,2465,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,36,Departure
+T4_33R.avi, 111780,  62.1622,Time deployment,  45.0790,612,1979,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,39,Arrival
+T4_33R.avi, 112514,  62.5703,Time deployment,  45.4872,537,1907,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,39,Departure
+T4_33R.avi, 112611,  62.6243,Time deployment,  45.5411,854,2398,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,40,Arrival
+T4_33R.avi, 112730,  62.6905,Time deployment,  45.6073,812,2563,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,40,Departure
+T4_33R.avi, 113019,  62.8512,Time deployment,  45.7680,841,2442,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Arrival
+T4_33R.avi, 114416,  63.6281,Time deployment,  46.5449,735,2192,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Departure
+T4_33R.avi, 114433,  63.6375,Time deployment,  46.5543,543,2238,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Arrival
+T4_33R.avi, 114633,  63.7487,Time deployment,  46.6656,460,2308,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Departure
+T4_33R.avi, 114726,  63.8005,Time deployment,  46.7173,561,1038,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Arrival
+T4_33R.avi, 114861,  63.8755,Time deployment,  46.7923,548,1111,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Departure
+T4_33R.avi, 114891,  63.8922,Time deployment,  46.8090,429,1010,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Arrival
+T4_33R.avi, 114962,  63.9317,Time deployment,  46.8485,322,887,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,41,Departure
+T4_33R.avi, 117935,  65.5850,Time deployment,  48.5018,555,1707,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,42,Arrival
+T4_33R.avi, 117948,  65.5923,Time deployment,  48.5091,550,1719,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,42,Departure
+T4_33R.avi, 117997,  65.6195,Time deployment,  48.5363,764,1562,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,42,Arrival
+T4_33R.avi, 118263,  65.7674,Time deployment,  48.6842,972,1935,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,42,Departure
+T4_33R.avi, 120178,  66.8324,Time deployment,  49.7492,735,1774,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,43,Arrival
+T4_33R.avi, 120329,  66.9164,Time deployment,  49.8332,641,1930,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,43,Departure
+T4_33R.avi, 120373,  66.9408,Time deployment,  49.8576,545,1958,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,43,Arrival
+T4_33R.avi, 120572,  67.0515,Time deployment,  49.9683,777,2565,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,43,Departure
+T4_33R.avi, 120994,  67.2862,Time deployment,  50.2030,785,2179,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,44,Arrival
+T4_33R.avi, 120997,  67.2878,Time deployment,  50.2046,774,2170,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,44,Departure
+T4_33R.avi, 121307,  67.4602,Time deployment,  50.3770,754,1638,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,46,Arrival
+T4_33R.avi, 121318,  67.4664,Time deployment,  50.3832,726,1555,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,46,Departure
+T4_33R.avi, 121322,  67.4686,Time deployment,  50.3854,836,2120,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,45,Arrival
+T4_33R.avi, 121336,  67.4764,Time deployment,  50.3932,877,2203,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,45,Departure
+T4_33R.avi, 122712,  68.2416,Time deployment,  51.1584,357,1784,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,47,Arrival
+T4_33R.avi, 122838,  68.3116,Time deployment,  51.2285,242,1534,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,47,Departure
+T4_33R.avi, 122926,  68.3606,Time deployment,  51.2774,746,905,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,47,Arrival
+T4_33R.avi, 123176,  68.4996,Time deployment,  51.4164,831,2193,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,48,Arrival
+T4_33R.avi, 123317,  68.5780,Time deployment,  51.4948,851,2383,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,48,Departure
+T4_33R.avi, 123404,  68.6264,Time deployment,  51.5432,993,2188,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,49,Arrival
+T4_33R.avi, 123574,  68.7209,Time deployment,  51.6377,669,995,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,47,Departure
+T4_33R.avi, 123645,  68.7604,Time deployment,  51.6772,730,833,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,50,Arrival
+T4_33R.avi, 123737,  68.8116,Time deployment,  51.7284,746,2264,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,49,Departure
+T4_33R.avi, 123865,  68.8828,Time deployment,  51.7996,740,864,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,50,Departure
+T4_33R.avi, 125551,  69.8204,Time deployment,  52.7372,654,2170,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,51,New_flower
+T4_33R.avi, 128637,  71.5365,Time deployment,  54.4533,726,2578,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,51,Departure
+T4_33R.avi, 129437,  71.9814,Time deployment,  54.8982,607,2391,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,52,Arrival
+T4_33R.avi, 129450,  71.9887,Time deployment,  54.9055,708,2493,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,52,Departure
+T4_33R.avi, 130098,  72.3490,Time deployment,  55.2658,707,1966,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,53,New_flower
+T4_33R.avi, 131426,  73.0875,Time deployment,  56.0043,365,2143,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,53,Departure
+T4_33R.avi, 131459,  73.1059,Time deployment,  56.0227,769,1622,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,53,Arrival
+T4_33R.avi, 133219,  74.0846,Time deployment,  57.0014,636,1799,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,54,Arrival
+T4_33R.avi, 133379,  74.1736,Time deployment,  57.0904,352,1542,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,53,Departure
+T4_33R.avi, 134080,  74.5635,Time deployment,  57.4803,537,1758,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,54,Departure
+T4_33R.avi, 134153,  74.6040,Time deployment,  57.5209,535,1643,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,55,Arrival
+T4_33R.avi, 134732,  74.9260,Time deployment,  57.8428,471,1691,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,55,Departure
+T4_33R.avi, 136595,  75.9621,Time deployment,  58.8789,861,1545,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,56,Arrival
+T4_33R.avi, 137742,  76.5999,Time deployment,  59.5167,306,1612,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,57,Arrival
+T4_33R.avi, 138058,  76.7757,Time deployment,  59.6925,365,1771,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,57,Departure
+T4_33R.avi, 138149,  76.8263,Time deployment,  59.7431,820,1764,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,57,Arrival
+T4_33R.avi, 138167,  76.8363,Time deployment,  59.7531,974,1940,T4_33,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,1,AD,Collecting pollen or nectar,,56,Departure
