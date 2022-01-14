@@ -1,0 +1,1 @@
+insect_id,first_frame,last_frame,mean_velocity,median_velocity,mean_relative_velocity,median_relative_velocity

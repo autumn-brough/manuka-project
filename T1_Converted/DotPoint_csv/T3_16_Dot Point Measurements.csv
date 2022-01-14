@@ -1,9 +1,0 @@
-Dot Point Measurements
-
-Generated: Friday, February 01, 2019 11:17:21
-
-Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
-T3_16L.avi,  51950,  28.8900,Time deployment,  16.6439,650,187,T3_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,1,
-T3_16L.avi,  75766,  42.1344,Time deployment,  29.8882,83,737,T3_16,Jake,,,,,,,,,,,Superfamily_Apoidea,,sp,,1,AD,Attracted,,2,
-T3_16L.avi,  80011,  44.4951,Time deployment,  32.2489,1193,1092,T3_16,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Attracted,,3,
-T3_16L.avi, 128286,  71.3413,Time deployment,  59.0952,399,1745,T3_16,Jake,,,,,,,,,,,,,sp,,1,AD,Attracted,,4,

@@ -1,9 +1,0 @@
-Dot Point Measurements
-
-Generated: Wednesday, February 13, 2019 07:39:40
-
-Filename,Frame,Time (mins),Period,Period time (mins),Image row,Image col,OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,Number,Stage,Activity,Flower ID,Animal ID,A/D
-T5_14L.avi,  90764,  50.4749,Time deployment,  48.6264,1136,1370,T5_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Passing,,,
-T5_14L.avi,  91515,  50.8926,Time deployment,  49.0440,856,1252,T5_14,Jake,,,,,,,,,,,Formicidae,Polyrhachis,sp,,1,AD,Collecting nectar,,,New_flower
-T5_14L.avi, 104850,  58.3083,Time deployment,  56.4598,599,455,T5_14,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,,
-T5_14L.avi, 106200,  59.0591,Time deployment,  57.2105,748,1110,T5_14,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,AD,Passing,,,

@@ -1,9 +1,0 @@
-MaxN
-
-Generated: Friday, February 01, 2019 14:31:12
-
-Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
-T4_30L.avi,  38583,  21.4565,Time deployment,   6.7284,T4_30,Jake,,,,,,,,,,,,,sp,,1,No
-T4_30L.avi,  29650,  16.4887,Time deployment,   1.7606,T4_30,Jake,,,,,,,,,,,Apidae,Apis,mellifera,2,4,No
-T4_30L.avi, 125224,  69.6385,Time deployment,  54.9105,T4_30,Jake,,,,,,,,,,,Formicidae,,sp,,4,No
-T4_30L.avi,  94112,  52.3368,Time deployment,  37.6087,T4_30,Jake,,,,,,,,,,,Order_Diptera,,sp,,1,No

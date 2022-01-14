@@ -1,9 +1,0 @@
-MaxN
-
-Generated: Friday, February 01, 2019 11:14:41
-
-Filename,Frame,Time (mins),Period,Period time (mins),OpCode,TapeReader,Depth,Comment,,,,,,,,,Family,Genus,Species,Code,MaxN,Has fed
-T1_20L.avi, 107750,  59.9210,Time deployment,  54.1870,T1_20,Jake,,,,,,,,,,,,,,,1,No
-T1_20L.avi, 117689,  65.4482,Time deployment,  59.7142,T1_20,Jake,,,,,,,,,,,Formicidae,Polyrhachis,ammon,35,1,No
-T1_20L.avi, 117689,  65.4482,Time deployment,  59.7142,T1_20,Jake,,,,,,,,,,,Formicidae,Polyrhachis,australis,30,1,No
-T1_20L.avi,  22990,  12.7850,Time deployment,   7.0509,T1_20,Jake,,,,,,,,,,,Formicidae,Polyrhachis,daemeli,9,1,No
