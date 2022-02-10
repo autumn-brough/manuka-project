@@ -1,14 +1,11 @@
 
-cd manuka_frames/results_json
+cd manuka_frames/results_json_single
+
 
 for MYFILE in *
 do
 
     echo "Found json file $MYFILE"
-
-    mkdir -p ../results_ul/${MYFILE%.*}
-
-    #python3 ../../convertPredictions.py ${MYFILE} ../results_ul/${MYFILE%.*}
 
     #python3 ../../inferVisitations.py ../results_ul/${MYFILE%.*} ../results_final/${MYFILE}
 
@@ -28,3 +25,6 @@ tail -n +2 -q *.csv > ../../complete_results_temp.csv
 sort ../../complete_results_temp.csv >> ../../complete_results.csv
 
 rm ../../complete_results_temp.csv
+
+echo "detectInsects.sh - done"
+
