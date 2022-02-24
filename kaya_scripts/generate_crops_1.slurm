@@ -38,7 +38,10 @@ if [ ! -d $SCRATCH ]; then
 fi 
 echo Working SCRATCH directory is $SCRATCH
 
-cat generate_crops_1.slurm | echo
+
+MYINDEX="1"
+
+cat generate_crops_${MYINDEX}.slurm | echo
 
 #############################################
 # now run our Python script file
@@ -47,28 +50,29 @@ mkdir -p ${SCRATCH}/frames/
 mkdir -p ${SCRATCH}/edited_frames/
 mkdir -p  ${MYGROUP}/videos_done/
 
-cd ${MYGROUP}/videos_1/ 
+cd ${MYGROUP}/videos_${MYINDEX}/ 
 
 for MYRECORDING in *;
 do
 
-    cd ${MYGROUP}/videos_1/${MYRECORDING}
+    cd ${MYGROUP}/videos_${MYINDEX}/${MYRECORDING}
 
 
     for MYFILE in *;
     do
 
 #        rm -r -f ${MYGROUP}/crops/${MYFILE%%.*}
-        mkdir -p ${MYGROUP}/crops/${MYRECORDING}/${MYFILE%%.*}
+        mkdir -p ${MYGROUP}/crops_${MYINDEX}/${MYRECORDING}/${MYFILE%%.*}
+        mkdir -p ${MYGROUP}/crop_lists/${MYRECORDING}/
 
         echo ${MYFILE%%.*}
-        python3 ~/code/cropVideo.py ${MYFILE} ${MYGROUP}/crops/${MYRECORDING}/${MYFILE%%.*} 
+        python3 ~/code/cropVideo.py ${MYFILE} ${MYGROUP}/crops_${MYINDEX}/${MYRECORDING}/${MYFILE%%.*}  ${MYGROUP}/crop_lists/${MYRECORDING}/${MYFILE%%.*}_crops.txt
 
     done
 
-    cd ${MYGROUP}/videos_1/ 
+    cd ${MYGROUP}/videos_${MYINDEX}/ 
 
-    mv ${MYRECORDING} ${MYGROUP}/videos_done/
+    #mv ${MYRECORDING} ${MYGROUP}/videos_done/
 
 done
 

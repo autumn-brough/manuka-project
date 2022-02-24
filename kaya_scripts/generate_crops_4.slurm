@@ -39,7 +39,7 @@ fi
 echo Working SCRATCH directory is $SCRATCH
 
 
-MYINDEX="2"
+MYINDEX="4"
 
 cat generate_crops_${MYINDEX}.slurm | echo
 
