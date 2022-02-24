@@ -281,7 +281,8 @@ for x in range(ORIGINAL_IMAGE_WIDTH-1):
 #cv2.imshow("img", thumbnail)
 #cv2.waitKey(0)
 
-cv2.imwrite(f'manuka_frames/heatmaps/{recording_name}-{video_file_name}.jpg', thumbnail)
+cv2.imwrite(f'{recording_name}-{video_file_name}.jpg', thumbnail)
+print(f'{recording_name}-{video_file_name}.jpg')
 
 cv2.destroyAllWindows()
 
@@ -336,16 +337,17 @@ for obj_key in object_tracks.keys():
     frames_stationary = 0
     max_frames_stationary = 0
     for i in range(len(velocities)):
-        print(f"{i}: Moved with velocity {velocities[i]} to position {positions[i+1]}")
+        if verbose:
+            print(f"{i}: Moved with velocity {velocities[i]} to position {positions[i+1]}")
         if rel_velocities[i] <= 0.1:
             frames_stationary += 1
             max_frames_stationary = max(max_frames_stationary, frames_stationary)
         else:
             frames_stationary = 0
     
-    print(f"\nMean velocity {mean_velocity};\t\tMedian velocity {median_velocity}")
-    
-    print(f"Relative mean velocity {mean_rel_velocity};\tRelative median velocity {median_rel_velocity}\n")
+    if verbose:
+        print(f"\nMean velocity {mean_velocity};\t\tMedian velocity {median_velocity}")
+        print(f"Relative mean velocity {mean_rel_velocity};\tRelative median velocity {median_rel_velocity}\n")
 
     # check if we want to keep the recording
     if object_tracks[obj_key]['last_appearance'] - object_tracks[obj_key]['first_appearance'] >= MINIMUM_TRACK_LENGTH:
