@@ -1,9 +1,13 @@
 #!/usr/bin/python3
 
 ### Autumn Brough
-### Receives a file of labels (in darknet JSON format), and performs tracking to count the object instances
+### Receives a directory of file of labels (in darknet JSON format), and performs tracking to count the object instances
 ### Outputs the list of visitations to a CSV file
 ### Usage: python3 path/to/original/labels output/csv.csv
+### python3 inferVisitations.py manuka_frames/results_json/2021-10-17-A-1200/ manuka_frames/results_final/2021-10-17-A-1200.csv
+
+
+
 
 # -*- coding: utf-8 -*-
 import argparse
@@ -18,30 +22,20 @@ import numpy as np
 import scipy.stats
 
 parser = argparse.ArgumentParser()
-parser.add_argument("input_json", help="input json")
+parser.add_argument("input_dir", help="input dir")
 parser.add_argument("output_csv", help="output directory for frames and labels")
 #parser.add_argument("output_img", help="place to save heatmap image")
 
 args = parser.parse_args()
 
+verbose = False
+
 # read observations from json file
 # observations is a dict keyed by the frame number
 
-INPUT_JSON = args.input_json
-with open(INPUT_JSON, 'r') as myfile:
-    detection_data = myfile.read()
-
-detection_data = json.loads(detection_data)
-observations = {}
-latest_frame = -1
-for frame_data in detection_data:
-    for o in frame_data['objects']:
-        frame_number = int(frame_data['filename'].split('_')[1])
-        latest_frame = max(latest_frame, frame_number)
-        if frame_number in observations.keys():
-            observations[frame_number] += [o]
-        else:
-            observations[frame_number] = [o]
+INPUT_DIR = args.input_dir
+input_files = os.listdir(INPUT_DIR)
+input_files.sort()
 
 OUTPUT_CSV = args.output_csv
 
@@ -53,8 +47,53 @@ ORIGINAL_IMAGE_HEIGHT = 1520
 frames_tracked = 0
 MAX_FRAMES_TRACKED = -1
 
-MINIMUM_CONFIDENCE_THRESHOLD = 0.4
+MINIMUM_CONFIDENCE_THRESHOLD = 0.6
 MINIMUM_TRACK_LENGTH = 10
+
+
+
+observations = {}
+
+total_observations = 0
+total_prev_vid_frames = 0
+
+# Iterate through all files *.txt the labels directory
+for filename in input_files:
+    if (filename[-4:] == '.txt'):
+
+        print(filename)
+
+        with open(f'{INPUT_DIR}/{filename}', 'r') as myfile:
+            detection_data = myfile.read()
+
+        try:
+
+            detection_data = json.loads(detection_data)
+            latest_video_frame = -1
+            # detection data is list of frames, which contain multiple objects
+            for frame_data in detection_data:
+                for o in frame_data['objects']:
+                    if o['confidence'] > MINIMUM_CONFIDENCE_THRESHOLD:
+                        video_frame_number = int(frame_data['filename'].split('_')[1])
+                        latest_video_frame = max(latest_video_frame, video_frame_number)
+                        if video_frame_number in observations.keys():
+                            observations[video_frame_number] += [o]
+                        else:
+                            observations[video_frame_number] = [o]
+                        total_observations += 1
+                        if verbose:
+                            print(o)
+                #print(observations,frame_data)
+
+            total_prev_vid_frames += latest_video_frame
+        
+        except: 
+
+            print("Failed to open JSON")
+
+print(f"TOTAL OBSERVATIONS: {total_observations}")
+print(f"TOTAL FRAMES: {total_prev_vid_frames}")
+print(f"TOTAL VID TIME: {int(total_prev_vid_frames / 1800)}m {int((total_prev_vid_frames % 1800)/30)}s")
 
 # configure tracker with the maximum number of frames it's ok for a bee to disappear
 
@@ -62,133 +101,8 @@ MAX_DISAPPEARED_FRAMES = 10
 ct = CentroidTracker(MAX_DISAPPEARED_FRAMES)
 object_tracks = {}
 
-# guide to what recordings were taken when
-recordings_map = {
-    '2021-10-17-A-0900/GOPR0125':'',
-    '2021-10-17-A-1200/GOPR0126':'',
-    '2021-10-17-A-1500/GOPR2122':'',
-    '2021-10-17-B-0900/GOPR0127':'',
-    '2021-10-17-B-1200/GOPR0131':'',
-    '2021-10-17-B-1500/GOPR0128':'',
-    '2021-10-17-C-0900/GOPR0177':'',
-    '2021-10-17-C-1200/GOPR0178':'',
-    '2021-10-17-C-1500/GOPR0091':'',
-    '2021-10-17-D-0900/GOPR0150':'',
-    '2021-10-17-D-1200/GOPR0151':'',
-    '2021-10-17-D-1500/GOPR0128':'',
-    '2021-10-24-A-0900/GOPR0127':'',
-    '2021-10-24-A-1200/GOPR0128':'',
-    '2021-10-24-A-1500/GOPR2123':'',
-    '2021-10-24-B-0900/GOPR0180':'',
-    '2021-10-24-B-1200/GOPR0181':'',
-    '2021-10-24-B-1500/GOPR0092':'',
-    '2021-10-24-C-0900/GOPR0129':'',
-    '2021-10-24-C-1200/GOPR0131':'',
-    '2021-10-24-C-1500/GOPR0132':'',
-    '2021-10-24-D-0900/GOPR0152':'',
-    '2021-10-24-D-0900/GOPR0153':'',
-    '2021-10-24-D-1200/GOPR0154':'',
-    '2021-10-24-D-1500/GOPR0129':'',
-    '2021-10-31-A-0900/GOPR0133':'',
-    '2021-10-31-A-1200/GOPR0134':'',
-    '2021-10-31-A-1500/GOPR0158':'',
-    '2021-10-31-B-0900/GOPR0135':'',
-    '2021-10-31-B-1200/GOPR0158':'',
-    '2021-10-31-B-1500/GOPR0136':'',
-    '2021-10-31-C-0900/GOPR2128':'',
-    '2021-10-31-C-0900/GOPR2129':'',
-    '2021-10-31-C-1200/GOPR2130':'',
-    '2021-10-31-C-1200/GOPR2131':'',
-    '2021-10-31-C-1500/GOPR2127':'',
-    '2021-10-31-D-0900/GOPR0187':'',
-    '2021-10-31-D-0900/GOPR0188':'',
-    '2021-10-31-D-1200/GOPR0189':'',
-    '2021-10-31-D-1200/GOPR0190':'',
-    '2021-10-31-D-1500/GOPR0106':'',
-    '2021-10-17-A-0900/GOPR0125':'',
-    '2021-10-17-A-1200/GOPR0126':'',
-    '2021-10-17-A-1500/GOPR2122':'',
-    '2021-10-17-B-0900/GOPR0127':'',
-    '2021-10-17-B-1200/GOPR0131':'',
-    '2021-10-17-B-1500/GOPR0128':'',
-    '2021-10-17-C-0900/GOPR0177':'',
-    '2021-10-17-C-1200/GOPR0178':'',
-    '2021-10-17-C-1500/GOPR0091':'',
-    '2021-10-17-D-0900/GOPR0150':'',
-    '2021-10-17-D-1200/GOPR0151':'',
-    '2021-10-17-D-1500/GOPR0128':''
-
-}
-
-recordings_map = {
-    'GOPR0125': '2021-10-17-A-0900',
-    'GOPR0126': '2021-10-17-A-1200',
-    'GOPR2122': '2021-10-17-A-1500',
-    'GOPR0127': '2021-10-17-B-0900',
-    'GOPR0131': '2021-10-17-B-1200',
-    'GOPR0128': '2021-10-17-B-1500',
-    'GOPR0177': '2021-10-17-C-0900',
-    'GOPR0178': '2021-10-17-C-1200',
-    'GOPR0091': '2021-10-17-C-1500',
-    'GOPR0150': '2021-10-17-D-0900',
-    'GOPR0151': '2021-10-17-D-1200',
-    'GOPR0128': '2021-10-17-D-1500',
-
-
-    'GOPR0127': '2021-10-24-A-0900',
-    'GOPR0128': '2021-10-24-A-1200',
-    'GOPR2123': '2021-10-24-A-1500',
-    'GOPR0180': '2021-10-24-B-0900',
-    'GOPR0181': '2021-10-24-B-1200',
-    'GOPR0092': '2021-10-24-B-1500',
-    'GOPR0129': '2021-10-24-C-0900',
-    'GOPR0131': '2021-10-24-C-1200',
-    'GOPR0132': '2021-10-24-C-1500',
-    'GOPR0152': '2021-10-24-D-0900',
-    'GOPR0153': '2021-10-24-D-0900',
-    'GOPR0154': '2021-10-24-D-1200',
-    'GOPR0129': '2021-10-24-D-1500',
-
-    'GOPR0133': '2021-10-31-A-0900',
-    'GOPR0134': '2021-10-31-A-1200',
-    'GOPR0158': '2021-10-31-A-1500',
-    'GOPR0135': '2021-10-31-B-0900',
-    'GOPR0158': '2021-10-31-B-1200',
-    'GOPR0136': '2021-10-31-B-1500',
-    'GOPR2128': '2021-10-31-C-0900',
-    'GOPR2129': '2021-10-31-C-0900',
-    'GOPR2130': '2021-10-31-C-1200',
-    'GOPR2131': '2021-10-31-C-1200',
-    'GOPR2127': '2021-10-31-C-1500',
-    'GOPR0187': '2021-10-31-D-0900',
-    'GOPR0188': '2021-10-31-D-0900',
-    'GOPR0189': '2021-10-31-D-1200',
-    'GOPR0190': '2021-10-31-D-1200',
-    'GOPR0106': '2021-10-31-D-1500',
-
-
-    'GOPR0125': '2021-10-17-A-0900',
-    'GOPR0126': '2021-10-17-A-1200',
-    'GOPR2122': '2021-10-17-A-1500',
-    'GOPR0127': '2021-10-17-B-0900',
-    'GOPR0131': '2021-10-17-B-1200',
-    'GOPR0128': '2021-10-17-B-1500',
-    'GOPR0177': '2021-10-17-C-0900',
-    'GOPR0178': '2021-10-17-C-1200',
-    'GOPR0091': '2021-10-17-C-1500',
-    'GOPR0150': '2021-10-17-D-0900',
-    'GOPR0151': '2021-10-17-D-1200',
-    'GOPR0128': '2021-10-17-D-1500',
-
-}
 
 density = np.zeros((ORIGINAL_IMAGE_WIDTH, ORIGINAL_IMAGE_HEIGHT))
-
-video_file_name = INPUT_JSON.split('/')[-1]
-if 'GOPR' + video_file_name[-8:-4] in recordings_map.keys():
-    recording_name = recordings_map['GOPR' + video_file_name[-8:-4]]
-else: 
-    recording_name = 'recording tbd'
 
 def eucDistance(pos_a, pos_b):
     dx = float(pos_b[0] - pos_a[0])
@@ -199,7 +113,7 @@ def eucDistance(pos_a, pos_b):
 
 # iterate through all frame numbers and check their observations
 
-for frame_number in range(latest_frame):
+for frame_number in range(latest_video_frame):
     output_text = ""
     output_filename = str(frame_number).zfill(6) + ".txt"
 
@@ -262,7 +176,7 @@ density = cv2.GaussianBlur(density,(5,5),cv2.BORDER_DEFAULT)
 #density_heatmap = cv2.applyColorMap(density, cv2.COLORMAP_JET)
 #blurred_density = scipy.stats.gaussian_kde(density)
 
-thumbnail = cv2.imread('../thumbnails/2021-10-17-C-1500.png') 
+thumbnail = cv2.imread(f'../thumbnails/{INPUT_DIR}.jpg') 
 thumbnail = cv2.cvtColor(thumbnail,cv2.COLOR_RGB2HSV)
 
 
@@ -281,8 +195,8 @@ for x in range(ORIGINAL_IMAGE_WIDTH-1):
 #cv2.imshow("img", thumbnail)
 #cv2.waitKey(0)
 
-cv2.imwrite(f'{recording_name}-{video_file_name}.jpg', thumbnail)
-print(f'{recording_name}-{video_file_name}.jpg')
+cv2.imwrite(f'../heatmaps/{INPUT_DIR}.jpg', thumbnail)
+print(f'../heatmaps/{INPUT_DIR}.jpg')
 
 cv2.destroyAllWindows()
 
@@ -333,7 +247,8 @@ for obj_key in object_tracks.keys():
     # print information
     # and analyse for landings
 
-    print(f"Object {obj_key} appeared at position {positions[0]} on frame {first_appearance}")
+    if verbose:
+        print(f"Object {obj_key} appeared at position {positions[0]} on frame {first_appearance}")
     frames_stationary = 0
     max_frames_stationary = 0
     for i in range(len(velocities)):
@@ -354,8 +269,8 @@ for obj_key in object_tracks.keys():
 
         # write this bee object's information to the csv
         csv_writer.writerow([
-            recording_name,
-            video_file_name,
+            INPUT_DIR,
+            input_files[0],
             obj_key,
             object_tracks[obj_key]['first_appearance'],
             object_tracks[obj_key]['last_appearance'],
@@ -368,3 +283,10 @@ for obj_key in object_tracks.keys():
 
 
 out_file.close()
+
+
+
+
+
+
+# ./darknet detector test yolov4-csp-obj.cfg backup/yolov4-csp-obj_final.weights data/test.txt

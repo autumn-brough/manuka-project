@@ -72,7 +72,7 @@ do
 
     cd ${MYGROUP}/videos_${MYINDEX}/ 
 
-    #mv ${MYRECORDING} ${MYGROUP}/videos_done/
+    mv ${MYRECORDING} ${MYGROUP}/videos_done/
 
 done
 
@@ -88,5 +88,4 @@ done
 echo
 echo "Job started  at $start_time"
 echo "Job finished at `date`"
-
 
